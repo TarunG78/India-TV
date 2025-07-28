@@ -1,4 +1,4 @@
-Inport Json
+import json
 
 # Your JSON data (list of channel dictionaries)
 channels = [
