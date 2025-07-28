@@ -1,11 +1,11 @@
 import json
 import sys
 
-def json_to_m3u(channels.json, playlist.m3u):
-    with open(json_file, "r") as f:
+def json_to_m3u(channels_file, playlist_file):
+    with open(channels_file, "r") as f:
         channels = json.load(f)
 
-    with open(m3u_file, "w") as m3u:
+    with open(playlist_file, "w") as m3u:
         m3u.write("#EXTM3U\n")
         for channel in channels:
             m3u.write(
@@ -20,4 +20,5 @@ if __name__ == "__main__":
     else:
         input_file = 'channels.json'
         output_file = 'playlist.m3u'
-    json_to_m3u(channels.json, playlist.m3u)
+
+    json_to_m3u(input_file, output_file)
