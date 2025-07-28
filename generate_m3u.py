@@ -1,10 +1,7 @@
-import json
+
 
 # Your JSON data (list of channel dictionaries)
-{
-  "date": "2025-07-26 14:20:46",
-  "channels": {
-    "BANGLA": [
+channels = [
       {
         "name": "BTV",
         "logo": "https://ssl.com.bd/sites/default/files/BTV%20Logo%20Gallery.png",
@@ -9961,7 +9958,7 @@ def generate_m3u(channels):
     return playlist
 
 # Generate playlist content
-m3u_content = generate_m3u
+m3u_content = generate_m3u(channels)
 
 # Save to a file
 with open("channels.m3u", "w", encoding="utf-8") as file:
