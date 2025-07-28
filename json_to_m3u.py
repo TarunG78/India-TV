@@ -20,4 +20,4 @@ if __name__ == "__main__":
     else:
         input_file = 'channels.json'
         output_file = 'playlist.m3u'
-    json_to_m3u(input_file, output_file)
+    json_to_m3u(channels.json, playlist.m3u)
