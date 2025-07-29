@@ -9,7 +9,8 @@ def json_to_m3u(channels_file, playlist_file):
         m3u.write("#EXTM3U\n")
         for channel in channels:
             m3u.write(
-                f'#EXTINF:-1 tvg-id="{channel["id"]}" tvg-name="{channel["name"]}" tvg-logo="{channel["logo"]}" group-title="{channel["group"]}",{channel["name"]}\n'
+                f'#EXTINF:-1 tvg-id="{channel["id"]}" tvg-name="{channel["name"]}" '
+                f'tvg-logo="{channel["logo"]}" group-title="{channel["group"]}",{channel["name"]}\n'
                 f'{channel["url"]}\n'
             )
 
