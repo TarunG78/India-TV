@@ -21,7 +21,7 @@ jobs:
 
       - name: Commit and push changes
         env:
-         GITHUB_TOKEN: ${{ secrets.MY_PERSONAL_ACCESS_TOKEN_R }}  # Usar tu token personal
+         GITHUB_TOKEN: ${{ secrets.MY_PERSONAL_ACCESS_TOKEN_RL }}  # Usar tu token personal
         run: |
          git config --global user.name "github-actions[bot]"
          git config --global user.email "github-actions[bot]@users.noreply.github.com"
