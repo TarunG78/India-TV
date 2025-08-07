@@ -1,225 +1,584 @@
 [
   {
-    "name": "7S Music (576p) [Not 24/7]",
-    "type": "Music",
-    "url": "http://103.199.161.254/Content/7smusic/Live/Channel(7smusic)/index.m3u8",
-    "img": "https://i.imgur.com/zDiIhdN.png"
+    "name": "6 TV Telugu (720p)",
+    "type": "News",
+    "url": "https://cdn-1.pishow.tv/live/232/master.m3u8",
+    "img": "https://i.imgur.com/l3EcRnZ.png"
   },
   {
-    "name": "9x Jhakaas",
-    "type": "Music",
-    "url": "https://amg01281-9xmediapvtltd-9xjhakaas-samsungin-ci2cs.amagi.tv/playlist/amg01281-9xmediapvtltd-9xjhakaas-samsungin/playlist.m3u8",
-    "img": "https://i.imgur.com/aZ0f85I.png"
+    "name": "10 TV (720p)",
+    "type": "News",
+    "url": "https://cdn-1.pishow.tv/live/391/master.m3u8",
+    "img": "https://i.imgur.com/TauWtuJ.png"
   },
   {
-    "name": "9X Tashan",
-    "type": "Music",
-    "url": "https://amg01281-9xmediapvtltd-9xtashan-samsungin-xz1sd.amagi.tv/playlist/amg01281-9xmediapvtltd-9xtashan-samsungin/playlist.m3u8",
-    "img": "https://i.imgur.com/MMR1RMF.png"
+    "name": "99TV (720p)",
+    "type": "News",
+    "url": "https://cdn-1.pishow.tv/live/1211/master.m3u8",
+    "img": "https://i.imgur.com/dZA4gel.png"
   },
   {
-    "name": "9XM (576p)",
-    "type": "Music",
-    "url": "https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/9xm/23886666-8fc5-470f-aab1-bd637ed607b1/3.m3u8",
-    "img": "https://i.imgur.com/F17QtN2.png"
+    "name": "A1 TV Rajasthan (720p)",
+    "type": "News",
+    "url": "https://5b48d7e1b4bce.streamlock.net/myapp/a1live/playlist.m3u8",
+    "img": "https://i.imgur.com/XJA3bh1.png"
   },
   {
-    "name": "Adipoli (1080p)",
-    "type": "Music",
-    "url": "https://live.hungama.com/linear/adipoli/playlist.m3u8",
-    "img": "https://i.imgur.com/K62w3Hu.png"
+    "name": "Aaj Tak (404p)",
+    "type": "News",
+    "url": "https://aajtaklive-amd.akamaized.net/hls/live/2014416/aajtak/aajtaklive/live_404p/chunks.m3u8",
+    "img": "https://i.imgur.com/RpIdCB3.png"
   },
   {
-    "name": "Artist Aloud (1080p) [Not 24/7]",
-    "type": "Music",
-    "url": "https://live.hungama.com/linear/artist-aloud/playlist.m3u8",
-    "img": "https://i.imgur.com/urLlfSo.png"
+    "name": "ABN Andhra Jyoti (720p)",
+    "type": "News",
+    "url": "https://cdn-1.pishow.tv/live/407/master.m3u8",
+    "img": "https://i.imgur.com/gcoiZJ3.png"
   },
   {
-    "name": "B4U Music India (576p)",
-    "type": "Music",
-    "url": "http://183.89.246.119:8881/play/a08o/index.m3u8",
-    "img": "https://i.imgur.com/KSxPLJA.png"
+    "name": "ABP Ananda (1080p)",
+    "type": "News",
+    "url": "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/abp-ananda/master.m3u8",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/ABP_Ananda_logo.svg/512px-ABP_Ananda_logo.svg.png"
   },
   {
-    "name": "Balle Balle (720p)",
-    "type": "Music",
-    "url": "https://mcncdndigital.com/balleballetv/index.m3u8",
-    "img": "https://i.imgur.com/oxkkWH5.png"
+    "name": "ABP Asmita (1080p)",
+    "type": "News",
+    "url": "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/abp-asmita/master.m3u8",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/ABP_Asmita_logo.svg/512px-ABP_Asmita_logo.svg.png"
   },
   {
-    "name": "Boogle Bollywood (1080p) [Not 24/7]",
-    "type": "Music",
-    "url": "http://live.agmediachandigarh.com/booglebollywood/774e3ea9f3fa9bcdac47f445b83b6653.sdp/index.m3u8",
-    "img": "https://i.imgur.com/gaKzWdo.png"
+    "name": "ABP Ganga (1080p)",
+    "type": "News",
+    "url": "https://abplivetv.akamaized.net/hls/live/2043013/ganga/master.m3u8",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/ABP_Ganga.svg/512px-ABP_Ganga.svg.png"
   },
   {
-    "name": "Dhamaal (1080p) [Not 24/7]",
-    "type": "Music",
-    "url": "https://live.hungama.com/linear/dhamaal/playlist.m3u8",
-    "img": "https://i.imgur.com/J6D56EF.png"
+    "name": "ABP Majha (720p)",
+    "type": "News",
+    "url": "https://abplivetv.akamaized.net/hls/live/2043011/manjha/master.m3u8",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/ABP_Majha_logo.svg/512px-ABP_Majha_logo.svg.png"
   },
   {
-    "name": "Dil Se (360p) [Not 24/7]",
-    "type": "Music",
-    "url": "https://live.hungama.com/linear/dil-se/playlist.m3u8",
-    "img": "https://i.imgur.com/zYbltEk.png"
+    "name": "ABP News (720p)",
+    "type": "News",
+    "url": "https://abplivetv.akamaized.net/hls/live/2043010/hindi/master.m3u8",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/ABP_News_logo.svg/512px-ABP_News_logo.svg.png"
   },
   {
-    "name": "Isai Aruvi (576p)",
-    "type": "Music",
-    "url": "http://103.199.161.254/Content/isaiaruvi/Live/Channel(IsaiAruvi)/index.m3u8",
-    "img": "https://i.imgur.com/yO18FLo.png"
+    "name": "ABP Sanjha (720p)",
+    "type": "News",
+    "url": "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/abp-sanjha/master.m3u8",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/ABP_Sanjha_logo.svg/512px-ABP_Sanjha_logo.svg.png"
   },
   {
-    "name": "Kadak Hits (1080p) [Not 24/7]",
-    "type": "Music",
-    "url": "https://live.hungama.com/linear/kadak-hits/playlist.m3u8",
-    "img": "https://i.imgur.com/jxZYTO2.png"
+    "name": "AJ Net News [Not 24/7]",
+    "type": "News",
+    "url": "http://rtmp.logicwebs.in:1935/live/ajnet/playlist.m3u8",
+    "img": "https://i.imgur.com/DT9VB1Q.png"
   },
   {
-    "name": "Kalika TV (576p) [Not 24/7]",
-    "type": "Music",
-    "url": "http://185.105.4.244:1935/livesp/kalika/playlist.m3u8",
-    "img": "https://i.imgur.com/XWXFoJA.png"
+    "name": "AKD Calcutta News (540p) [Geo-blocked]",
+    "type": "News",
+    "url": "https://d39iawgzv3h0yo.cloudfront.net/out/v1/1ef4344a3b4a41908915d58ac7bd5e23/index.m3u8",
+    "img": "https://i.imgur.com/7Kl95WA.png"
   },
   {
-    "name": "Mastiii",
-    "type": "Music",
-    "url": "https://amg01448-samsungin-mastiiin-samsungin-o3n9m.amagi.tv/playlist/amg01448-samsungin-mastiiin-samsungin/playlist.m3u8",
-    "img": "https://i.imgur.com/lxgXHx4.png"
+    "name": "ANN News (720p)",
+    "type": "News",
+    "url": "https://cdn.ottlive.co.in/annnews/index.m3u8",
+    "img": "https://asianewsnetwork.net/wp-content/uploads/2020/03/cropped-LOGO-NEW.png"
   },
   {
-    "name": "MH One Music (1080p)",
-    "type": "Music",
-    "url": "https://mhlive.paramountinfosystem.com/mhonemusictest/d0dbe915091d400bd8ee7f27f0791303.sdp/playlist.m3u8",
-    "img": "https://i.imgur.com/Pi6ldXm.png"
+    "name": "APN (576p)",
+    "type": "News",
+    "url": "https://cdn.smartstream.video/smartstream-us/apnnews/apnnews/chunks.m3u8",
+    "img": "https://i.imgur.com/RhkbhZD.png"
   },
   {
-    "name": "MK Tunes (576p) [Not 24/7]",
-    "type": "Music",
-    "url": "http://103.199.160.85/Content/mktunes/Live/Channel(MKTunes)/index.m3u8",
-    "img": "https://i.imgur.com/6SUnfuM.png"
+    "name": "Argus News (1080p)",
+    "type": "News",
+    "url": "https://live.argusnews.in/hls/argustv.m3u8",
+    "img": "https://i.imgur.com/cGjRe01.png"
   },
   {
-    "name": "MNTV Music (1080p)",
-    "type": "Music",
-    "url": "https://mntv.livebox.co.in/musichls/live.m3u8",
-    "img": "https://i.ibb.co/NynvtQm/1-210414213-U60-L.jpg"
+    "name": "Asianet News (360p)",
+    "type": "News",
+    "url": "https://vidcdn.vidgyor.com/asianet-origin/liveabr/playlist.m3u8",
+    "img": "https://i.imgur.com/LrHGfdC.png"
   },
   {
-    "name": "Music India (576p) [Not 24/7]",
-    "type": "Music",
-    "url": "http://103.199.160.85/Content/musicindia/Live/Channel(MusicIndia)/index.m3u8",
-    "img": "https://i.imgur.com/kXTCYqg.png"
+    "name": "Asianet News Kannada (360p) [Not 24/7]",
+    "type": "News",
+    "url": "https://vidcdn.vidgyor.com/suvarna-origin/liveabr/playlist.m3u8",
+    "img": "https://i.imgur.com/19joZ1o.png"
   },
   {
-    "name": "Nazrana (720p) [Not 24/7]",
-    "type": "Music",
-    "url": "https://live.hungama.com/linear/nazrana/playlist.m3u8",
-    "img": "https://i.imgur.com/38Run52.png"
+    "name": "Asianet News Tamil (360p) [Not 24/7]",
+    "type": "News",
+    "url": "https://vidcdn.vidgyor.com/ptm-origin/aslive/playlist.m3u8",
+    "img": "https://i.imgur.com/pGA2R8l.png"
   },
   {
-    "name": "Pop Pataka (480p) [Not 24/7]",
-    "type": "Music",
-    "url": "https://live.hungama.com/linear/pop-pataka/playlist.m3u8",
-    "img": "https://i.imgur.com/9NacSLW.png"
+    "name": "Bada Khabar (720p)",
+    "type": "News",
+    "url": "https://badakhabar.livebox.co.in/Badakhabarhls/live.m3u8",
+    "img": "https://i.imgur.com/XiwygDJ.png"
   },
   {
-    "name": "PTC Dhol (720p)",
-    "type": "Music",
-    "url": "https://streaming.ptcplay.com/ptcdholtvINOne/smil:Live.smil/playlist.m3u8",
-    "img": "https://i.ibb.co/C0y7yFJ/Ptc-Dhol-tv.jpg"
+    "name": "BBC News Asia Pacific (1080p)",
+    "type": "News",
+    "url": "https://tv.ddns.vn/tv/bbcworldnews/index.m3u8",
+    "img": "https://i.imgur.com/vSz2WEp.png"
   },
   {
-    "name": "PTC Music (720p)",
-    "type": "Music",
-    "url": "https://streaming.ptcplay.com/ptcMusicINOne/smil:Live.smil/playlist.m3u8",
-    "img": "https://i.imgur.com/8PHk66Q.png"
+    "name": "Bharat24 (1080p)",
+    "type": "News",
+    "url": "https://legitpro.co.in/bharat24live/bharat24live/index.m3u8",
+    "img": "https://i.imgur.com/Jx1OX9N.png"
   },
   {
-    "name": "Public Music (576p) [Not 24/7]",
-    "type": "Music",
-    "url": "http://103.199.161.254/Content/publicmusic/Live/Channel(PublicMusic)/index.m3u8",
-    "img": "https://i.imgur.com/0xS5lNT.png"
+    "name": "Bharat Samachar TV (360p)",
+    "type": "News",
+    "url": "https://idvd.multitvsolution.com/idvo/bharatsamachar.m3u8",
+    "img": "https://i.imgur.com/x5f8E3K.png"
   },
   {
-    "name": "Real TV (720p) [Not 24/7]",
-    "type": "Music",
-    "url": "http://cloud.logicwebs.in:1935/realtv/realtv1/playlist.m3u8",
-    "img": "https://i.imgur.com/OL5qm2c.png"
+    "name": "BIG TV (720p)",
+    "type": "News",
+    "url": "https://cdn-1.pishow.tv/live/1059/master.m3u8",
+    "img": "https://static.wikia.nocookie.net/logopedia/images/4/4f/BiG_TV_%28Stacked%29.svg/revision/latest/scale-to-width-down/250?cb=20180316124023"
   },
   {
-    "name": "Sana Plus (720p) [Not 24/7]",
-    "type": "Music",
-    "url": "http://media.7starcloud.com:1935/live/sanatv2/playlist.m3u8",
-    "img": "https://i.imgur.com/N6tKUZv.png"
+    "name": "BTV News (720p) [Not 24/7]",
+    "type": "News",
+    "url": "https://vidcdn.vidgyor.com/btv-origin/liveabr/playlist.m3u8",
+    "img": "https://i.imgur.com/0BEPrNQ.png"
   },
   {
-    "name": "ShowBox",
-    "type": "Music",
-    "url": "https://epiconvh.akamaized.net/live/showbox/master.m3u8",
-    "img": "https://i.imgur.com/Zm4Fhah.png"
+    "name": "CD News (576p)",
+    "type": "News",
+    "url": "https://5a1178b42cc03.streamlock.net/8174/8174/playlist.m3u8",
+    "img": "https://i.imgur.com/zIXsuC2.png"
   },
   {
-    "name": "Steelbird Music (720p) [Not 24/7]",
-    "type": "Music",
-    "url": "http://cdn25.live247stream.com/steelbirdmusic/tv/playlist.m3u8",
-    "img": "https://i.imgur.com/Egijzx3.png"
+    "name": "CVR English (720p)",
+    "type": "News",
+    "url": "https://cdn-2.pishow.tv/live/425/master.m3u8",
+    "img": "https://i.imgur.com/k0WTQKi.png"
   },
   {
-    "name": "Vaanavil TV (720p)",
-    "type": "Music",
-    "url": "https://6n3yope4d9ok-hls-live.5centscdn.com/vaanavil/TV.stream/playlist.m3u8",
-    "img": "https://i.imgur.com/etr1k08.png"
+    "name": "DD News (1080p)",
+    "type": "News",
+    "url": "https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/0811cd8c37ca4c409d5385a6cd2fa18b/index.m3u8",
+    "img": "https://i.imgur.com/H4f9R7n.png"
   },
   {
-    "name": "ZB Music (720p)",
-    "type": "Music",
-    "url": "https://server.zillarbarta.com/zbmusic/index.m3u8",
-    "img": "https://i.imgur.com/k1nb8u1.jpeg"
+    "name": "Dighvijay (240p) [Not 24/7]",
+    "type": "News",
+    "url": "https://vidcdn.vidgyor.com/dighvijay-origin/liveabr/playlist.m3u8",
+    "img": "https://i.imgur.com/gSuWhWd.png"
   },
   {
-    "name": "B4U Music",
-    "type": "Music",
-    "url": "https://companion-live-play1.streamready.in/live/med4-2/b4u_music/ndashd/b4u_music.mpd?%7Ccookie=Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9jb21wYW5pb24tbGl2ZS1wbGF5MS5zdHJlYW1yZWFkeS5pbi9saXZlL21lZDQtMi9iNHVfbXVzaWMvbmRhc2hkLw==:Expires=1753659914:KeyName=iptv-prod-media-cdn-keys:Signature=SLg9yQIx_mXwIXmaOzIx6EUbuMstHUsSwtsWRFKuWVImr2KetUz_q4EjPV807dFop6Sz69y5t-2cSMwuBGHpCA==",
-    "img": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_B4U_MUSIC/images/LOGO_HD/image.png"
+    "name": "DY 365 (360p)",
+    "type": "News",
+    "url": "https://cdn.smartstream.video/smartstream-us/dy365/dy365/playlist.m3u8",
+    "img": "https://i.imgur.com/8LZS3z6.png"
   },
   {
-    "name": "Showbox",
-    "type": "Music",
-    "url": "https://companion-live-play1.streamready.in/live/med14-2/showbox/ndashd/showbox.mpd?%7Ccookie=Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9jb21wYW5pb24tbGl2ZS1wbGF5MS5zdHJlYW1yZWFkeS5pbi9saXZlL21lZDE0LTIvc2hvd2JveC9uZGFzaGQv:Expires=1753664419:KeyName=iptv-prod-media-cdn-keys:Signature=yTWCk-9W0t-bbiaqovtHw5LCKXKp21AirEQjzaqi7GrSwRQRn4yxx2AzvzDWyhCDJxh0mMO39nTTo_DFRq-0DQ==",
-    "img": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SHOWBOX/images/LOGO_HD/image.png"
+    "name": "Enlight News (1080p)",
+    "type": "News",
+    "url": "https://live.enlightnews.com/live/enlightnews/tracks-v1a1/index.m3u8",
+    "img": "https://i.imgur.com/GhiGi5A.png"
   },
   {
-    "name": "Zoom",
-    "type": "Music",
-    "url": "https://companion-live-play1.streamready.in/live/med3-2/zoom/ndashd/zoom.mpd?%7Ccookie=Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9jb21wYW5pb24tbGl2ZS1wbGF5MS5zdHJlYW1yZWFkeS5pbi9saXZlL21lZDMtMi96b29tL25kYXNoZC8=:Expires=1753659914:KeyName=iptv-prod-media-cdn-keys:Signature=akSzcQQ5RumhQ6uxfTwXXUN_7UiJFOu9-seLf8VBJQUr33MhS1kK0eAnLCDNHh1e4ehvpLt0gkKQmauiPBqkBw==",
-    "img": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZOOM/images/LOGO_HD/image.png"
+    "name": "ETV Andhra Pradesh (1080p)",
+    "type": "News",
+    "url": "https://d14vo2b97spizt.cloudfront.net/v1/master/9d43eacaed199f8d5883927e7aef514a8a08e108/ETV_AP_H264-3_cloud_in/index.m3u8",
+    "img": "https://i.imgur.com/pFNCRnf.png"
   },
   {
-    "name": "Zing",
-    "type": "Music",
-    "url": "https://companion-live-play1.streamready.in/live/med16-2/zing/ndashd/zing.mpd?%7Ccookie=Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9jb21wYW5pb24tbGl2ZS1wbGF5MS5zdHJlYW1yZWFkeS5pbi9saXZlL21lZDE2LTIvemluZy9uZGFzaGQv:Expires=1753659915:KeyName=iptv-prod-media-cdn-keys:Signature=5C6I4xftdQq9Re86y_m1gwTwSaANmKjIFm5v6vIzk08dWVH5MZk6DNBxiYdwgqq4EwQ_UmnfNwHB9-FIrBjXDw==",
-    "img": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZING/images/LOGO_HD/image.png"
+    "name": "ETV Telangana (1080p)",
+    "type": "News",
+    "url": "https://dssp63pjfajz9.cloudfront.net/v1/master/9d43eacaed199f8d5883927e7aef514a8a08e108/ETV_TS_H264-3_cloud_in/index.m3u8",
+    "img": "https://i.imgur.com/DkgvWTK.png"
   },
   {
-    "name": "Tarang Music",
-    "type": "Music",
-    "url": "https://companion-live-play1.streamready.in/live/med4-2/tarang_music/ndashd/tarang_music.mpd?%7Ccookie=Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9jb21wYW5pb24tbGl2ZS1wbGF5MS5zdHJlYW1yZWFkeS5pbi9saXZlL21lZDQtMi90YXJhbmdfbXVzaWMvbmRhc2hkLw==:Expires=1753659916:KeyName=iptv-prod-media-cdn-keys:Signature=i90OI9S_0PUGH4eypLLOYj0jo0nD0ntTo9s4P_sWWYs4QmUY9Msti50CKeE27uBRTWzzlPvGf6KgEXWOFLZwDw==",
-    "img": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_TARANG_MUSIC/images/LOGO_HD/image.png"
+    "name": "First India News (360p) [Not 24/7]",
+    "type": "News",
+    "url": "https://xlbor37ydvaj-hls-live.wmncdn.net/firstindianewstv1/live.stream/index.m3u8",
+    "img": "https://i.imgur.com/MUTe7cu.png"
   },
   {
-    "name": "Murasu",
-    "type": "Music",
-    "url": "https://companion-live-play1.streamready.in/live/med3-2/murasu/ndashd/murasu.mpd?%7Ccookie=Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9jb21wYW5pb24tbGl2ZS1wbGF5MS5zdHJlYW1yZWFkeS5pbi9saXZlL21lZDMtMi9tdXJhc3UvbmRhc2hkLw==:Expires=1753664421:KeyName=iptv-prod-media-cdn-keys:Signature=b-zUQ-ce9yOt6MbgKm9B-MaGShyDhvcUBrIo-zfEchp35KGWcEpB_7MMtwBwk_l5NMKXGEgCnHM7W4JDLCiyBQ==",
-    "img": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_MURASU/images/LOGO_HD/image.png"
+    "name": "Global Punjab (1080p)",
+    "type": "News",
+    "url": "https://server.livelegitpro.in/globalpunjab/globalpunjab/index.m3u8",
+    "img": "https://i.imgur.com/WDLqcWW.png"
   },
   {
-    "name": "Mega Musiq",
-    "type": "Music",
-    "url": "https://companion-live-play1.streamready.in/live/med2-2/mega_musiq/ndashd/mega_musiq.mpd?%7Ccookie=Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9jb21wYW5pb24tbGl2ZS1wbGF5MS5zdHJlYW1yZWFkeS5pbi9saXZlL21lZDItMi9tZWdhX211c2lxL25kYXNoZC8=:Expires=1753660819:KeyName=iptv-prod-media-cdn-keys:Signature=AhAPN9eYFvRkrC6nf2s5nr9M16NV4CkFvVbBkwvYOtDUgKJJ8qo9-L3uwnobc9QqRFCLY-lVeic6YLLE-WgLAA==",
-    "img": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_MEGA_MUSIQ/images/LOGO_HD/image.png"
+    "name": "Goa365 (720p)",
+    "type": "News",
+    "url": "https://asia.mslivestream.net/mslive/f9fe659e19d111baf97526ad526b55b4.sdp/playlist.m3u8",
+    "img": "https://www.goa365.tv/images/GOA-365-Logo.jpg"
+  },
+  {
+    "name": "Good News Today (720p)",
+    "type": "News",
+    "url": "https://aajtaklive.vgcdn.net/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/3196cced-ce29-4219-9809-f07ccdaa02b9/vglive-sk-848805/master.m3u8",
+    "img": "https://i.imgur.com/iMzUrb9.png"
+  },
+  {
+    "name": "GSTV (720p) [Not 24/7]",
+    "type": "News",
+    "url": "https://1-213-10546-44.b.cdn13.com/388656798579293628302251.m3u8",
+    "img": "https://i.imgur.com/VCKeGFj.png"
+  },
+  {
+    "name": "Gulistan News (720p)",
+    "type": "News",
+    "url": "https://live.gulistannews.in/hls/gul.m3u8",
+    "img": "https://i.imgur.com/q5z6ycZ.png"
+  },
+  {
+    "name": "Hamdard TV (1080p)",
+    "type": "News",
+    "url": "https://tv.hamdardtv.com/hamdard/index.m3u8",
+    "img": "https://i.ibb.co/JcD2xck/logo-hamda.png"
+  },
+  {
+    "name": "High News (480p)",
+    "type": "News",
+    "url": "https://highmedia.livebox.co.in/HIGHNEWShls/LIVE.m3u8",
+    "img": "https://pbs.twimg.com/profile_images/1104268476858937351/USUT4ykS_400x400.png"
+  },
+  {
+    "name": "Hindi Khabar (720p)",
+    "type": "News",
+    "url": "https://server.livelegitpro.in:9899/hindikhabar/hindikhabar/index.m3u8",
+    "img": "https://i.imgur.com/iuz6K6i.png"
+  },
+  {
+    "name": "HMTV (720p)",
+    "type": "News",
+    "url": "https://cdn-1.pishow.tv/live/280/master.m3u8",
+    "img": "https://i.imgur.com/GJ52eFs.png"
+  },
+  {
+    "name": "Hornbill TV (720p)",
+    "type": "News",
+    "url": "http://172.104.191.216:1935/hornbilltv/hornbilltv/playlist.m3u8",
+    "img": "https://i.imgur.com/7Y4vQnG.png"
+  },
+  {
+    "name": "IBC 24 (720p)",
+    "type": "News",
+    "url": "https://cdn-3.pishow.tv/live/220/master.m3u8",
+    "img": "https://i.imgur.com/2LbR2a0.png"
+  },
+  {
+    "name": "IND 24 (360p)",
+    "type": "News",
+    "url": "https://gmkd5nkednxo-hls-live.wmncdn.net/ind24tv/live.stream/playlist.m3u8",
+    "img": "https://i.imgur.com/exRpVmL.png"
+  },
+  {
+    "name": "India News (576p) [Not 24/7]",
+    "type": "News",
+    "url": "https://livetv.newsx.com/itv/itvnetwork5/playlist.m3u8",
+    "img": "https://i.imgur.com/l54AGtz.png"
+  },
+  {
+    "name": "India News Haryana (576p)",
+    "type": "News",
+    "url": "https://livetv.newsx.com/itv/itvnetwork2/playlist.m3u8",
+    "img": "https://i.imgur.com/Ot8FDqS.png"
+  },
+  {
+    "name": "India News Madhya Pradesh/Chhattisgarh (576p)",
+    "type": "News",
+    "url": "https://livetv.newsx.com/itv/itvnetwork7/playlist.m3u8",
+    "img": "https://i.imgur.com/3IoC5QR.png"
+  },
+  {
+    "name": "India News Punjab/Himachal (576p)",
+    "type": "News",
+    "url": "https://livetv.newsx.com/itv/itvnetwork8/playlist.m3u8",
+    "img": "https://i.imgur.com/Mu1MPvt.png"
+  },
+  {
+    "name": "India News Rajasthan (576p)",
+    "type": "News",
+    "url": "https://livetv.newsx.com/itv/itvnetwork9/playlist.m3u8",
+    "img": "https://i.imgur.com/i16786i.png"
+  },
+  {
+    "name": "India News Uttar Pradesh (576p)",
+    "type": "News",
+    "url": "https://livetv.newsx.com/itv/itvnetwork3/playlist.m3u8",
+    "img": "https://i.imgur.com/nMsMlig.png"
+  },
+  {
+    "name": "India Today (720p) [Not 24/7]",
+    "type": "News",
+    "url": "https://indiatodaylive.akamaized.net/hls/live/2014320/indiatoday/indiatodaylive/playlist.m3u8",
+    "img": "https://i.imgur.com/koFYddE.png"
+  },
+  {
+    "name": "India TV (1080p)",
+    "type": "News",
+    "url": "https://poclive-indiatvnews.akamaized.net/hlslive/Admin/px0219297/live/digital/master.m3u8",
+    "img": "https://i.imgur.com/ztn2IR8.png"
+  },
+  {
+    "name": "INews (720p)",
+    "type": "News",
+    "url": "https://cdn-1.pishow.tv/live/411/master.m3u8",
+    "img": "https://i.imgur.com/IV1O11i.png"
+  },
+  {
+    "name": "INH 24x7 (360p)",
+    "type": "News",
+    "url": "https://7epd6o8edk9b-hls-live.wmncdn.net/inh24/live.stream/playlist.m3u8",
+    "img": "https://i.imgur.com/Es3QiVx.png"
+  },
+  {
+    "name": "Janam TV (576p)",
+    "type": "News",
+    "url": "https://yuppmedtaorire.akamaized.net/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/janamtv_nim_https/140622/janamtv/playlist.m3u8",
+    "img": "https://i.imgur.com/NMDqooF.png"
+  },
+  {
+    "name": "Janta TV (360p) [Not 24/7]",
+    "type": "News",
+    "url": "https://live.wmncdn.net/jantatv/live.stream/index.m3u8",
+    "img": "https://i.imgur.com/0nKfwhV.png"
+  },
+  {
+    "name": "JK 24x7 News (720p)",
+    "type": "News",
+    "url": "https://live.gulistannews.in/hls/jk.m3u8",
+    "img": "https://i.imgur.com/VIPPB6t.png"
+  },
+  {
+    "name": "K News India (1080p)",
+    "type": "News",
+    "url": "https://knews.livebox.co.in/youtubehls/live.m3u8",
+    "img": "https://i.imgur.com/LeBL7ML.png"
+  },
+  {
+    "name": "Kairali News (720p)",
+    "type": "News",
+    "url": "https://cdn-3.pishow.tv/live/1469/master.m3u8",
+    "img": "https://i.imgur.com/GfrEhbx.png"
+  },
+  {
+    "name": "Kalaignar Seithikal (576p) [Not 24/7]",
+    "type": "News",
+    "url": "http://103.199.160.85/Content/kalaignarseithikal/Live/Channel(KalaignarSeithikal)/index.m3u8",
+    "img": "https://i.imgur.com/Pgp3EXM.png"
+  },
+  {
+    "name": "Kalinga TV (864p) [Not 24/7]",
+    "type": "News",
+    "url": "https://live.mycast.in/kalingatv/d0dbe915091d400bd8ee7f27f0791303.sdp/playlist.m3u8",
+    "img": "https://i.imgur.com/zdAWlRo.png"
+  },
+  {
+    "name": "Kanak News (720p) [Not 24/7]",
+    "type": "News",
+    "url": "https://live.kanaknews.com:4443/live/stream/playlist.m3u8",
+    "img": "https://i.imgur.com/OzFMOKH.png"
+  },
+  {
+    "name": "Kashish News (720p)",
+    "type": "News",
+    "url": "https://kashishnews.livebox.co.in/kashishnewshls/live.m3u8",
+    "img": "https://i.imgur.com/qfINs2r.png"
+  },
+  {
+    "name": "Khabar Fast (720p) [Not 24/7]",
+    "type": "News",
+    "url": "https://live.gbtechnology.in/khabarfast/khabarfast/index.m3u8",
+    "img": "https://i.imgur.com/l5Li5Pd.png"
+  },
+  {
+    "name": "Khabrain Abhi Tak (480p) [Not 24/7]",
+    "type": "News",
+    "url": "https://vidcdn.vidgyor.com/kat-origin/liveabr/playlist.m3u8",
+    "img": "https://i.imgur.com/LIrolUQ.png"
+  },
+  {
+    "name": "Living India News (1080p)",
+    "type": "News",
+    "url": "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/living-india-news/index.m3u8",
+    "img": "https://i.imgur.com/YikaJvd.png"
+  },
+  {
+    "name": "M Sign Media (720p) [Not 24/7]",
+    "type": "News",
+    "url": "http://rtmp2.logicwebs.in:1935/msign/msignmedia/playlist.m3u8",
+    "img": "https://i.imgur.com/8fdUkOl.png"
+  },
+  {
+    "name": "Mahaa News (720p)",
+    "type": "News",
+    "url": "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/mahaa-news/index.m3u8",
+    "img": "https://i.imgur.com/buT76vR.png"
+  },
+  {
+    "name": "Malabar News (720p) [Not 24/7]",
+    "type": "News",
+    "url": "http://cloud.logicwebs.in:1935/live/malabarnews/playlist.m3u8",
+    "img": "https://i.imgur.com/Un2gxt4.png"
+  },
+  {
+    "name": "Malai Murasu TV (720p) [Not 24/7]",
+    "type": "News",
+    "url": "https://cdn-3.pishow.tv/live/1606/master.m3u8",
+    "img": "https://i.imgur.com/M92IDhq.png"
+  },
+  {
+    "name": "Manorama News (1080p)",
+    "type": "News",
+    "url": "https://mmtvnews1.akamaized.net/v1/master/673630b269b766886555eebfddd4f27f3de3ab50/mmtvNewsCampaign1/index.m3u8",
+    "img": "https://i.imgur.com/adjRrVx.png"
+  },
+  {
+    "name": "Mathrubhumi News (576p) [Not 24/7]",
+    "type": "News",
+    "url": "https://yuppmedtaorire.akamaized.net/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/mathrubhuminews_nim_https/110322/mathrubhuminews/playlist.m3u8",
+    "img": "https://i.imgur.com/diQftzP.png"
+  },
+  {
+    "name": "Media One (720p)",
+    "type": "News",
+    "url": "https://cdn-3.pishow.tv/live/1481/master.m3u8",
+    "img": "https://i.imgur.com/oOb7d7R.png"
+  },
+  {
+    "name": "MH One News (1080p)",
+    "type": "News",
+    "url": "https://mhlive.paramountinfosystem.com/mhonetest/d0dbe915091d400bd8ee7f27f0791303.sdp/playlist.m3u8",
+    "img": "https://i.imgur.com/RH52BX4.png"
+  },
+  {
+    "name": "Mirror Now (720p)",
+    "type": "News",
+    "url": "https://pubads.g.doubleclick.net/ssai/event/DXkHhH2QSnma-HnE3QJqlA/master.m3u8",
+    "img": "https://i.imgur.com/N96LwKG.png"
+  },
+  {
+    "name": "Moon TV (720p)",
+    "type": "News",
+    "url": "https://player.mslivestream.net/mslive/e10bb900976df9177b9a080314f26f86.sdp/index.m3u8",
+    "img": "https://i.imgur.com/3l25EZI.png"
+  },
+  {
+    "name": "Naxatra News (720p)",
+    "type": "News",
+    "url": "https://wearelive.livebox.co.in/naxatratvhls/naxatratv.m3u8",
+    "img": "https://i.imgur.com/IGduUk4.png"
+  },
+  {
+    "name": "NDTV 24X7 (480p) [Not 24/7]",
+    "type": "News",
+    "url": "https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678/ndtv24x7/master.m3u8",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/NDTV_247.svg/512px-NDTV_247.svg.png"
+  },
+  {
+    "name": "NDTV India (480p) [Not 24/7]",
+    "type": "News",
+    "url": "https://ndtvindiaelemarchana.akamaized.net/hls/live/2003679/ndtvindia/master.m3u8",
+    "img": "https://i.imgur.com/PyDjUZB.png"
+  },
+  {
+    "name": "News 1st (576p) [Not 24/7]",
+    "type": "News",
+    "url": "https://yuppftalive.akamaized.net/080823/news1st/playlist.m3u8",
+    "img": "https://i.imgur.com/K3hlwDk.png"
+  },
+  {
+    "name": "News 7 Tamil (576p)",
+    "type": "News",
+    "url": "https://segment.yuppcdn.net/240122/news7/playlist.m3u8",
+    "img": "https://i.imgur.com/UjlbR4o.png"
+  },
+  {
+    "name": "News9Live (720p)",
+    "type": "News",
+    "url": "https://vg-tv9yupp.akamaized.net/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/vglive-sk-237347/main.m3u8",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/a/ae/News9live-logo_1_300x.png"
+  },
+  {
+    "name": "News18 Kerala (1080p) [Geo-blocked]",
+    "type": "News",
+    "url": "https://nw18live.cdn.jio.com/bpk-tv/News18_Kerala_NW18_MOB/output01/index.m3u8",
+    "img": "https://i.imgur.com/AsIdc9P.png"
+  },
+  {
+    "name": "News 24 (720p)",
+    "type": "News",
+    "url": "https://vidcdn.vidgyor.com/news24-origin/liveabr/playlist.m3u8",
+    "img": "https://i.imgur.com/x72O77X.png"
+  },
+  {
+    "name": "News J (720p) [Not 24/7]",
+    "type": "News",
+    "url": "https://cdn-3.pishow.tv/live/1279/master.m3u8",
+    "img": "https://i.imgur.com/RqeF8RR.png"
+  },
+  {
+    "name": "News Live (720p)",
+    "type": "News",
+    "url": "https://5b48d7e1b4bce.streamlock.net/myapp/newslive/playlist.m3u8",
+    "img": "https://i.imgur.com/OvSc7dc.png"
+  },
+  {
+    "name": "News Malayalam 24x7 (1080p)",
+    "type": "News",
+    "url": "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/news-malayalam-24x7/index.m3u8",
+    "img": "https://i.imgur.com/UJ9QUhj.png"
+  },
+  {
+    "name": "News Nation (1080p)",
+    "type": "News",
+    "url": "https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/6cd2f649739a45ca9de1daf81cc7d0f2/index.m3u8",
+    "img": "https://i.imgur.com/9xeIWqm.png"
+  },
+  {
+    "name": "News Tamil 24x7 (1080p)",
+    "type": "News",
+    "url": "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/news-tamil-24x7/index.m3u8",
+    "img": "https://jiotvimages.cdn.jio.com/dare_images/images/News_Tamil_24x7.png"
+  },
+  {
+    "name": "NK TV 24x7 (1080p)",
+    "type": "News",
+    "url": "https://nktv.smartstream.video/smartstream-us/nktvplus/nktvplus/chunks.m3u8",
+    "img": "https://i.imgur.com/xMJ2bv9.png"
+  },
+  {
+    "name": "NTV Telugu (576p)",
+    "type": "News",
+    "url": "https://yuppmedtaorire.akamaized.net/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/ntv_nim_https/110322/ntv/playlist.m3u8",
+    "img": "https://i.imgur.com/WqTIoWS.png"
+  },
+  {
+    "name": "Polimer News (720p) [Geo-blocked]",
+    "type": "News",
+    "url": "https://versewsa.pc.cdn.bitgravity.com/versewsa/live/polimernews.smil/chunklist_b1800000.m3u8",
+    "img": "https://i.imgur.com/CxcuvXX.png"
+  },
+  {
+    "name": "Prameya News7 (1080p) [Not 24/7]",
+    "type": "News",
+    "url": "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/prameya-news7/index.m3u8?ads.dpname=distrotv",
+    "img": "https://i.imgur.com/zTgkqdS.png"
+  },
+  {
+    "name": "Pratham Khabar 24x7 (576p)",
+    "type": "News",
+HANNEL_MEGA_MUSIQ/images/LOGO_HD/image.png"
   },
   {
     "name": "Raj Musix Tamil",
