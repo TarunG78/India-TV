@@ -16,6 +16,7 @@ response = requests.get(url)
 # Comprobar si la solicitud fue exitosa
 if response.status_code == 200:
     json_data = response.json()  # Convertir la respuesta a JSON
+    print(json_data)  # Agregar esta línea para imprimir el contenido
 else:
     print(f"Error al obtener el archivo JSON: {response.status_code}")
     exit(1)  # Salir del script en caso de error
@@ -41,5 +42,6 @@ with open(output_file, 'w') as file:
         file.write(f"# Referer: {referer}\n")
         file.write(f"# Origin: {origin}\n")
         file.write(f"{link}\n")
+
 
 print(f"Archivo {output_file} creado exitosamente.")
