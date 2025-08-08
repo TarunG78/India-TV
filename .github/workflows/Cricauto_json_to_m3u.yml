@@ -1,0 +1,41 @@
+name: Convert JSON to M3U
+
+on:
+  push:
+    branches:
+      - main  # Cambia esto si deseas que se ejecute en otra rama
+  workflow_dispatch: # Permite ejecutar el flujo de trabajo manualmente
+
+jobs:
+  convert:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v2
+
+      - name: Set up Python
+        uses: actions/setup-python@v2
+        with:
+          python-version: '3.x'  # Especifica la versión de Python que deseas usar
+
+      - name: Install dependencies
+        run: |
+          pip install --upgrade pip
+          pip install requests  # Instalar el módulo 'requests' si es necesario
+
+      - name: Run the script
+        env:  # Pasar el secreto como variable de entorno
+          JSON_API_URL: ${{ secrets.JSON_API_URL }}
+        run: |
+          python cric_auto_up.py  # Asegúrate de que tu script esté en la raíz del repositorio
+
+      - name: Configure Git
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+
+      - name: Commit and push changes
+        run: |
+          git add cricautoupdate.m3u  # Añadir el nuevo nombre del archivo M3U
+          git commit -m "Update cricautoupdate.m3u file" || echo "No changes to commit" git push origin HEAD:main  # Cambia  main` si utilizas otra rama
