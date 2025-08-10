@@ -29,11 +29,10 @@ with open(output_file, 'w') as file:
     file.write("#EXTM3U\n")
     
     # Iterar sobre los datos JSON
-    for channel in json_data:
+for channel in json_data:
     name = channel.get('name')
     link = channel.get('link')
     
-    # Comprobar si 'id' y 'logo' están presentes
     if 'id' not in channel or 'logo' not in channel:
         print(f"Advertencia: 'id' o 'logo' no encontrados para el canal: {name}")
         continue  # Salta este canal si falta alguna clave
@@ -49,4 +48,3 @@ with open(output_file, 'w') as file:
     file.write(f"{link}\n")
 
 print(f"Archivo {output_file} creado exitosamente.")
-
