@@ -30,18 +30,23 @@ with open(output_file, 'w') as file:
     
     # Iterar sobre los datos JSON
     for channel in json_data:
-        # Extraer los detalles del canal
-        name = channel.get('name')
-        link = channel.get('link')
-        referer = channel.get('referer')
-        origin = channel.get('origin')
-        
-        # Escribir la información del canal en el formato M3U
-        file.write(f"#EXTINF:-1 tvg-id=\"{channel['id']}\" tvg-logo=\"{channel['logo']}\" group-title=\"Channels\", {name}\n")
-        # Incluir Referer y Origin como comentarios
-        file.write(f"# Referer: {referer}\n")
-        file.write(f"# Origin: {origin}\n")
-        file.write(f"{link}\n")
+    name = channel.get('name')
+    link = channel.get('link')
+    
+    # Comprobar si 'id' y 'logo' están presentes
+    if 'id' not in channel or 'logo' not in channel:
+        print(f"Advertencia: 'id' o 'logo' no encontrados para el canal: {name}")
+        continue  # Salta este canal si falta alguna clave
 
+    referer = channel.get('referer')
+    origin = channel.get('origin')
+
+    # Escribir la información del canal en el formato M3U
+    file.write(f"#EXTINF:-1 tvg-id=\"{channel['id']}\" tvg-logo=\"{channel['logo']}\" group-title=\"Channels\", {name}\n")
+    # Incluir Referer y Origin como comentarios
+    file.write(f"# Referer: {referer}\n")
+    file.write(f"# Origin: {origin}\n")
+    file.write(f"{link}\n")
 
 print(f"Archivo {output_file} creado exitosamente.")
+
