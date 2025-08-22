@@ -18,9 +18,9 @@
     "img": "https://i.imgur.com/dZA4gel.png"
   },
   {
-    "name": "A1 TV Rajasthan (720p)",
+    "name": "A1 TV Rajasthan (576p)",
     "type": "News",
-    "url": "https://5b48d7e1b4bce.streamlock.net/myapp/a1live/playlist.m3u8",
+    "url": "https://yuppftalive.akamaized.net/080823/a1tv/playlist.m3u8",
     "img": "https://i.imgur.com/XJA3bh1.png"
   },
   {
@@ -54,9 +54,9 @@
     "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/ABP_Ganga.svg/512px-ABP_Ganga.svg.png"
   },
   {
-    "name": "ABP Majha (720p)",
+    "name": "ABP Majha (360p)",
     "type": "News",
-    "url": "https://abplivetv.akamaized.net/hls/live/2043011/manjha/master.m3u8",
+    "url": "https://in1.sunilprasad.com.np/yuppLive/abp-majha/master.m3u8",
     "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/ABP_Majha_logo.svg/512px-ABP_Majha_logo.svg.png"
   },
   {
@@ -72,18 +72,6 @@
     "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/ABP_Sanjha_logo.svg/512px-ABP_Sanjha_logo.svg.png"
   },
   {
-    "name": "AJ Net News [Not 24/7]",
-    "type": "News",
-    "url": "http://rtmp.logicwebs.in:1935/live/ajnet/playlist.m3u8",
-    "img": "https://i.imgur.com/DT9VB1Q.png"
-  },
-  {
-    "name": "AKD Calcutta News (540p) [Geo-blocked]",
-    "type": "News",
-    "url": "https://d39iawgzv3h0yo.cloudfront.net/out/v1/1ef4344a3b4a41908915d58ac7bd5e23/index.m3u8",
-    "img": "https://i.imgur.com/7Kl95WA.png"
-  },
-  {
     "name": "ANN News (720p)",
     "type": "News",
     "url": "https://cdn.ottlive.co.in/annnews/index.m3u8",
@@ -92,7 +80,7 @@
   {
     "name": "APN (576p)",
     "type": "News",
-    "url": "https://cdn.smartstream.video/smartstream-us/apnnews/apnnews/chunks.m3u8",
+    "url": "https://yuppftalive.akamaized.net/080823/apnnews/playlist.m3u8",
     "img": "https://i.imgur.com/RhkbhZD.png"
   },
   {
@@ -120,10 +108,22 @@
     "img": "https://i.imgur.com/pGA2R8l.png"
   },
   {
+    "name": "Awaaz India TV (720p)",
+    "type": "News",
+    "url": "http://awaazindia.livebox.co.in/AwaazIndaTVhls/Live.m3u8",
+    "img": "https://i.ytimg.com/vi/8BzmlfZm2xU/hqdefault.jpg"
+  },
+  {
     "name": "Bada Khabar (720p)",
     "type": "News",
     "url": "https://badakhabar.livebox.co.in/Badakhabarhls/live.m3u8",
     "img": "https://i.imgur.com/XiwygDJ.png"
+  },
+  {
+    "name": "Bansal News (576p)",
+    "type": "News",
+    "url": "https://yuppftalive.akamaized.net/080823/bansalnews/playlist.m3u8",
+    "img": "https://i.imgur.com/8QL8SiB.png"
   },
   {
     "name": "BBC News Asia Pacific (1080p)",
@@ -138,9 +138,9 @@
     "img": "https://i.imgur.com/Jx1OX9N.png"
   },
   {
-    "name": "Bharat Samachar TV (360p)",
+    "name": "Bharat Samachar TV (576p)",
     "type": "News",
-    "url": "https://idvd.multitvsolution.com/idvo/bharatsamachar.m3u8",
+    "url": "https://yuppftalive.akamaized.net/080823/bharatsamachar/playlist.m3u8",
     "img": "https://i.imgur.com/x5f8E3K.png"
   },
   {
@@ -160,6 +160,18 @@
     "type": "News",
     "url": "https://5a1178b42cc03.streamlock.net/8174/8174/playlist.m3u8",
     "img": "https://i.imgur.com/zIXsuC2.png"
+  },
+  {
+    "name": "CGTN (1080p)",
+    "type": "News",
+    "url": "https://amg00405-rakutentv-cgtn-rakuten-i9tar.amagi.tv/master.m3u8",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/CGTN.svg/512px-CGTN.svg.png"
+  },
+  {
+    "name": "CTVN AKD Plus (576p)",
+    "type": "News",
+    "url": "https://yuppftalive.akamaized.net/080823/ctvnakdplus/playlist.m3u8",
+    "img": "https://i.imgur.com/QThBcw4.png"
   },
   {
     "name": "CVR English (720p)",
@@ -264,10 +276,16 @@
     "img": "https://i.imgur.com/GJ52eFs.png"
   },
   {
-    "name": "Hornbill TV (720p)",
+    "name": "Hornbill TV (576p)",
     "type": "News",
-    "url": "http://172.104.191.216:1935/hornbilltv/hornbilltv/playlist.m3u8",
+    "url": "https://yuppftalive.akamaized.net/080823/hornbilltv/playlist.m3u8",
     "img": "https://i.imgur.com/7Y4vQnG.png"
+  },
+  {
+    "name": "I24 News English (720p)",
+    "type": "News",
+    "url": "https://bcovlive-a.akamaihd.net/ecf224f43f3b43e69471a7b626481af0/eu-central-1/5377161796001/playlist.m3u8",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/LOGO_i24NEWS.png/512px-LOGO_i24NEWS.png"
   },
   {
     "name": "IBC 24 (720p)",
@@ -330,6 +348,12 @@
     "img": "https://i.imgur.com/ztn2IR8.png"
   },
   {
+    "name": "India Voice (576p)",
+    "type": "News",
+    "url": "https://yuppftalive.akamaized.net/080823/indiavoice/playlist.m3u8",
+    "img": "https://i.imgur.com/CwDznyQ.png"
+  },
+  {
     "name": "INews (720p)",
     "type": "News",
     "url": "https://cdn-1.pishow.tv/live/411/master.m3u8",
@@ -352,6 +376,12 @@
     "type": "News",
     "url": "https://live.wmncdn.net/jantatv/live.stream/index.m3u8",
     "img": "https://i.imgur.com/0nKfwhV.png"
+  },
+  {
+    "name": "Jantantra TV (576p)",
+    "type": "News",
+    "url": "https://yuppftalive.akamaized.net/080823/jantantratv/playlist.m3u8",
+    "img": "https://i.imgur.com/IneOiic.png"
   },
   {
     "name": "JK 24x7 News (720p)",
@@ -378,21 +408,21 @@
     "img": "https://i.imgur.com/Pgp3EXM.png"
   },
   {
-    "name": "Kalinga TV (864p) [Not 24/7]",
+    "name": "Kalinga TV (576p) [Not 24/7]",
     "type": "News",
-    "url": "https://live.mycast.in/kalingatv/d0dbe915091d400bd8ee7f27f0791303.sdp/playlist.m3u8",
+    "url": "https://yuppftalive.akamaized.net/080823/kalingatv/playlist.m3u8",
     "img": "https://i.imgur.com/zdAWlRo.png"
   },
   {
     "name": "Kanak News (720p) [Not 24/7]",
     "type": "News",
-    "url": "https://live.kanaknews.com:4443/live/stream/playlist.m3u8",
+    "url": "https://yuppftalive.akamaized.net/080823/kanaknews/playlist.m3u8",
     "img": "https://i.imgur.com/OzFMOKH.png"
   },
   {
-    "name": "Kashish News (720p)",
+    "name": "Kashish News (576p)",
     "type": "News",
-    "url": "https://kashishnews.livebox.co.in/kashishnewshls/live.m3u8",
+    "url": "https://yuppftalive.akamaized.net/080823/kashishnews/playlist.m3u8",
     "img": "https://i.imgur.com/qfINs2r.png"
   },
   {
@@ -402,9 +432,9 @@
     "img": "https://i.imgur.com/l5Li5Pd.png"
   },
   {
-    "name": "Khabrain Abhi Tak (480p) [Not 24/7]",
+    "name": "Khabrain Abhi Tak (576p) [Not 24/7]",
     "type": "News",
-    "url": "https://vidcdn.vidgyor.com/kat-origin/liveabr/playlist.m3u8",
+    "url": "https://yuppftalive.akamaized.net/080823/khabrainabhitak/playlist.m3u8",
     "img": "https://i.imgur.com/LIrolUQ.png"
   },
   {
@@ -444,6 +474,12 @@
     "img": "https://i.imgur.com/adjRrVx.png"
   },
   {
+    "name": "Mantavya News (576p)",
+    "type": "News",
+    "url": "https://yuppftalive.akamaized.net/080823/mantavya/playlist.m3u8",
+    "img": "https://mantavya-news-img.b-cdn.net/wp-content/uploads/2022/11/logo.png"
+  },
+  {
     "name": "Mathrubhumi News (576p) [Not 24/7]",
     "type": "News",
     "url": "https://yuppmedtaorire.akamaized.net/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/mathrubhuminews_nim_https/110322/mathrubhuminews/playlist.m3u8",
@@ -454,6 +490,12 @@
     "type": "News",
     "url": "https://cdn-3.pishow.tv/live/1481/master.m3u8",
     "img": "https://i.imgur.com/oOb7d7R.png"
+  },
+  {
+    "name": "Metro Globe Network (1080p) [Not 24/7]",
+    "type": "News",
+    "url": "https://edge.medcom.id/live-edge/smil:mgnch.smil/playlist.m3u8",
+    "img": "https://i.imgur.com/aiiinzg.png"
   },
   {
     "name": "MH One News (1080p)",
@@ -490,6 +532,12 @@
     "type": "News",
     "url": "https://ndtvindiaelemarchana.akamaized.net/hls/live/2003679/ndtvindia/master.m3u8",
     "img": "https://i.imgur.com/PyDjUZB.png"
+  },
+  {
+    "name": "News 1 India (576p)",
+    "type": "News",
+    "url": "https://yuppftalive.akamaized.net/080823/news1india/playlist.m3u8",
+    "img": "https://i.imgur.com/J3EWn2J.png"
   },
   {
     "name": "News 1st (576p) [Not 24/7]",
@@ -582,9 +630,9 @@
     "img": "https://i.imgur.com/HNsg5Px.png"
   },
   {
-    "name": "Pratidin Time (720p) [Not 24/7]",
+    "name": "Pratidin Time (576p) [Not 24/7]",
     "type": "News",
-    "url": "https://5b48d7e1b4bce.streamlock.net/pratidintime/pratidintime/playlist.m3u8",
+    "url": "https://yuppftalive.akamaized.net/080823/protidintime/playlist.m3u8",
     "img": "https://i.imgur.com/2kzS7y0.png"
   },
   {
@@ -744,6 +792,12 @@
     "img": "https://i.imgur.com/Ni8pZLF.png"
   },
   {
+    "name": "WION (1080p)",
+    "type": "News",
+    "url": "https://d7x8z4yuq42qn.cloudfront.net/index_7.m3u8",
+    "img": "https://i.imgur.com/Wc5Z3iS.png"
+  },
+  {
     "name": "Yoganadam News (720p)",
     "type": "News",
     "url": "https://yoganadam.cinesoftcdn.com/yoganadam/live/index.m3u8",
@@ -780,298 +834,16 @@
     "img": "https://www.mncvision.id/userfiles/image/channel/cnn_new.jpg"
   },
   {
-    "name": "ABP News",
-    "type": "News",
-    "url": "https://companion-live-play1.streamready.in/live/med14-2/abp_news/ndashd/abp_news.mpd?%7Ccookie=Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9jb21wYW5pb24tbGl2ZS1wbGF5MS5zdHJlYW1yZWFkeS5pbi9saXZlL21lZDE0LTIvYWJwX25ld3MvbmRhc2hkLw==:Expires=1754570709:KeyName=iptv-prod-media-cdn-keys:Signature=ELfVShVEOZBnZSX17NyzqapU_50OSaCVBpj3zLS4JJd9NQRN-ZEvMiGmBWxKfyLgOOlsMglbCwDOIt4Y-31kBw==",
-    "img": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ABP_NEWS/images/LOGO_HD/image.png"
-  },
-  {
-    "name": "Aaj Tak HD",
-    "type": "News",
-    "url": "https://companion-live-play1.streamready.in/live/med6-2/aaj_tak_hd/ndashhd/aaj_tak_hd.mpd?%7Ccookie=Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9jb21wYW5pb24tbGl2ZS1wbGF5MS5zdHJlYW1yZWFkeS5pbi9saXZlL21lZDYtMi9hYWpfdGFrX2hkL25kYXNoaGQv:Expires=1754570709:KeyName=iptv-prod-media-cdn-keys:Signature=Fv3iVhc5yEo9zvcWfXJuDF6S-sjHiljQde37ofc8gvAVRMS7mVWkW6kpNIyalS1v5u5hDVigq8l29E7o-vPcCg==",
-    "img": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_AAJ_TAK_HD/images/LOGO_HD/image.png"
-  },
-  {
-    "name": "Zee News",
-    "type": "News",
-    "url": "https://companion-live-play1.streamready.in/live/med12-2/zee_news/ndashd/zee_news.mpd?%7Ccookie=Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9jb21wYW5pb24tbGl2ZS1wbGF5MS5zdHJlYW1yZWFkeS5pbi9saXZlL21lZDEyLTIvemVlX25ld3MvbmRhc2hkLw==:Expires=1754574310:KeyName=iptv-prod-media-cdn-keys:Signature=bCk8UvWrStgWe3nIUKOBqgJqIihuK85WID9Se8Q27EBep5h7StTFZK9LS27De0cXBQDlO5wft3cMymbF19XKCA==",
-    "img": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZEE_NEWS/images/LOGO_HD/image.png"
-  },
-  {
-    "name": "Aaj Tak",
-    "type": "News",
-    "url": "https://companion-live-play1.streamready.in/live/med1-2/aaj_tak/ndashd/aaj_tak.mpd?%7Ccookie=Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9jb21wYW5pb24tbGl2ZS1wbGF5MS5zdHJlYW1yZWFkeS5pbi9saXZlL21lZDEtMi9hYWpfdGFrL25kYXNoZC8=:Expires=1754567109:KeyName=iptv-prod-media-cdn-keys:Signature=WCyGyh42vDJO3zHWbMFGGPOeD2Buyk2-ICptuWKjCTKw21LirNMYIIgscjKOgHWOVosPNt1I3BbqVGjU1vW_Dw==",
-    "img": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_AAJ_TAK/images/LOGO_HD/image.png"
-  },
-  {
-    "name": "India TV",
-    "type": "News",
-    "url": "https://companion-live-play1.streamready.in/live/med1-2/india_tv/ndashd/india_tv.mpd?%7Ccookie=Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9jb21wYW5pb24tbGl2ZS1wbGF5MS5zdHJlYW1yZWFkeS5pbi9saXZlL21lZDEtMi9pbmRpYV90di9uZGFzaGQv:Expires=1754574310:KeyName=iptv-prod-media-cdn-keys:Signature=Vu7vftolLAsmv8u6nK16kxdqvCUuaoiIBWixqwrt34Jh_m69G2L9id31AK5_PSowg8YagxI7wSlRxXY4_BVEAg==",
-    "img": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_INDIA_TV/images/LOGO_HD/image.png"
-  },
-  {
-    "name": "R Bharat",
-    "type": "News",
-    "url": "https://companion-live-play1.streamready.in/live/med14-2/r_bharat/ndashd/r_bharat.mpd?%7Ccookie=Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9jb21wYW5pb24tbGl2ZS1wbGF5MS5zdHJlYW1yZWFkeS5pbi9saXZlL21lZDE0LTIvcl9iaGFyYXQvbmRhc2hkLw==:Expires=1754566213:KeyName=iptv-prod-media-cdn-keys:Signature=I3Q1j099aajX0pb9hzqe5c3Zwm1mW0pqfjc88wTbHiGx9Gc9N6ssoNW4-XnAWyQ9sVLcKsO3zab4YXwaYSF0DQ==",
-    "img": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_R_BHARAT/images/LOGO_HD/image.png"
-  },
-  {
-    "name": "NDTV India",
-    "type": "News",
-    "url": "https://companion-live-play1.streamready.in/live/med3-2/ndtv_india/ndashd/ndtv_india.mpd?%7Ccookie=Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9jb21wYW5pb24tbGl2ZS1wbGF5MS5zdHJlYW1yZWFkeS5pbi9saXZlL21lZDMtMi9uZHR2X2luZGlhL25kYXNoZC8=:Expires=1754574310:KeyName=iptv-prod-media-cdn-keys:Signature=S3Wt6QtSWi82snAiyaDx0uW5LN2ZZ8Zggz65zG_F8H_npgT83x-5KORR5RRwoW1bJJ9m72vv5W42qglmjZ1TAQ==",
-    "img": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_NDTV_INDIA/images/LOGO_HD/image.png"
-  },
-  {
-    "name": "Zee Bharat",
-    "type": "News",
-    "url": "https://companion-live-play1.streamready.in/live/med1-2/zee_bharat/ndashd/zee_bharat.mpd?%7Ccookie=Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9jb21wYW5pb24tbGl2ZS1wbGF5MS5zdHJlYW1yZWFkeS5pbi9saXZlL21lZDItMi96ZWVfYmhhcmF0L25kYXNoZC8=:Expires=1754567109:KeyName=iptv-prod-media-cdn-keys:Signature=ifXTZTlgt9XdxoqFx3Mq2BCtEAqzU0B3Oxl4tyi_85o88qdLYmIwegEb7_zzITXE7ilWGMMbjjx_wXliDRYhAg==",
-    "img": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZEE_BHARAT/images/LOGO_HD/image.png"
-  },
-  {
-    "name": "News Nation",
-    "type": "News",
-    "url": "https://companion-live-play1.streamready.in/live/med3-2/news_nation/ndashd/news_nation.mpd?%7Ccookie=Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9jb21wYW5pb24tbGl2ZS1wbGF5MS5zdHJlYW1yZWFkeS5pbi9saXZlL21lZDMtMi9uZXdzX25hdGlvbi9uZGFzaGQv:Expires=1754563510:KeyName=iptv-prod-media-cdn-keys:Signature=UWJIqO8gNB5E61rqsxGBNXgdOclSKYhzf8ZfK67G0IAFMFBGJZFAVu8YOYl5fLvsN9vY-NcVXSJTch3F0Gw3BA==",
-    "img": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_NEWS_NATION/images/LOGO_HD/image.png"
-  },
-  {
-    "name": "Good News Today",
-    "type": "News",
-    "url": "https://companion-live-play1.streamready.in/live/med2-2/good_news_today/ndashd/good_news_today.mpd?%7Ccookie=Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9jb21wYW5pb24tbGl2ZS1wbGF5MS5zdHJlYW1yZWFkeS5pbi9saXZlL21lZDItMi9nb29kX25ld3NfdG9kYXkvbmRhc2hkLw==:Expires=1754566213:KeyName=iptv-prod-media-cdn-keys:Signature=qy5j2CVjxM6O6FyuN6g3nPh8D8gRfPbLEvxgkoGgGrQMx-QTaTsyCKL9oITwO8ZB1TGElAInKmFtV-02UIVQDA==",
-    "img": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_GOOD_NEWS_TODAY/images/LOGO_HD/image.png"
-  },
-  {
-    "name": "Times Now Navbharat",
-    "type": "News",
-    "url": "https://companion-live-play1.streamready.in/live/med14-2/times_now_navbharat/ndashd/times_now_navbharat.mpd?%7Ccookie=Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9jb21wYW5pb24tbGl2ZS1wbGF5MS5zdHJlYW1yZWFkeS5pbi9saXZlL21lZDE0LTIvdGltZXNfbm93X25hdmJoYXJhdC9uZGFzaGQv:Expires=1754567110:KeyName=iptv-prod-media-cdn-keys:Signature=Yl9LO6RO8xanUGg4hdT1bqkz0uxFLQrQu816u8yZVja1FWO0G0NzmavgJmubKXxdsLz8gPQ5MjWmpqIIGxdXDA==",
-    "img": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_TIMES_NOW_NAVBHARAT/images/LOGO_HD/image.png"
-  },
-  {
-    "name": "Times Now Navbharat HD",
-    "type": "News",
-    "url": "https://companion-live-play1.streamready.in/live/med6-2/times_now_navbharat_hd/ndashhd/times_now_navbharat_hd.mpd?%7Ccookie=Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9jb21wYW5pb24tbGl2ZS1wbGF5MS5zdHJlYW1yZWFkeS5pbi9saXZlL21lZDYtMi90aW1lc19ub3dfbmF2YmhhcmF0X2hkL25kYXNoaGQv:Expires=1754570709:KeyName=iptv-prod-media-cdn-keys:Signature=2HKfW2MIE5iJuG-4oXmLUncg3X_CgTywd0c-XvueObLvHEM7Vdhzt9JH_fmh054xEWcWX0RrF73o0nBWhCFgCA==",
-    "img": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_TIMES_NOW_NAVBHARAT_HD/images/LOGO_HD/image.png"
-  },
-  {
-    "name": "News24",
-    "type": "News",
-    "url": "https://companion-live-play1.streamready.in/live/med3-2/news24/ndashd/news24.mpd?%7Ccookie=Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9jb21wYW5pb24tbGl2ZS1wbGF5MS5zdHJlYW1yZWFkeS5pbi9saXZlL21lZDMtMi9uZXdzMjQvbmRhc2hkLw==:Expires=1754570710:KeyName=iptv-prod-media-cdn-keys:Signature=VgoVsIAZQ_y2B9IsMxrMdqKhSnPaxoagA5XjGoiHTpuWV3Lw1e2-JqXvt6xOFh_y-9JO6hF_-pCF1gNz_CGnBg==",
-    "img": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_NEWS24/images/LOGO_HD/image.png"
-  },
-  {
-    "name": "Zee Business",
-    "type": "News",
-    "url": "https://companion-live-play1.streamready.in/live/med12-2/zee_business/ndashd/zee_business.mpd?%7Ccookie=Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9jb21wYW5pb24tbGl2ZS1wbGF5MS5zdHJlYW1yZWFkeS5pbi9saXZlL21lZDEyLTIvemVlX2J1c2luZXNzL25kYXNoZC8=:Expires=1754570710:KeyName=iptv-prod-media-cdn-keys:Signature=hwcHQ7ctMwrVzg88gBPa_DklMVLWe2nuF7lCKX9jlaNk1_artJY7_IhHkz3zp4lq3EHurwknyRZk4rzRb8E5AQ==",
-    "img": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZEE_BUSINESS/images/LOGO_HD/image.png"
-  },
-  {
-    "name": "ET NOW SWADESH",
-    "type": "News",
-    "url": "https://companion-live-play1.streamready.in/live/med13-2/et_now_swadesh/ndashd/et_now_swadesh.mpd?%7Ccookie=Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9jb21wYW5pb24tbGl2ZS1wbGF5MS5zdHJlYW1yZWFkeS5pbi9saXZlL21lZDEzLTIvZXRfbm93X3N3YWRlc2gvbmRhc2hkLw==:Expires=1754568015:KeyName=iptv-prod-media-cdn-keys:Signature=dMFj4v2cqIXemCgVhp-NBjEzM9M8H5BO_zWmiNyiym8sv-VGKMc8L_0Tnu2ONBKgzsmPM-EZQOvcvrtMlT-9DQ==",
-    "img": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ET_NOW_SWADESH/images/LOGO_HD/image.png"
-  },
-  {
-    "name": "Zee Rajasthan News",
-    "type": "News",
-    "url": "https://companion-live-play1.streamready.in/live/med12-2/zee_rajasthan_news/ndashd/zee_rajasthan_news.mpd?%7Ccookie=Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9jb21wYW5pb24tbGl2ZS1wbGF5MS5zdHJlYW1yZWFkeS5pbi9saXZlL21lZDEyLTIvemVlX3JhamFzdGhhbl9uZXdzL25kYXNoZC8=:Expires=1754567110:KeyName=iptv-prod-media-cdn-keys:Signature=VRznvKXMyiyIaEav3DDGGNRYBbB7xUEakoOLuUOqL-mcwf0u3Kb4CnbXgmT0v45bF6yrdG32M2VHHPfR1PhGCQ==",
-    "img": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZEE_RAJASTHAN_NEWS/images/LOGO_HD/image.png"
-  },
-  {
-    "name": "ZEE Delhi NCR Haryana",
-    "type": "News",
-    "url": "https://companion-live-play1.streamready.in/live/med12-2/zee_delhi_ncr_haryana/ndashd/zee_delhi_ncr_haryana.mpd?%7Ccookie=Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9jb21wYW5pb24tbGl2ZS1wbGF5MS5zdHJlYW1yZWFkeS5pbi9saXZlL21lZDEyLTIvemVlX2RlbGhpX25jcl9oYXJ5YW5hL25kYXNoZC8=:Expires=1754563511:KeyName=iptv-prod-media-cdn-keys:Signature=u-OFDyF7dNM9q0ZmSHzBnqWsVnLkETVMr_1rEaLbErMkW2g-IicaZtlQIQIUm9PYcw61Vd4c9gzLyxzTG4xFDw==",
-    "img": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZEE_DELHI_NCR_HARYANA/images/LOGO_HD/image.png"
-  },
-  {
-    "name": "DD News",
-    "type": "News",
-    "url": "https://companion-live-play1.streamready.in/live/med1-2/dd_news/ndashd/dd_news.mpd?%7Ccookie=Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9jb21wYW5pb24tbGl2ZS1wbGF5MS5zdHJlYW1yZWFkeS5pbi9saXZlL21lZDEtMi9kZF9uZXdzL25kYXNoZC8=:Expires=1754567110:KeyName=iptv-prod-media-cdn-keys:Signature=B-Y64dPP62E0p_IiFBEeVt_pQg5wFOZt-UTXSKb-UDQCwaiisQUsaG1vKQfnEZ9Yc4-pNse4WlOlc9mupvpRBQ==",
-    "img": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_DD_NEWS/images/LOGO_HD/image.png"
-  },
-  {
-    "name": "TIMES NOW",
-    "type": "News",
-    "url": "https://companion-live-play1.streamready.in/live/med4-2/times_now/ndashd/times_now.mpd?%7Ccookie=Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9jb21wYW5pb24tbGl2ZS1wbGF5MS5zdHJlYW1yZWFkeS5pbi9saXZlL21lZDQtMi90aW1lc19ub3cvbmRhc2hkLw==:Expires=1754570710:KeyName=iptv-prod-media-cdn-keys:Signature=7lIa2JonA7Ugc3lN5XM2AJ8Bhau-Sw_HeNQARdnwdArUjHWMVX1PKZLNWaCEbzwB0g42c6v-tLk3-EvwB3HYBA==",
-    "img": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_TIMES_NOW/images/LOGO_HD/image.png"
-  },
-  {
-    "name": "Times Now World HD",
-    "type": "News",
-    "url": "https://companion-live-play1.streamready.in/live/med16-2/times_now_world_hd/ndashhd/times_now_world_hd.mpd?%7Ccookie=Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9jb21wYW5pb24tbGl2ZS1wbGF5MS5zdHJlYW1yZWFkeS5pbi9saXZlL21lZDE2LTIvdGltZXNfbm93X3dvcmxkX2hkL25kYXNoaGQv:Expires=1754567110:KeyName=iptv-prod-media-cdn-keys:Signature=qCVLiFkwtZsrYpQXmiaGOfP0MWkJCCcpy7PtLNvUTqTHdLL_ua-6fvr02qRP6BcbqEWgOuL5qPfk2ElaSamECA==",
-    "img": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_TIMES_NOW_WORLD_HD/images/LOGO_HD/image.png"
-  },
-  {
-    "name": "NDTV 24x7",
-    "type": "News",
-    "url": "https://companion-live-play1.streamready.in/live/med3-2/ndtv_24x7/ndashd/ndtv_24x7.mpd?%7Ccookie=Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9jb21wYW5pb24tbGl2ZS1wbGF5MS5zdHJlYW1yZWFkeS5pbi9saXZlL21lZDMtMi9uZHR2XzI0eDcvbmRhc2hkLw==:Expires=1754570710:KeyName=iptv-prod-media-cdn-keys:Signature=ngMu1ZMumndg6vjVWHVj2nxvNKIAfuDHuuVzJ0hTNMfU0GDMrSJKC-Est3AlPYthZBSPzafPswD-S0dox6dnDw==",
-    "img": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_NDTV_24X7/images/LOGO_HD/image.png"
-  },
-  {
-    "name": "INDIA TODAY",
-    "type": "News",
-    "url": "https://companion-live-play1.streamready.in/live/med2-2/india_today/ndashd/india_today.mpd?%7Ccookie=Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9jb21wYW5pb24tbGl2ZS1wbGF5MS5zdHJlYW1yZWFkeS5pbi9saXZlL21lZDItMi9pbmRpYV90b2RheS9uZGFzaGQv:Expires=1754567110:KeyName=iptv-prod-media-cdn-keys:Signature=x-wwOH0gqbfOwoxFNbUwblqlyth9lbhHUXU3DY-lRreRKfEt4OwkZLp5OG2o2-Dxm4PKQkb7BFh64Oj4f31nBw==",
-    "img": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_INDIA_TODAY/images/LOGO_HD/image.png"
-  },
-  {
-    "name": "MIRROR NOW",
-    "type": "News",
-    "url": "https://companion-live-play1.streamready.in/live/med2-2/mirror_now/ndashd/mirror_now.mpd?%7Ccookie=Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9jb21wYW5pb24tbGl2ZS1wbGF5MS5zdHJlYW1yZWFkeS5pbi9saXZlL21lZDItMi9taXJyb3Jfbm93L25kYXNoZC8=:Expires=1754567111:KeyName=iptv-prod-media-cdn-keys:Signature=bZhrtZGPYQtqnXVFxGmsQhtbMltES9jV57-eWJ8gk1V8BOUxV3mjGfUB4FQomAmtChx_y1iOj6gMam19WWQUAA==",
-    "img": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_MIRROR_NOW/images/LOGO_HD/image.png"
-  },
-  {
-    "name": "WION",
-    "type": "News",
-    "url": "https://companion-live-play1.streamready.in/live/med18-2/wion/ndashd/wion.mpd?%7Ccookie=Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9jb21wYW5pb24tbGl2ZS1wbGF5MS5zdHJlYW1yZWFkeS5pbi9saXZlL21lZDItMi93aW9uL25kYXNoZC8=:Expires=1754567110:KeyName=iptv-prod-media-cdn-keys:Signature=VfRWcGslI9bIdHMHcoNLRD9VDhwsOXnufBnY511Auqyx6_efhGpKJxl4Y7GVq48MYvev1ILhmiegbB2oZ3-UBA==",
-    "img": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_WION/images/LOGO_HD/image.png"
-  },
-  {
-    "name": "ET Now",
-    "type": "News",
-    "url": "https://companion-live-play1.streamready.in/live/med2-2/et_now/ndashd/et_now.mpd?%7Ccookie=Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9jb21wYW5pb24tbGl2ZS1wbGF5MS5zdHJlYW1yZWFkeS5pbi9saXZlL21lZDItMi9ldF9ub3cvbmRhc2hkLw==:Expires=1754570710:KeyName=iptv-prod-media-cdn-keys:Signature=RaznY9y7sa-3x-dcW5kFVM2b_wv2tT9fIyvKAvLBDZO5nfU_lkM7iyU9Fw3UiDg6iwIVkAHqSFWzH815AtapDQ==",
-    "img": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ET_NOW/images/LOGO_HD/image.png"
-  },
-  {
-    "name": "NDTV Profit Prime",
-    "type": "News",
-    "url": "https://companion-live-play1.streamready.in/live/med3-2/ndtv_profit_prime/ndashd/ndtv_profit_prime.mpd?%7Ccookie=Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9jb21wYW5pb24tbGl2ZS1wbGF5MS5zdHJlYW1yZWFkeS5pbi9saXZlL21lZDMtMi9uZHR2X3Byb2ZpdF9wcmltZS9uZGFzaGQv:Expires=1754570710:KeyName=iptv-prod-media-cdn-keys:Signature=LdxdJH6fnnL0IJerz8KEg3FXBvhtjtyZ98Bt3CFkke05_fZWGLaDAC0Oqbh5fFg5c4e6MjAALsowdI2-Wf00Ag==",
-    "img": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_NDTV_PROFIT_PRIME/images/LOGO_HD/image.png"
-  },
-  {
-    "name": "CNN International",
-    "type": "News",
-    "url": "https://companion-live-play1.streamready.in/live/med14-2/cnn_international/ndashd/cnn_international.mpd?%7Ccookie=Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9jb21wYW5pb24tbGl2ZS1wbGF5MS5zdHJlYW1yZWFkeS5pbi9saXZlL21lZDE0LTIvY25uX2ludGVybmF0aW9uYWwvbmRhc2hkLw==:Expires=1754570711:KeyName=iptv-prod-media-cdn-keys:Signature=vUpbplyXk7SkhQnuC_rV0U6OycQNuuhtWiR5cnVKSkqO1psKPbcfGFu7mzLMcU5Rvy-1IEK4TmjIqIiV6rWhCA==",
-    "img": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_CNN_INTERNATIONAL/images/LOGO_HD/image.png"
-  },
-  {
-    "name": "ABP Majha",
-    "type": "News",
-    "url": "https://companion-live-play1.streamready.in/live/med1-2/abp_majha/ndashd/abp_majha.mpd?%7Ccookie=Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9jb21wYW5pb24tbGl2ZS1wbGF5MS5zdHJlYW1yZWFkeS5pbi9saXZlL21lZDEtMi9hYnBfbWFqaGEvbmRhc2hkLw==:Expires=1754563511:KeyName=iptv-prod-media-cdn-keys:Signature=Kp7ZwzrlmFIXx_DmFqQRWd5hZZvxMAaNLEGeXV3hNXOZkPh3NJJQntP4oZqUOWT9gVjqWA69-okKFxbzHqIcCA==",
-    "img": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ABP_MAJHA/images/LOGO_HD/image.png"
-  },
-  {
-    "name": "Zee 24 Taas",
-    "type": "News",
-    "url": "https://companion-live-play1.streamready.in/live/med1-2/zee_24_taas/ndashd/zee_24_taas.mpd?%7Ccookie=Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9jb21wYW5pb24tbGl2ZS1wbGF5MS5zdHJlYW1yZWFkeS5pbi9saXZlL21lZDItMi96ZWVfMjRfdGFhcy9uZGFzaGQv:Expires=1754567112:KeyName=iptv-prod-media-cdn-keys:Signature=oVhM_zF0sw3APVCUSW5CRS80EQhmaZOsbHq0coDXhfmsAlpIRSXAsZye37eGqfVeQrApDm1vsCw9a-eA-9M1Bw==",
-    "img": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZEE_24_TAAS/images/LOGO_HD/image.png"
-  },
-  {
-    "name": "Zee 24 Kalak",
-    "type": "News",
-    "url": "https://companion-live-play1.streamready.in/live/med12-2/zee_24_kalak/ndashd/zee_24_kalak.mpd?%7Ccookie=Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9jb21wYW5pb24tbGl2ZS1wbGF5MS5zdHJlYW1yZWFkeS5pbi9saXZlL21lZDEyLTIvemVlXzI0X2thbGFrL25kYXNoZC8=:Expires=1754567112:KeyName=iptv-prod-media-cdn-keys:Signature=iDXJlTdvqoRNW-xmIZTa_ADgSuX1_s-ti7iubuf2U0BdCsH_MdxN-tWlbT3yL3RPFl6sSo_QF_qa4kA5igSrCg==",
-    "img": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZEE_24_KALAK/images/LOGO_HD/image.png"
-  },
-  {
-    "name": "ABP Asmita",
-    "type": "News",
-    "url": "https://companion-live-play1.streamready.in/live/med14-2/abp_asmita/ndashd/abp_asmita.mpd?%7Ccookie=Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9jb21wYW5pb24tbGl2ZS1wbGF5MS5zdHJlYW1yZWFkeS5pbi9saXZlL21lZDE0LTIvYWJwX2FzbWl0YS9uZGFzaGQv:Expires=1754567112:KeyName=iptv-prod-media-cdn-keys:Signature=Fl5-Cmv_nKn3Ry66tLCdaTGdjXxVQio6YUqk3FArToPPvv_7WynjBe0v5bTWn1vuxKBtaf_YBny_7GjA2jRpAQ==",
-    "img": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ABP_ASMITA/images/LOGO_HD/image.png"
-  },
-  {
-    "name": "DD Imphal",
-    "type": "News",
-    "url": "https://companion-live-play1.streamready.in/live/med10-2/dd_imphal/ndashd/dd_imphal.mpd?%7Ccookie=Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9jb21wYW5pb24tbGl2ZS1wbGF5MS5zdHJlYW1yZWFkeS5pbi9saXZlL21lZDEwLTIvZGRfaW1waGFsL25kYXNoZC8=:Expires=1754567113:KeyName=iptv-prod-media-cdn-keys:Signature=u0gqBfiRk7JJ8GgR1QKBO9entJhCH0VZQDy3aGlQM_OysM_Ys_ljH5Y-ZFLM5fxHJebjjoR2riKwmEbcrf1VDQ==",
-    "img": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_DD_IMPHAL/images/LOGO_HD/image.png"
-  },
-  {
-    "name": "DD Bihar",
-    "type": "News",
-    "url": "https://companion-live-play1.streamready.in/live/med10/dd_bihar/ndashd/dd_bihar.mpd?%7Ccookie=Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9jb21wYW5pb24tbGl2ZS1wbGF5MS5zdHJlYW1yZWFkeS5pbi9saXZlL21lZDEwLTIvZGRfYmloYXIvbmRhc2hkLw==:Expires=1754563512:KeyName=iptv-prod-media-cdn-keys:Signature=EZf55WAYqcttXS_J9V_UerLMwjWucGtZQTGS8nLQOO3DA9YcyQh1nwspQm7jgX9n8HBzogrzPtQav83Sl9PQDA==",
-    "img": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_DD_BIHAR/images/LOGO_HD/image.png"
-  },
-  {
-    "name": "Zee 24 Ghanta",
-    "type": "News",
-    "url": "https://companion-live-play1.streamready.in/live/med1-2/zee_24_ghanta/ndashd/zee_24_ghanta.mpd?%7Ccookie=Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9jb21wYW5pb24tbGl2ZS1wbGF5MS5zdHJlYW1yZWFkeS5pbi9saXZlL21lZDItMi96ZWVfMjRfZ2hhbnRhL25kYXNoZC8=:Expires=1754575220:KeyName=iptv-prod-media-cdn-keys:Signature=GMIV7fT5rX36Hw8curwoMZVyWauS6pYIdwg7_czekljAxREc_tKBxcBvUtkrAoyxYtyyhWLChVJYdgIdcYEzCQ==",
-    "img": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZEE_24_GHANTA/images/LOGO_HD/image.png"
-  },
-  {
-    "name": "ABP Ananda",
-    "type": "News",
-    "url": "https://companion-live-play1.streamready.in/live/med14/abp_ananda/ndashd/abp_ananda.mpd?%7Ccookie=Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9jb21wYW5pb24tbGl2ZS1wbGF5MS5zdHJlYW1yZWFkeS5pbi9saXZlL21lZDE0LTIvYWJwX2FuYW5kYS9uZGFzaGQv:Expires=1754571619:KeyName=iptv-prod-media-cdn-keys:Signature=kj_JmjxJ6OT9I8GCIjMeNvSFcoGQB-Mh1u3NLIcUMn7dxCaiD5Fxy7sz0CgaOZ_i4U42bJix9_m8p_CU8XtSBg==",
-    "img": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ABP_ANANDA/images/LOGO_HD/image.png"
-  },
-  {
-    "name": "R. Bangla",
-    "type": "News",
-    "url": "https://companion-live-play1.streamready.in/live/med14-2/r_bangla/ndashd/r_bangla.mpd?%7Ccookie=Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9jb21wYW5pb24tbGl2ZS1wbGF5MS5zdHJlYW1yZWFkeS5pbi9saXZlL21lZDE0LTIvcl9iYW5nbGEvbmRhc2hkLw==:Expires=1754572512:KeyName=iptv-prod-media-cdn-keys:Signature=gEdsUE2ZfqYFcQMwI2APSdM_8RhrHCRpD6UfmEP0AYfs73sXOeqZLU8lIepTNs_Jmsqcu3qVb5TK0g_fvaeqDA==",
-    "img": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_RSYMDOT_BANGLA/images/LOGO_HD/image.png"
-  },
-  {
-    "name": "Puthiya Thalaimurai",
-    "type": "News",
-    "url": "https://companion-live-play1.streamready.in/live/med3/puthiya_thalaimurai/ndashd/puthiya_thalaimurai.mpd?%7Ccookie=Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9jb21wYW5pb24tbGl2ZS1wbGF5MS5zdHJlYW1yZWFkeS5pbi9saXZlL21lZDMtMi9wdXRoaXlhX3RoYWxhaW11cmFpL25kYXNoZC8=:Expires=1754571619:KeyName=iptv-prod-media-cdn-keys:Signature=mmsGhJKjY0bauoPOlXija1q0vHMRpApFVMhctAkFJY2yxwezqqvw24CRT4-5ZTDaj7OpNknRdLvEeV_2KSfaBA==",
-    "img": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_PUTHIYA_THALAIMURAI/images/LOGO_HD/image.png"
-  },
-  {
-    "name": "Seithigal 24x7",
-    "type": "News",
-    "url": "https://companion-live-play1.streamready.in/live/med13/seithigal_24x7/ndashd/seithigal_24x7.mpd?%7Ccookie=Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9jb21wYW5pb24tbGl2ZS1wbGF5MS5zdHJlYW1yZWFkeS5pbi9saXZlL21lZDEzLTIvc2VpdGhpZ2FsXzI0eDcvbmRhc2hkLw==:Expires=1754567114:KeyName=iptv-prod-media-cdn-keys:Signature=Vqcj7BkOlfPTz9GykRH0jgUSAFn1fCrp0ID6DQSe_0qRacjnOOX6m0U-i-wm2UoF8TbnqQ9QwDQPwNncVh7IDA==",
-    "img": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SEITHIGAL_24X7/images/LOGO_HD/image.png"
-  },
-  {
-    "name": "Jaya Plus",
-    "type": "News",
-    "url": "https://companion-live-play1.streamready.in/live/med2/jaya_plus/ndashd/jaya_plus.mpd?%7Ccookie=Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9jb21wYW5pb24tbGl2ZS1wbGF5MS5zdHJlYW1yZWFkeS5pbi9saXZlL21lZDItMi9qYXlhX3BsdXMvbmRhc2hkLw==:Expires=1754567114:KeyName=iptv-prod-media-cdn-keys:Signature=b8NYewGF-funRTmUA1OeKVWzLlPIqpqYKLp0BmwHfyUr6yHEzIY6-v0-BEQOzsNdtRvM1sv1coOulLnHDQc4Bg==",
-    "img": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_JAYA_PLUS/images/LOGO_HD/image.png"
-  },
-  {
-    "name": "Sathiyam TV",
-    "type": "News",
-    "url": "https://companion-live-play1.streamready.in/live/med3/sathiyam_tv/ndashd/sathiyam_tv.mpd?%7Ccookie=Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9jb21wYW5pb24tbGl2ZS1wbGF5MS5zdHJlYW1yZWFkeS5pbi9saXZlL21lZDMtMi9zYXRoaXlhbV90di9uZGFzaGQv:Expires=1754567115:KeyName=iptv-prod-media-cdn-keys:Signature=qCIsw-JDPqjHCUomF7Y61FD7ikFWm8tHtFBNMttQHYucLRG1pHbd0HaldIXPliRdTvyF3q6Do1rY9feTo0X6DA==",
-    "img": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SATHIYAM_TV/images/LOGO_HD/image.png"
-  },
-  {
-    "name": "Raj News Tamil",
-    "type": "News",
-    "url": "https://companion-live-play1.streamready.in/live/med13/raj_news/ndashd/raj_news.mpd?%7Ccookie=Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9jb21wYW5pb24tbGl2ZS1wbGF5MS5zdHJlYW1yZWFkeS5pbi9saXZlL21lZDEzLTIvcmFqX25ld3MvbmRhc2hkLw==:Expires=1754572513:KeyName=iptv-prod-media-cdn-keys:Signature=I7hH6-vZeZyIMia0OvVl5klaWgiD04e4XVaA865BH1E6exffDG_yYIjlY18EE-CHI6QhzYwd6CVwzTDbMWzsDA==",
-    "img": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_RAJ_NEWS_TAMIL/images/LOGO_HD/image.png"
-  },
-  {
-    "name": "Asianet News",
-    "type": "News",
-    "url": "https://companion-live-play1.streamready.in/live/med1/asianet_news/ndashd/asianet_news.mpd?%7Ccookie=Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9jb21wYW5pb24tbGl2ZS1wbGF5MS5zdHJlYW1yZWFkeS5pbi9saXZlL21lZDEtMi9hc2lhbmV0X25ld3MvbmRhc2hkLw==:Expires=1754572513:KeyName=iptv-prod-media-cdn-keys:Signature=nmQzWdJBg7ZvNqeBWAs-c9HbA5mtHAtcE9nBZJm69682z7n5RTrfiWfyDwuqn3jv4IzesE5FrKJ7YAO5HcTuDQ==",
-    "img": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ASIANET_NEWS/images/LOGO_HD/image.png"
-  },
-  {
-    "name": "Twenty Four",
-    "type": "News",
-    "url": "https://companion-live-play1.streamready.in/live/med4/twenty_four/ndashd/twenty_four.mpd?%7Ccookie=Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9jb21wYW5pb24tbGl2ZS1wbGF5MS5zdHJlYW1yZWFkeS5pbi9saXZlL21lZDQtMi90d2VudHlfZm91ci9uZGFzaGQv:Expires=1754570716:KeyName=iptv-prod-media-cdn-keys:Signature=Npwha0zJQlMKevLs9yLBtR2MhPxjTOV89zlzEVhU4ypIebLdHmjbdy4LPR7sfrws7XwTZDPnjp-T9hyi4kPnCw==",
-    "img": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_TWENTY_FOUR/images/LOGO_HD/image.png"
-  },
-  {
-    "name": "DD Malayalam",
-    "type": "News",
-    "url": "https://companion-live-play1.streamready.in/live/med1-2/dd_malayalam/ndashd/dd_malayalam.mpd?%7Ccookie=Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9jb21wYW5pb24tbGl2ZS1wbGF5MS5zdHJlYW1yZWFkeS5pbi9saXZlL21lZDEtMi9kZF9tYWxheWFsYW0vbmRhc2hkLw==:Expires=1754570716:KeyName=iptv-prod-media-cdn-keys:Signature=3p9o1HJ393khJ-Mxa95JAxTbqSXVzj8KOS64nH7rYNByPu29pNZ_nt58XUKddYlXXgf3OwqGU5tjAh0c-pGuAw==",
-    "img": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_DD_MALAYALAM/images/LOGO_HD/image.png"
-  },
-  {
-    "name": "NTV",
-    "type": "News",
-    "url": "https://companion-live-play1.streamready.in/live/med3/ntv/ndashd/ntv.mpd?%7Ccookie=Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9jb21wYW5pb24tbGl2ZS1wbGF5MS5zdHJlYW1yZWFkeS5pbi9saXZlL21lZDMtMi9udHYvbmRhc2hkLw==:Expires=1754563514:KeyName=iptv-prod-media-cdn-keys:Signature=wUFw7oCP63yae7M474WFBfX-RzskflC1VGOpTJcD7q6J8RbKcvG_yg7WEU9o-9Av8jb7WNzJwcxvwEPWTSrOCQ==",
-    "img": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_NTV/images/LOGO_HD/image.png"
-  },
-  {
-    "name": "V6 NEWS",
-    "type": "News",
-    "url": "https://companion-live-play1.streamready.in/live/med14-2/v6_news/ndashd/v6_news.mpd?%7Ccookie=Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9jb21wYW5pb24tbGl2ZS1wbGF5MS5zdHJlYW1yZWFkeS5pbi9saXZlL21lZDE0LTIvdjZfbmV3cy9uZGFzaGQv:Expires=1754571620:KeyName=iptv-prod-media-cdn-keys:Signature=8F0gew0DLkerz1CHhxSxxCfnzNtyWd6fmwgsRUjAxiMETVnjlReuyE4L5J8HaFrlr68o5zOwZPhJtyvFCZVDBA==",
-    "img": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_V6_NEWS/images/LOGO_HD/image.png"
-  },
-  {
-    "name": "Asianet Suvarna News",
-    "type": "News",
-    "url": "https://companion-live-play1.streamready.in/live/med1-2/asianet_suvarna_news/ndashd/asianet_suvarna_news.mpd?%7Ccookie=Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9jb21wYW5pb24tbGl2ZS1wbGF5MS5zdHJlYW1yZWFkeS5pbi9saXZlL21lZDEtMi9hc2lhbmV0X3N1dmFybmFfbmV3cy9uZGFzaGQv:Expires=1754563519:KeyName=iptv-prod-media-cdn-keys:Signature=GMZ2c5DI_836BM6uvIZyFGd0sLSINVprb7n5DYYr6VADDERLO2TEEhcFH_WuFZZcziJUxua7b1O_b4oo7fxcDw==",
-    "img": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ASIANET_SUVARNA_NEWS/images/LOGO_HD/image.png"
-  },
-  {
-    "name": "R.Kannada",
-    "type": "News",
-    "url": "https://companion-live-play1.streamready.in/live/med14-2/r_kannada/ndashd/r_kannada.mpd?%7Ccookie=Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9jb21wYW5pb24tbGl2ZS1wbGF5MS5zdHJlYW1yZWFkeS5pbi9saXZlL21lZDE0LTIvcl9rYW5uYWRhL25kYXNoZC8=:Expires=1754567120:KeyName=iptv-prod-media-cdn-keys:Signature=atCTnuhB13jKxNFJwA2YwCEloCVi4jFTEvUatCxhVmziBCGTP4rEYhnyrYFbmbMXqIJPwzg9bGkK4t6jEZ9uBQ==",
-    "img": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_RSYMDOTKANNADA/images/LOGO_HD/image.png"
-  },
-  {
     "name": "7S Music (576p) [Not 24/7]",
     "type": "Music",
     "url": "http://103.199.161.254/Content/7smusic/Live/Channel(7smusic)/index.m3u8",
     "img": "https://i.imgur.com/zDiIhdN.png"
+  },
+  {
+    "name": "9X Jalwa (1080p)",
+    "type": "Music",
+    "url": "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/9x-jalwa/master.m3u8",
+    "img": "https://i.imgur.com/qubgOi5.png"
   },
   {
     "name": "9x Jhakaas",
@@ -1090,12 +862,6 @@
     "type": "Music",
     "url": "https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/9xm/23886666-8fc5-470f-aab1-bd637ed607b1/3.m3u8",
     "img": "https://i.imgur.com/F17QtN2.png"
-  },
-  {
-    "name": "Adipoli (1080p)",
-    "type": "Music",
-    "url": "https://live.hungama.com/linear/adipoli/playlist.m3u8",
-    "img": "https://i.imgur.com/K62w3Hu.png"
   },
   {
     "name": "Artist Aloud (1080p) [Not 24/7]",
@@ -1138,6 +904,12 @@
     "type": "Music",
     "url": "https://live.hungama.com/linear/dil-se/playlist.m3u8",
     "img": "https://i.imgur.com/zYbltEk.png"
+  },
+  {
+    "name": "Euro Indie Music Chart TV (360p)",
+    "type": "Music",
+    "url": "http://178.33.224.197:1935/euroindiemusic/euroindiemusic/playlist.m3u8",
+    "img": "https://i.imgur.com/lF0iofX.png"
   },
   {
     "name": "Insync (576p)",
@@ -1278,60 +1050,6 @@
     "img": "https://i.imgur.com/k1nb8u1.jpeg"
   },
   {
-    "name": "B4U Music",
-    "type": "Music",
-    "url": "https://companion-live-play1.streamready.in/live/med4-2/b4u_music/ndashd/b4u_music.mpd?%7Ccookie=Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9jb21wYW5pb24tbGl2ZS1wbGF5MS5zdHJlYW1yZWFkeS5pbi9saXZlL21lZDQtMi9iNHVfbXVzaWMvbmRhc2hkLw==:Expires=1754567111:KeyName=iptv-prod-media-cdn-keys:Signature=6hXc3_KiP_xHTSHKpLssX1HcsZ2-M8bUJAw11PWNxTuhHuvr3bHZZxsBEiVbWRawJKWATVKczbKrJ7AQQUiSCA==",
-    "img": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_B4U_MUSIC/images/LOGO_HD/image.png"
-  },
-  {
-    "name": "Showbox",
-    "type": "Music",
-    "url": "https://companion-live-play1.streamready.in/live/med14-2/showbox/ndashd/showbox.mpd?%7Ccookie=Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9jb21wYW5pb24tbGl2ZS1wbGF5MS5zdHJlYW1yZWFkeS5pbi9saXZlL21lZDE0LTIvc2hvd2JveC9uZGFzaGQv:Expires=1754575220:KeyName=iptv-prod-media-cdn-keys:Signature=iGFJtOZ67a5cG-EvPffnjdm5HEH0EXe2bqllkGMX5fiB5qWl9C2RlcdJZGAclxqiVLZTvXnZc9zezuuTch8nDQ==",
-    "img": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SHOWBOX/images/LOGO_HD/image.png"
-  },
-  {
-    "name": "Zoom",
-    "type": "Music",
-    "url": "https://companion-live-play1.streamready.in/live/med3-2/zoom/ndashd/zoom.mpd?%7Ccookie=Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9jb21wYW5pb24tbGl2ZS1wbGF5MS5zdHJlYW1yZWFkeS5pbi9saXZlL21lZDMtMi96b29tL25kYXNoZC8=:Expires=1754567111:KeyName=iptv-prod-media-cdn-keys:Signature=lZ5wc1UKHoZSlnOvclRu7LRFZbsUz84gH9jvdE4jg4T2ZicH8uklD67jLYEDwWFEuK7WVnmyG0ZrnC4gudFxDA==",
-    "img": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZOOM/images/LOGO_HD/image.png"
-  },
-  {
-    "name": "Zing",
-    "type": "Music",
-    "url": "https://companion-live-play1.streamready.in/live/med16-2/zing/ndashd/zing.mpd?%7Ccookie=Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9jb21wYW5pb24tbGl2ZS1wbGF5MS5zdHJlYW1yZWFkeS5pbi9saXZlL21lZDE2LTIvemluZy9uZGFzaGQv:Expires=1754571616:KeyName=iptv-prod-media-cdn-keys:Signature=CGWQ5pxPi7mwFu2CAP_KUudxuxO4E8D7HEMMQsEyQwljhb_zb1gXsYIEF6dziEm7DMlQDZoKFkDF779WQOIMCw==",
-    "img": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZING/images/LOGO_HD/image.png"
-  },
-  {
-    "name": "Tarang Music",
-    "type": "Music",
-    "url": "https://companion-live-play1.streamready.in/live/med4-2/tarang_music/ndashd/tarang_music.mpd?%7Ccookie=Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9jb21wYW5pb24tbGl2ZS1wbGF5MS5zdHJlYW1yZWFkeS5pbi9saXZlL21lZDQtMi90YXJhbmdfbXVzaWMvbmRhc2hkLw==:Expires=1754570716:KeyName=iptv-prod-media-cdn-keys:Signature=_ymn2LvJzljVXBnz8h737705vrEmvseV7VicsTOMqRb0Bzz6VNIKjh4OSmOLAtM8jQcywMWfZk8Xu6Nrd_jnCQ==",
-    "img": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_TARANG_MUSIC/images/LOGO_HD/image.png"
-  },
-  {
-    "name": "Murasu",
-    "type": "Music",
-    "url": "https://companion-live-play1.streamready.in/live/med3-2/murasu/ndashd/murasu.mpd?%7Ccookie=Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9jb21wYW5pb24tbGl2ZS1wbGF5MS5zdHJlYW1yZWFkeS5pbi9saXZlL21lZDMtMi9tdXJhc3UvbmRhc2hkLw==:Expires=1754572512:KeyName=iptv-prod-media-cdn-keys:Signature=CZ0bVfBvjZEx4L4ESAyEeUxK01_L9yZmPr39aVMtwoy9U4WURxBbX--rOxo-eLa68qGXAIFTxQ-D2kj8BmARBw==",
-    "img": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_MURASU/images/LOGO_HD/image.png"
-  },
-  {
-    "name": "Mega Musiq",
-    "type": "Music",
-    "url": "https://companion-live-play1.streamready.in/live/med2-2/mega_musiq/ndashd/mega_musiq.mpd?%7Ccookie=Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9jb21wYW5pb24tbGl2ZS1wbGF5MS5zdHJlYW1yZWFkeS5pbi9saXZlL21lZDItMi9tZWdhX211c2lxL25kYXNoZC8=:Expires=1754567120:KeyName=iptv-prod-media-cdn-keys:Signature=1ih0uiP6drG_DT1XXXdSm1j51asvMM9jW223rdjjevutpKJKcLVBmjfQChjISoQo4SgZm12H00xNq-kSEbx6CA==",
-    "img": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_MEGA_MUSIQ/images/LOGO_HD/image.png"
-  },
-  {
-    "name": "Raj Musix Tamil",
-    "type": "Music",
-    "url": "https://companion-live-play1.streamready.in/live/med13-2/raj_musix_tamil/ndashd/raj_musix_tamil.mpd?%7Ccookie=Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9jb21wYW5pb24tbGl2ZS1wbGF5MS5zdHJlYW1yZWFkeS5pbi9saXZlL21lZDEzLTIvcmFqX211c2l4X3RhbWlsL25kYXNoZC8=:Expires=1754572513:KeyName=iptv-prod-media-cdn-keys:Signature=k2Rctu4ayyCej6iM97i_8UfFAQ2qQGKXPfRDo_kpzaHGEUrY0EOT_lDG06vcodqKND3U7xZhKWq0ASKYOEECAw==",
-    "img": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_RAJ_MUSIX_TAMIL/images/LOGO_HD/image.png"
-  },
-  {
-    "name": "PUBLIC MUSIC",
-    "type": "Music",
-    "url": "https://companion-live-play1.streamready.in/live/med14-2/public_music/ndashd/public_music.mpd?%7Ccookie=Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9jb21wYW5pb24tbGl2ZS1wbGF5MS5zdHJlYW1yZWFkeS5pbi9saXZlL21lZDE0LTIvcHVibGljX211c2ljL25kYXNoZC8=:Expires=1754572513:KeyName=iptv-prod-media-cdn-keys:Signature=3mmKZVuQe7DRgzr-LSXBaq4vNs-CtQoVNaRT8q4LUsfhkNZBHfYQoxW5EJYLjVLsruLlDccezc_9AO9YuuslCQ==",
-    "img": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_PUBLIC_MUSIC/images/LOGO_HD/image.png"
-  },
-  {
     "name": "&TV (1080p)",
     "type": "Movies",
     "url": "https://amg01117-amg01117c1-amgplt0165.playout.now3.amagi.tv/playlist.m3u8",
@@ -1446,172 +1164,10 @@
     "img": "https://i.imgur.com/yOPB7JB.png"
   },
   {
-    "name": "SONY Max",
+    "name": "Zee Cinema (1080p) [Geo-blocked]",
     "type": "Movies",
-    "url": "https://companion-live-play1.streamready.in/live/med1-2/sony_max/ndashd/sony_max.mpd?%7Ccookie=Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9jb21wYW5pb24tbGl2ZS1wbGF5MS5zdHJlYW1yZWFkeS5pbi9saXZlL21lZDEtMi9zb255X21heC9uZGFzaGQv:Expires=1754567108:KeyName=iptv-prod-media-cdn-keys:Signature=T_qL7Z8-7yo1pKYAP9kTjtE93h-czpL16c-JdIeboWE-qvk0TeHSP9VbsO9VJxdqogG-sFzKni6ehctE_qA6Cg==",
-    "img": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SONY_MAX/images/LOGO_HD/image.png"
-  },
-  {
-    "name": "Sony MAX HD",
-    "type": "Movies",
-    "url": "https://companion-live-play1.streamready.in/live/med15-2/sony_max_hd/ndashhd/sony_max_hd.mpd?%7Ccookie=Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9jb21wYW5pb24tbGl2ZS1wbGF5MS5zdHJlYW1yZWFkeS5pbi9saXZlL21lZDE1LTIvc29ueV9tYXhfaGQvbmRhc2hoZC8=:Expires=1754574308:KeyName=iptv-prod-media-cdn-keys:Signature=0JxxFcawjoY6SZeDJEMIdv4EPVnQHDM2jp5mh7b11pfrCN0Dla13dHB9Y5PHkqKQQbPzoHY9N3Pkv23iCyhnDg==",
-    "img": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SONY_MAX_HD/images/LOGO_HD/image.png"
-  },
-  {
-    "name": "ZEE CINEMA",
-    "type": "Movies",
-    "url": "https://companion-live-play1.streamready.in/live/med12-2/zee_cinema/ndashd/zee_cinema.mpd?%7Ccookie=Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9jb21wYW5pb24tbGl2ZS1wbGF5MS5zdHJlYW1yZWFkeS5pbi9saXZlL21lZDEyLTIvemVlX2NpbmVtYS9uZGFzaGQv:Expires=1754574310:KeyName=iptv-prod-media-cdn-keys:Signature=yI6X7S2OvVPgkMTfjIQJPHhtg-f9wLJMwZGnSyB_H9sSWytiQjoS4GEU1dEIzmFPQg8dG595jh37DM-1Ui7gDw==",
-    "img": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZEE_CINEMA/images/LOGO_HD/image.png"
-  },
-  {
-    "name": "Sony Max 2",
-    "type": "Movies",
-    "url": "https://companion-live-play1.streamready.in/live/med14-2/sony_max_2/ndashd/sony_max_2.mpd?%7Ccookie=Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9jb21wYW5pb24tbGl2ZS1wbGF5MS5zdHJlYW1yZWFkeS5pbi9saXZlL21lZDE0LTIvc29ueV9tYXhfMi9uZGFzaGQv:Expires=1754574308:KeyName=iptv-prod-media-cdn-keys:Signature=wid-g8g0HQ8bObEMXsHVQd-7GTJeopJ0fpFGgzRlyYGArCAL3MG55hv_0E0ym8-1QhE4O7bxbb4BJwprurXkBQ==",
-    "img": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SONY_MAX_2/images/LOGO_HD/image.png"
-  },
-  {
-    "name": "&Pictures",
-    "type": "Movies",
-    "url": "https://companion-live-play1.streamready.in/live/med15-2/and_pictures/ndashd/and_pictures.mpd?%7Ccookie=Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9jb21wYW5pb24tbGl2ZS1wbGF5MS5zdHJlYW1yZWFkeS5pbi9saXZlL21lZDE1LTIvYW5kX3BpY3R1cmVzL25kYXNoZC8=:Expires=1754570708:KeyName=iptv-prod-media-cdn-keys:Signature=uxNZeMWoln_q3izldbvG3BK69EB1KK-lI4xCyX2buNDKAbr6-Av0I75wiXA8HvX16p1Nl283zrBDORbT9XViBw==",
-    "img": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SYMANDPICTURES/images/LOGO_HD/image.png"
-  },
-  {
-    "name": "Zee Bollywood",
-    "type": "Movies",
-    "url": "https://companion-live-play1.streamready.in/live/med5-2/zee_bollywood/ndashd/zee_bollywood.mpd?%7Ccookie=Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9jb21wYW5pb24tbGl2ZS1wbGF5MS5zdHJlYW1yZWFkeS5pbi9saXZlL21lZDUtMi96ZWVfYm9sbHl3b29kL25kYXNoZC8=:Expires=1754574310:KeyName=iptv-prod-media-cdn-keys:Signature=cZA93NxfUSmBwg8kkqcp16mbuf1-c3EB7QVHiQ-uCGplT0HgbLsss-ahDi05uW0k44PJGtGGJ6SxwrcTmiLSBw==",
-    "img": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZEE_BOLLYWOOD/images/LOGO_HD/image.png"
-  },
-  {
-    "name": "Action Cinema",
-    "type": "Movies",
-    "url": "https://companion-live-play1.streamready.in/live/med15-2/action_cinema/ndashd/action_cinema.mpd?%7Ccookie=Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9jb21wYW5pb24tbGl2ZS1wbGF5MS5zdHJlYW1yZWFkeS5pbi9saXZlL21lZDE1LTIvYWN0aW9uX2NpbmVtYS9uZGFzaGQv:Expires=1754567108:KeyName=iptv-prod-media-cdn-keys:Signature=ECc5fP_2dC3pGxrXQkd6WMDFzdueDW5qJFJVV1xeZE3jpWHThEQATDvqwmrmNGCswwSfoxVplGJ23LtxcYI-Bg==",
-    "img": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ACTION_CINEMA/images/LOGO_HD/image.png"
-  },
-  {
-    "name": "Zee Anmol Cinema",
-    "type": "Movies",
-    "url": "https://companion-live-play1.streamready.in/live/med12-2/zee_anmol_cinema/ndashd/zee_anmol_cinema.mpd?%7Ccookie=Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9jb21wYW5pb24tbGl2ZS1wbGF5MS5zdHJlYW1yZWFkeS5pbi9saXZlL21lZDEyLTIvemVlX2FubW9sX2NpbmVtYS9uZGFzaGQv:Expires=1754567108:KeyName=iptv-prod-media-cdn-keys:Signature=5dDKpdiM3a_ChcZd9LoBiAm8u-04cguqEerJo9wu0dznwDpOsA33FA0nWtizo1FrLNXWKkUIin-GwfM-MhfFBQ==",
-    "img": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZEE_ANMOL_CINEMA/images/LOGO_HD/image.png"
-  },
-  {
-    "name": "B4U Kadak",
-    "type": "Movies",
-    "url": "https://companion-live-play1.streamready.in/live/med2-2/b4u_kadak/ndashd/b4u_kadak.mpd?%7Ccookie=Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9jb21wYW5pb24tbGl2ZS1wbGF5MS5zdHJlYW1yZWFkeS5pbi9saXZlL21lZDItMi9iNHVfa2FkYWsvbmRhc2hkLw==:Expires=1754567108:KeyName=iptv-prod-media-cdn-keys:Signature=W_rEHkXu_drOkmC56_6c1zcvp8IL-GV2goxCsMPYozgF-xuA64FjRP3H4znGC3GqfWaFxIegZvyTc9FGHlHhAA==",
-    "img": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_B4U_KADAK/images/LOGO_HD/image.png"
-  },
-  {
-    "name": "Zee Classic",
-    "type": "Movies",
-    "url": "https://companion-live-play1.streamready.in/live/med12-2/zee_classic/ndashd/zee_classic.mpd?%7Ccookie=Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9jb21wYW5pb24tbGl2ZS1wbGF5MS5zdHJlYW1yZWFkeS5pbi9saXZlL21lZDEyLTIvemVlX2NsYXNzaWMvbmRhc2hkLw==:Expires=1754574309:KeyName=iptv-prod-media-cdn-keys:Signature=odLHII-N1K1J6Cq6xWNFmZo2BhmaYHgigOGWUXgrlzOnjfoxCyw_CUN8XlDm0IBYg_u9Zz5796XOFVoqIUdrCg==",
-    "img": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZEE_CLASSIC/images/LOGO_HD/image.png"
-  },
-  {
-    "name": "B4U Movies",
-    "type": "Movies",
-    "url": "https://companion-live-play1.streamready.in/live/med1-2/b4u_movies/ndashd/b4u_movies.mpd?%7Ccookie=Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9jb21wYW5pb24tbGl2ZS1wbGF5MS5zdHJlYW1yZWFkeS5pbi9saXZlL21lZDEtMi9iNHVfbW92aWVzL25kYXNoZC8=:Expires=1754563510:KeyName=iptv-prod-media-cdn-keys:Signature=vRRB-bCGIK99oasBVvRn5LWMwH80rIvwx7_WMs2bjWmQ19ebkSc-aB0U8TsAY_rz9rqP_l_PHfPKnlPDl_9tDg==",
-    "img": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_B4U_MOVIES/images/LOGO_HD/image.png"
-  },
-  {
-    "name": "Zee Anmol Cinema 2",
-    "type": "Movies",
-    "url": "https://companion-live-play1.streamready.in/live/med12-2/zee_anmol_cinema_2/ndashd/zee_anmol_cinema_2.mpd?%7Ccookie=Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9jb21wYW5pb24tbGl2ZS1wbGF5MS5zdHJlYW1yZWFkeS5pbi9saXZlL21lZDEyLTIvemVlX2FubW9sX2NpbmVtYV8yL25kYXNoZC8=:Expires=1754567108:KeyName=iptv-prod-media-cdn-keys:Signature=GUdToyNwb-L5u4vG6vAY2CQawPF1JaUtn7GnNaHDHDIAUZzvUmbhD4KjLxujy7RD2eLB69XCWnE_ym2iXEOIBg==",
-    "img": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZEE_ANMOL_CINEMA_2/images/LOGO_HD/image.png"
-  },
-  {
-    "name": "SONY PIX",
-    "type": "Movies",
-    "url": "https://companion-live-play1.streamready.in/live/med4-2/sony_pix/ndashd/sony_pix.mpd?%7Ccookie=Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9jb21wYW5pb24tbGl2ZS1wbGF5MS5zdHJlYW1yZWFkeS5pbi9saXZlL21lZDQtMi9zb255X3BpeC9uZGFzaGQv:Expires=1754570708:KeyName=iptv-prod-media-cdn-keys:Signature=LTN1yTxC-60UrsrhVMVlmO6tBlWgiGCj3tlOI2EJaMaMGi3UB_jV63eLv4Z6FhKxoOfU_47NNq6hyKHdsLnEAw==",
-    "img": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SONY_PIX/images/LOGO_HD/image.png"
-  },
-  {
-    "name": "Sony Pix HD",
-    "type": "Movies",
-    "url": "https://companion-live-play1.streamready.in/live/med15-2/sony_pix_hd/ndashhd/sony_pix_hd.mpd?%7Ccookie=Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9jb21wYW5pb24tbGl2ZS1wbGF5MS5zdHJlYW1yZWFkeS5pbi9saXZlL21lZDE1LTIvc29ueV9waXhfaGQvbmRhc2hoZC8=:Expires=1754570709:KeyName=iptv-prod-media-cdn-keys:Signature=hZ2byGxnRQnlN5XKhzzTIKl6Fza2-293WdWycOAVyhOLWzE62Ec-rz4LFUNqoXXtJcPfxWAe7HOLWyqCskWlAA==",
-    "img": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SONY_PIX_HD/images/LOGO_HD/image.png"
-  },
-  {
-    "name": "Movies Now",
-    "type": "Movies",
-    "url": "https://companion-live-play1.streamready.in/live/med3-2/movies_now/ndashd/movies_now.mpd?%7Ccookie=Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9jb21wYW5pb24tbGl2ZS1wbGF5MS5zdHJlYW1yZWFkeS5pbi9saXZlL21lZDMtMi9tb3ZpZXNfbm93L25kYXNoZC8=:Expires=1754563509:KeyName=iptv-prod-media-cdn-keys:Signature=G_edLHbi1nUATUGuTBochGw5oKzzDnlcthoMRLpc_2WvDM5lWxp6HHLdi-kFlHt9t3BG43fAUGvhCPP5hDlUDg==",
-    "img": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_MOVIES_NOW/images/LOGO_HD/image.png"
-  },
-  {
-    "name": "MOVIES NOW HD",
-    "type": "Movies",
-    "url": "https://companion-live-play1.streamready.in/live/med9-2/movies_now_hd/ndashhd/movies_now_hd.mpd?%7Ccookie=Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9jb21wYW5pb24tbGl2ZS1wbGF5MS5zdHJlYW1yZWFkeS5pbi9saXZlL21lZDktMi9tb3ZpZXNfbm93X2hkL25kYXNoaGQv:Expires=1754568909:KeyName=iptv-prod-media-cdn-keys:Signature=ahvWpINv2JXYOCqqP2a4JCR8l29s6ywmdp4HyeCe85haStZzOYiezEPZRBDyWaVrhH-5riQhPnmKCwyCei3DDA==",
-    "img": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_MOVIES_NOW_HD/images/LOGO_HD/image.png"
-  },
-  {
-    "name": "MN+",
-    "type": "Movies",
-    "url": "https://companion-live-play1.streamready.in/live/med6-2/mn_plus/ndashhd/mn_plus.mpd?%7Ccookie=Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9jb21wYW5pb24tbGl2ZS1wbGF5MS5zdHJlYW1yZWFkeS5pbi9saXZlL21lZDYtMi9tbl9wbHVzL25kYXNoaGQv:Expires=1754567108:KeyName=iptv-prod-media-cdn-keys:Signature=iOHe_aBvagM0-vCl7PqypGadK1FmlRkrN1SR9oce95VTJB3FAnyk8Px0JK6wxa-TcRoJ0zMgHDVM3dhQl6bWCA==",
-    "img": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_MNSYMPLUS/images/LOGO_HD/image.png"
-  },
-  {
-    "name": "Romedy Now",
-    "type": "Movies",
-    "url": "https://companion-live-play1.streamready.in/live/med3-2/romedy_now/ndashd/romedy_now.mpd?%7Ccookie=Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9jb21wYW5pb24tbGl2ZS1wbGF5MS5zdHJlYW1yZWFkeS5pbi9saXZlL21lZDMtMi9yb21lZHlfbm93L25kYXNoZC8=:Expires=1754570709:KeyName=iptv-prod-media-cdn-keys:Signature=jrpkmSnNAWsNTePBve6Ee31vKGn3knR2v5swaqH9_y0WOxDHkBaEgSnCQdraZ-jSr0crAjCcWSKvzgAgnz1nAA==",
-    "img": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ROMEDY_NOW/images/LOGO_HD/image.png"
-  },
-  {
-    "name": "&flix",
-    "type": "Movies",
-    "url": "https://companion-live-play1.streamready.in/live/med15-2/and_flix/ndashd/and_flix.mpd?%7Ccookie=Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9jb21wYW5pb24tbGl2ZS1wbGF5MS5zdHJlYW1yZWFkeS5pbi9saXZlL21lZDE1LTIvYW5kX2ZsaXgvbmRhc2hkLw==:Expires=1754570709:KeyName=iptv-prod-media-cdn-keys:Signature=OSUNzXftiaCiqOQ_uZf9Q8uwXfaT4ZIXdMbvPzOvshdHDKYaCT4oA4dK7iiA0_u_46HO9wAdLyPaFIrvexkCBw==",
-    "img": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SYMANDFLIX/images/LOGO_HD/image.png"
-  },
-  {
-    "name": "MNX",
-    "type": "Movies",
-    "url": "https://companion-live-play1.streamready.in/live/med3-2/mnx/ndashd/mnx.mpd?%7Ccookie=Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9jb21wYW5pb24tbGl2ZS1wbGF5MS5zdHJlYW1yZWFkeS5pbi9saXZlL21lZDMtMi9tbngvbmRhc2hkLw==:Expires=1754567109:KeyName=iptv-prod-media-cdn-keys:Signature=4hl6pGeZ9T3GnPgbMCJAlJzYjYf-EjbplCUSW5TCdMWRgPKHQ8XcQjfKNLP7xTLZaIWWXXYcChU03kCSOZNhBQ==",
-    "img": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_MNX/images/LOGO_HD/image.png"
-  },
-  {
-    "name": "MNX HD",
-    "type": "Movies",
-    "url": "https://companion-live-play1.streamready.in/live/med14-2/mnx_hd/ndashhd/mnx_hd.mpd?%7Ccookie=Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9jb21wYW5pb24tbGl2ZS1wbGF5MS5zdHJlYW1yZWFkeS5pbi9saXZlL21lZDE0LTIvbW54X2hkL25kYXNoaGQv:Expires=1754567108:KeyName=iptv-prod-media-cdn-keys:Signature=O2fYFxSorAHSRObEL5C5K2MpubdvsPIOQMzXYHeCh2cyWDBzt8pblD0u87vwtbDcRvOW6AFahtuk8GJBZ26SBQ==",
-    "img": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_MNX_HD/images/LOGO_HD/image.png"
-  },
-  {
-    "name": "Zee Cinema HD",
-    "type": "Movies",
-    "url": "https://companion-live-play1.streamready.in/live/med10-2/zee_cinema_hd/ndashhd/zee_cinema_hd.mpd?%7Ccookie=Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9jb21wYW5pb24tbGl2ZS1wbGF5MS5zdHJlYW1yZWFkeS5pbi9saXZlL21lZDEwLTIvemVlX2NpbmVtYV9oZC9uZGFzaGhkLw==:Expires=1754570717:KeyName=iptv-prod-media-cdn-keys:Signature=6RmWeJN-azuKp6iskinC6nUjYFduNDBdGZH4IWENVPWWwbdNudPjbX2x_lDOz9uugocQDvb68bRUi6LCedKDAw==",
-    "img": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZEE_CINEMA_HD/images/LOGO_HD/image.png"
-  },
-  {
-    "name": "& Pictures HD",
-    "type": "Movies",
-    "url": "https://companion-live-play1.streamready.in/live/med18-2/and_pictures_hd/ndashhd/and_pictures_hd.mpd?%7Ccookie=Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9jb21wYW5pb24tbGl2ZS1wbGF5MS5zdHJlYW1yZWFkeS5pbi9saXZlL21lZDE4LTIvYW5kX3BpY3R1cmVzX2hkL25kYXNoaGQv:Expires=1754572514:KeyName=iptv-prod-media-cdn-keys:Signature=Xr5vFxPh3geVw5cgejQK2JxdJSlVqhmMLFfx8f8Fy7yhFyax2GUUxYCSta9yx6lsYYpxChDdo99hNc6OsN5eCA==",
-    "img": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SYMAND_PICTURES_HD/images/LOGO_HD/image.png"
-  },
-  {
-    "name": "&Xplor HD",
-    "type": "Movies",
-    "url": "https://companion-live-play1.streamready.in/live/med8-2/and_xplor_hd/ndashhd/and_xplor_hd.mpd?%7Ccookie=Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9jb21wYW5pb24tbGl2ZS1wbGF5MS5zdHJlYW1yZWFkeS5pbi9saXZlL21lZDgtMi9hbmRfeHBsb3JfaGQvbmRhc2hoZC8=:Expires=1754570717:KeyName=iptv-prod-media-cdn-keys:Signature=3Hmzyh2R32pUvl6U6JPvZRbFw91BiIjm28kU7yZetiWGL9GVG5xwqbjMCNEdRu9Vf7zFbuKtcYkvpuhvkiprCA==",
-    "img": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SYMANDXPLOR_HD/images/LOGO_HD/image.png"
-  },
-  {
-    "name": "&flix HD",
-    "type": "Movies",
-    "url": "https://companion-live-play1.streamready.in/live/med17-2/and_flix_hd/ndashhd/and_flix_hd.mpd?%7Ccookie=Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9jb21wYW5pb24tbGl2ZS1wbGF5MS5zdHJlYW1yZWFkeS5pbi9saXZlL21lZDE3LTIvYW5kX2ZsaXhfaGQvbmRhc2hoZC8=:Expires=1754570717:KeyName=iptv-prod-media-cdn-keys:Signature=ARVQZPARTNvDJPY1Upjl1aDYKS7gEdHd9sWyCPOicTTQsPljP1EpCBXQ6vaPcM2gzUZ02ALqc0zp8sZ2bmB8BQ==",
-    "img": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SYMANDFLIX_HD/images/LOGO_HD/image.png"
-  },
-  {
-    "name": "Zee Talkies HD",
-    "type": "Movies",
-    "url": "https://companion-live-play1.streamready.in/live/med17-2/zee_talkies_hd/ndashhd/zee_talkies_hd.mpd?%7Ccookie=Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9jb21wYW5pb24tbGl2ZS1wbGF5MS5zdHJlYW1yZWFkeS5pbi9saXZlL21lZDE3LTIvemVlX3RhbGtpZXNfaGQvbmRhc2hoZC8=:Expires=1754567120:KeyName=iptv-prod-media-cdn-keys:Signature=gL6bnvrLB-OSoKngvZfuthmt17HrA2SXjPFQelTGEGinpejj6urYMi-txxSbdAMSO_g7gS_8YRATt-3F_3owAw==",
-    "img": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZEE_TALKIES_HD/images/LOGO_HD/image.png"
-  },
-  {
-    "name": "ZEE THIRAI HD",
-    "type": "Movies",
-    "url": "https://companion-live-play1.streamready.in/live/med17-2/zee_thirai_hd/ndashhd/zee_thirai_hd.mpd?%7Ccookie=Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9jb21wYW5pb24tbGl2ZS1wbGF5MS5zdHJlYW1yZWFkeS5pbi9saXZlL21lZDE3LTIvemVlX3RoaXJhaV9oZC9uZGFzaGhkLw==:Expires=1754575222:KeyName=iptv-prod-media-cdn-keys:Signature=C5_B5FNeBgMmmiO8wTKyIFzQsxCs5upA_CDBSTrt80uDqANPeZhyDIqqPHNz1t2BCULcV0cTkaJ-iHq1MKKyCg==",
-    "img": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZEE_THIRAI_HD/images/LOGO_HD/image.png"
-  },
-  {
-    "name": "Zee Picchar HD",
-    "type": "Movies",
-    "url": "https://companion-live-play1.streamready.in/live/med17-2/zee_picchar_hd/ndashhd/zee_picchar_hd.mpd?%7Ccookie=Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9jb21wYW5pb24tbGl2ZS1wbGF5MS5zdHJlYW1yZWFkeS5pbi9saXZlL21lZDE3LTIvemVlX3BpY2NoYXJfaGQvbmRhc2hoZC8=:Expires=1754567120:KeyName=iptv-prod-media-cdn-keys:Signature=WGzJEPcQuYxX7wVkuNVBjwMZzvo4lQ-NRk3QkKRhF8mtEWbB5hSR4IxJBCLat5FAdPE_CldS8BF_zAXLaeTvAw==",
-    "img": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZEE_PICCHAR_HD/images/LOGO_HD/image.png"
+    "url": "https://amg17931-zee-amg17931c5-samsung-th-5696.playouts.now.amagi.tv/playlist/amg17931-asiatvusaltdfast-zeecinema-samsungth/playlist.m3u8",
+    "img": "https://i.imgur.com/uYjCv5p.png"
   },
   {
     "name": "Aakaash Aath (720p)",
@@ -1854,6 +1410,18 @@
     "img": "https://i.imgur.com/HZy6x27.png"
   },
   {
+    "name": "Nepal 1 (576p)",
+    "type": "Entertainment",
+    "url": "https://yuppftalive.akamaized.net/080823/nepal1/playlist.m3u8",
+    "img": "https://i.imgur.com/Pgg8dQ2.png"
+  },
+  {
+    "name": "NHK World Premium (720p) [Not 24/7]",
+    "type": "Entertainment",
+    "url": "https://cdn.nhkworld.jp/www11/nhkworld-tv/pre/hlscomp.m3u8",
+    "img": "https://i.imgur.com/4ESi2La.png"
+  },
+  {
     "name": "One TV (720p)",
     "type": "Entertainment",
     "url": "http://137.59.86.218:1935/live/onetv/playlist.m3u8",
@@ -1930,186 +1498,6 @@
     "type": "Entertainment",
     "url": "https://rtmp.smartstream.video/velichamtv/velichamtv/playlist.m3u8",
     "img": "https://i.imgur.com/y1voO3k.png"
-  },
-  {
-    "name": "SET",
-    "type": "Entertainment",
-    "url": "https://companion-live-play1.streamready.in/live/med1-2/set/ndashd/set.mpd?%7Ccookie=Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9jb21wYW5pb24tbGl2ZS1wbGF5MS5zdHJlYW1yZWFkeS5pbi9saXZlL21lZDEtMi9zZXQvbmRhc2hkLw==:Expires=1754563508:KeyName=iptv-prod-media-cdn-keys:Signature=5xtBICMmUghXezS07hgJR9rg_nVPFhgTQR_m259_RUxRPl1_d5pGJZeVxY_OynOnAyzIRynUocEfxmByCjWqDw==",
-    "img": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SET/images/LOGO_HD/image.png"
-  },
-  {
-    "name": "DD Rajasthan",
-    "type": "Entertainment",
-    "url": "https://companion-live-play1.streamready.in/live/med1-2/dd_rajasthan/ndashd/dd_rajasthan.mpd?%7Ccookie=Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9jb21wYW5pb24tbGl2ZS1wbGF5MS5zdHJlYW1yZWFkeS5pbi9saXZlL21lZDEtMi9kZF9yYWphc3RoYW4vbmRhc2hkLw==:Expires=1754573412:KeyName=iptv-prod-media-cdn-keys:Signature=VJ0rrZ6MTNnlkoL7SFBhpgPxrXNMpELa7-fmVf6UR7r85Vg_2Bfv9UgJNBfOSEEUjKAxyi29-TCyhZWIGjVeAg==",
-    "img": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_DD_RAJASTHAN/images/LOGO_HD/image.png"
-  },
-  {
-    "name": "DD National",
-    "type": "Entertainment",
-    "url": "https://companion-live-play1.streamready.in/live/med1-2/dd_national/ndashd/dd_national.mpd?%7Ccookie=Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9jb21wYW5pb24tbGl2ZS1wbGF5MS5zdHJlYW1yZWFkeS5pbi9saXZlL21lZDEtMi9kZF9uYXRpb25hbC9uZGFzaGQv:Expires=1754567108:KeyName=iptv-prod-media-cdn-keys:Signature=7K92aM1Y2KKZG8tFsCOwa97pGUqrbV9XzbjVirDmzZ9HS9FqvLoadWC8h2L9t1xF2qyXbXjLRm3hk_5vGxa3Bg==",
-    "img": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_DD_NATIONAL/images/LOGO_HD/image.png"
-  },
-  {
-    "name": "DD India",
-    "type": "Entertainment",
-    "url": "https://companion-live-play1.streamready.in/live/med10-2/dd_india/ndashd/dd_india.mpd?%7Ccookie=Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9jb21wYW5pb24tbGl2ZS1wbGF5MS5zdHJlYW1yZWFkeS5pbi9saXZlL21lZDEwLTIvZGRfaW5kaWEvbmRhc2hkLw==:Expires=1754563508:KeyName=iptv-prod-media-cdn-keys:Signature=Zl2H_jZX-vZrXpJ_ARfzHxY9pXy6vZ_fB9ob142wyHo59nqzw4MvA22p4lFAUIM5an5c4TA8kv8R7tmzIIabCA==",
-    "img": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_DD_INDIA/images/LOGO_HD/image.png"
-  },
-  {
-    "name": "SET HD",
-    "type": "Entertainment",
-    "url": "https://companion-live-play1.streamready.in/live/med15-2/set_hd/ndashhd/set_hd.mpd?%7Ccookie=Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9jb21wYW5pb24tbGl2ZS1wbGF5MS5zdHJlYW1yZWFkeS5pbi9saXZlL21lZDE1LTIvc2V0X2hkL25kYXNoaGQv:Expires=1754563508:KeyName=iptv-prod-media-cdn-keys:Signature=8BpLETfxIdGHw7xV6Mbg4I_UkNPJPngpfYCqhlKt40klScb-wkVWeQLRPMVse-gcWQWXK-2S27xIIRO2zD-VAQ==",
-    "img": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SET_HD/images/LOGO_HD/image.png"
-  },
-  {
-    "name": "SONY SAB",
-    "type": "Entertainment",
-    "url": "https://companion-live-play1.streamready.in/live/med14-2/sony_sab/ndashd/sony_sab.mpd?%7Ccookie=Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9jb21wYW5pb24tbGl2ZS1wbGF5MS5zdHJlYW1yZWFkeS5pbi9saXZlL21lZDE0LTIvc29ueV9zYWIvbmRhc2hkLw==:Expires=1754567108:KeyName=iptv-prod-media-cdn-keys:Signature=lQXshjIIahyEeZnFvHJ00ucCd8YZkkp-cYHEy0bUX1U9GWecLA6znD8735nw3oGcIqGAUc5b4pkCy3z0WxXYDw==",
-    "img": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SONY_SAB/images/LOGO_HD/image.png"
-  },
-  {
-    "name": "Ishara TV",
-    "type": "Entertainment",
-    "url": "https://companion-live-play1.streamready.in/live/med14-2/ishara_tv/ndashd/ishara_tv.mpd?%7Ccookie=Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9jb21wYW5pb24tbGl2ZS1wbGF5MS5zdHJlYW1yZWFkeS5pbi9saXZlL21lZDE0LTIvaXNoYXJhX3R2L25kYXNoZC8=:Expires=1754574308:KeyName=iptv-prod-media-cdn-keys:Signature=Pfafyjximloa6ibFT6tqqLgNRTwxnlD82tCkYZ2L2jZIGQ_aD4wbdkTcOeOS4VrghIeOKT8AuElWp5SbxNhyDA==",
-    "img": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ISHARA_TV/images/LOGO_HD/image.png"
-  },
-  {
-    "name": "Zee TV",
-    "type": "Entertainment",
-    "url": "https://companion-live-play1.streamready.in/live/med12-2/zee_tv/ndashd/zee_tv.mpd?%7Ccookie=Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9jb21wYW5pb24tbGl2ZS1wbGF5MS5zdHJlYW1yZWFkeS5pbi9saXZlL21lZDEyLTIvemVlX3R2L25kYXNoZC8=:Expires=1754568909:KeyName=iptv-prod-media-cdn-keys:Signature=4iYmF7NlhPQj3_RqtcI0SzPl8lJVaEDu8o1voGbZv4X3Wt1v3OxPG33penXnbteeZXTR3RzcHKhMJ4cDWLI1CQ==",
-    "img": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZEE_TV/images/LOGO_HD/image.png"
-  },
-  {
-    "name": "Sony Pal",
-    "type": "Entertainment",
-    "url": "https://companion-live-play1.streamready.in/live/med1-2/sony_pal/ndashd/sony_pal.mpd?%7Ccookie=Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9jb21wYW5pb24tbGl2ZS1wbGF5MS5zdHJlYW1yZWFkeS5pbi9saXZlL21lZDEtMi9zb255X3BhbC9uZGFzaGQv:Expires=1754566211:KeyName=iptv-prod-media-cdn-keys:Signature=TPRWJ7N7pyu7VmIiAYrUsyfaaTNff0zh3h0SGmAUi1ti0R5j76PBXGxIJH6JqshSt8qyNxrvm_YSsdC4WWN3BQ==",
-    "img": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SONY_PAL/images/LOGO_HD/image.png"
-  },
-  {
-    "name": "Epic",
-    "type": "Entertainment",
-    "url": "https://companion-live-play1.streamready.in/live/med2-2/epic/ndashd/epic.mpd?%7Ccookie=Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9jb21wYW5pb24tbGl2ZS1wbGF5MS5zdHJlYW1yZWFkeS5pbi9saXZlL21lZDItMi9lcGljL25kYXNoZC8=:Expires=1754566212:KeyName=iptv-prod-media-cdn-keys:Signature=hrNOjfpmmnLHXYXfr1sQNIMI1BdncDK-pj6j96Yd79pGMg3UFTh_5i852AoSJB40V7gIAFfqtFyBQEYAg71dCw==",
-    "img": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_EPIC/images/LOGO_HD/image.png"
-  },
-  {
-    "name": "Sony SAB HD",
-    "type": "Entertainment",
-    "url": "https://companion-live-play1.streamready.in/live/med15-2/sony_sab_hd/ndashhd/sony_sab_hd.mpd?%7Ccookie=Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9jb21wYW5pb24tbGl2ZS1wbGF5MS5zdHJlYW1yZWFkeS5pbi9saXZlL21lZDE1LTIvc29ueV9zYWJfaGQvbmRhc2hoZC8=:Expires=1754574308:KeyName=iptv-prod-media-cdn-keys:Signature=UkXYZ0iJa_7xyZPesGA3u_AFAI0s1PMvoRatHzgP59382x0qvU0NNUWF9sjemDkrM0E3LOLwK1VilonEhDukDQ==",
-    "img": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SONY_SAB_HD/images/LOGO_HD/image.png"
-  },
-  {
-    "name": "DD MP",
-    "type": "Entertainment",
-    "url": "https://companion-live-play1.streamready.in/live/med10-2/dd_mp/ndashd/dd_mp.mpd?%7Ccookie=Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9jb21wYW5pb24tbGl2ZS1wbGF5MS5zdHJlYW1yZWFkeS5pbi9saXZlL21lZDEwLTIvZGRfbXAvbmRhc2hkLw==:Expires=1754573412:KeyName=iptv-prod-media-cdn-keys:Signature=F1YrrmiWD2NBX1Wng1P83ko6EtAmEJ1aDPSjIL34sap_BVrCb9TiUJ0imIH916q4uP9TU0-t1YLEg7yrt49BBQ==",
-    "img": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_DD_MP/images/LOGO_HD/image.png"
-  },
-  {
-    "name": "Investigation Discovery",
-    "type": "Entertainment",
-    "url": "https://companion-live-play1.streamready.in/live/med2-2/investigation_discovery/ndashd/investigation_discovery.mpd?%7Ccookie=Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9jb21wYW5pb24tbGl2ZS1wbGF5MS5zdHJlYW1yZWFkeS5pbi9saXZlL21lZDItMi9pbnZlc3RpZ2F0aW9uX2Rpc2NvdmVyeS9uZGFzaGQv:Expires=1754567108:KeyName=iptv-prod-media-cdn-keys:Signature=TB9kLhPAS8FIQ11u7E7R15aUStNBVdRtqS1SwktFSlEfWdlLnsZeBS1S4Tt8hb1f0SwtaW8_ZvZu3R3G_MmrAg==",
-    "img": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_INVESTIGATION_DISCOVERY/images/LOGO_HD/image.png"
-  },
-  {
-    "name": "Zee Cafe",
-    "type": "Entertainment",
-    "url": "https://companion-live-play1.streamready.in/live/med12-2/zee_cafe/ndashd/zee_cafe.mpd?%7Ccookie=Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9jb21wYW5pb24tbGl2ZS1wbGF5MS5zdHJlYW1yZWFkeS5pbi9saXZlL21lZDEyLTIvemVlX2NhZmUvbmRhc2hkLw==:Expires=1754567108:KeyName=iptv-prod-media-cdn-keys:Signature=HqBeDZs0l90N6Be6elMt4dAT9hpnWaS0MbKCVgkk3QDCTZOKsV1p63XB3219F3po0MkKbVLHtK2t32o7OxpDCw==",
-    "img": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZEE_CAFE/images/LOGO_HD/image.png"
-  },
-  {
-    "name": "Big Magic",
-    "type": "Entertainment",
-    "url": "https://companion-live-play1.streamready.in/live/med5-2/big_magic/ndashd/big_magic.mpd?%7Ccookie=Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9jb21wYW5pb24tbGl2ZS1wbGF5MS5zdHJlYW1yZWFkeS5pbi9saXZlL21lZDUtMi9iaWdfbWFnaWMvbmRhc2hkLw==:Expires=1754566212:KeyName=iptv-prod-media-cdn-keys:Signature=yxEo7HK2-WEfDuls7Z7u7jFWQ1F3Mw1FkNtkVpT_e3fZhTBvvbBnSZFc3jY8BT4gCHGXPXnojAOdmO-C5eB9Cw==",
-    "img": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_BIG_MAGIC/images/LOGO_HD/image.png"
-  },
-  {
-    "name": "DD Bharati",
-    "type": "Entertainment",
-    "url": "https://companion-live-play1.streamready.in/live/med1-2/dd_bharati/ndashd/dd_bharati.mpd?%7Ccookie=Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9jb21wYW5pb24tbGl2ZS1wbGF5MS5zdHJlYW1yZWFkeS5pbi9saXZlL21lZDEtMi9kZF9iaGFyYXRpL25kYXNoZC8=:Expires=1754567108:KeyName=iptv-prod-media-cdn-keys:Signature=h_GJDsSnoUOojwY6-eZ284Cz90MSaYKZI8RlQRaesQDUfOuf-UWzTYmdTRJoubWn6TnUBhwXwROgYl5WR8qOBQ==",
-    "img": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_DD_BHARATI/images/LOGO_HD/image.png"
-  },
-  {
-    "name": "&TV",
-    "type": "Entertainment",
-    "url": "https://companion-live-play1.streamready.in/live/med15-2/and_tv/ndashd/and_tv.mpd?%7Ccookie=Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9jb21wYW5pb24tbGl2ZS1wbGF5MS5zdHJlYW1yZWFkeS5pbi9saXZlL21lZDE1LTIvYW5kX3R2L25kYXNoZC8=:Expires=1754566212:KeyName=iptv-prod-media-cdn-keys:Signature=EYJhtqMtSB97GjytaKbltf_iCSSbXjDnyAx-nmSIi2Nj_N5C0IEdnKNpl394MKvWoYlnBtYKpKpETTheBu6tCQ==",
-    "img": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SYMANDTV/images/LOGO_HD/image.png"
-  },
-  {
-    "name": "Investigation Discovery HD",
-    "type": "Entertainment",
-    "url": "https://companion-live-play1.streamready.in/live/med14-2/investigation_discovery_hd/ndashhd/investigation_discovery_hd.mpd?%7Ccookie=Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9jb21wYW5pb24tbGl2ZS1wbGF5MS5zdHJlYW1yZWFkeS5pbi9saXZlL21lZDE0LTIvaW52ZXN0aWdhdGlvbl9kaXNjb3ZlcnlfaGQvbmRhc2hoZC8=:Expires=1754567108:KeyName=iptv-prod-media-cdn-keys:Signature=klfwY3bRZfjATiQVd5hkStRVAtytCAjQAYyhBRu5t8ftN9gUunLYamvauoZRh0OPy4v3wLEROhZ7LY0HSqZqDQ==",
-    "img": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_INVESTIGATION_DISCOVERY_HD/images/LOGO_HD/image.png"
-  },
-  {
-    "name": "DD UP",
-    "type": "Entertainment",
-    "url": "https://companion-live-play1.streamready.in/live/med1-2/dd_up/ndashd/dd_up.mpd?%7Ccookie=Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9jb21wYW5pb24tbGl2ZS1wbGF5MS5zdHJlYW1yZWFkeS5pbi9saXZlL21lZDEtMi9kZF91cC9uZGFzaGQv:Expires=1754574308:KeyName=iptv-prod-media-cdn-keys:Signature=oy0EakKhgKuAGbje4_OkfTAX0Z46jSlIsUC6AJkErDWDAldeAMpO-KPmOSnU0cZCRBs_GjcVgo8aidWRh9w5CQ==",
-    "img": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_DD_UP/images/LOGO_HD/image.png"
-  },
-  {
-    "name": "Zee Anmol",
-    "type": "Entertainment",
-    "url": "https://companion-live-play1.streamready.in/live/med12-2/zee_anmol/ndashd/zee_anmol.mpd?%7Ccookie=Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9jb21wYW5pb24tbGl2ZS1wbGF5MS5zdHJlYW1yZWFkeS5pbi9saXZlL21lZDEyLTIvemVlX2FubW9sL25kYXNoZC8=:Expires=1754574308:KeyName=iptv-prod-media-cdn-keys:Signature=cgRtpBNkMTrTSi-_i-emJDVu4kxcxQxS6HfY0F0y0r5n7N6XICH11UcgbB96HLfnm9tPqggH8LsCZfcEG26jBw==",
-    "img": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZEE_ANMOL/images/LOGO_HD/image.png"
-  },
-  {
-    "name": "Zee Uttar Pradesh Uttarakhand",
-    "type": "Entertainment",
-    "url": "https://companion-live-play1.streamready.in/live/med12-2/zee_uttar_pradesh_uttarakhand/ndashd/zee_uttar_pradesh_uttarakhand.mpd?%7Ccookie=Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9jb21wYW5pb24tbGl2ZS1wbGF5MS5zdHJlYW1yZWFkeS5pbi9saXZlL21lZDEyLTIvemVlX3V0dGFyX3ByYWRlc2hfdXR0YXJha2hhbmQvbmRhc2hkLw==:Expires=1754570710:KeyName=iptv-prod-media-cdn-keys:Signature=ZFlmX8sO7ggDpyECYbjybu7JQzGWcyN-BCCDc4wszlPZQX1XTxtxfHNm3ZzcLBOl-jG4WWrW2cGmU3aDcCm5BA==",
-    "img": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZEE_UTTAR_PRADESH_UTTARAKHAND/images/LOGO_HD/image.png"
-  },
-  {
-    "name": "Zee Zest",
-    "type": "Entertainment",
-    "url": "https://companion-live-play1.streamready.in/live/med12-2/zee_zest/ndashd/zee_zest.mpd?%7Ccookie=Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9jb21wYW5pb24tbGl2ZS1wbGF5MS5zdHJlYW1yZWFkeS5pbi9saXZlL21lZDEyLTIvemVlX3plc3QvbmRhc2hkLw==:Expires=1754570710:KeyName=iptv-prod-media-cdn-keys:Signature=EH72TEaDFLmG7DFZgBdZAqCcxp2zEes4Hjflt5GIbf3jKywF2W_8COD1vxLRmZTZqTXo_GMz2zujsx-xNBR4Cg==",
-    "img": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZEE_ZEST/images/LOGO_HD/image.png"
-  },
-  {
-    "name": "SIDHARTH GOLD",
-    "type": "Entertainment",
-    "url": "https://companion-live-play1.streamready.in/live/med14-2/sidharth_gold/ndashd/sidharth_gold.mpd?%7Ccookie=Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9jb21wYW5pb24tbGl2ZS1wbGF5MS5zdHJlYW1yZWFkeS5pbi9saXZlL21lZDE0LTIvc2lkaGFydGhfZ29sZC9uZGFzaGQv:Expires=1754564416:KeyName=iptv-prod-media-cdn-keys:Signature=drXGBbl8bEyG86un9G7ZeTN8MbZX3HFCEYciZRoIC9j8gEvt7wHrB99pItJ0v9IUW3e0dGwjG2A2fZZd5KuPDA==",
-    "img": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SIDHARTH_GOLD/images/LOGO_HD/image.png"
-  },
-  {
-    "name": "Rongeen Tv",
-    "type": "Entertainment",
-    "url": "https://companion-live-play1.streamready.in/live/med14-2/rongeen_tv/ndashd/rongeen_tv.mpd?%7Ccookie=Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9jb21wYW5pb24tbGl2ZS1wbGF5MS5zdHJlYW1yZWFkeS5pbi9saXZlL21lZDE0LTIvcm9uZ2Vlbl90di9uZGFzaGQv:Expires=1754575220:KeyName=iptv-prod-media-cdn-keys:Signature=0Fewfzup5T9A7Q2EktNAog30JF2wdG8mKCiXwn_Dnx-5LPSOlAEC4fi7ruxpOrwnXzouxp3Ed3krbfP3bwOXCA==",
-    "img": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_RONGEEN_TV/images/LOGO_HD/image.png"
-  },
-  {
-    "name": "Zee TV HD",
-    "type": "Entertainment",
-    "url": "https://companion-live-play1.streamready.in/live/med11-2/zee_tv_hd/ndashhd/zee_tv_hd.mpd?%7Ccookie=Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9jb21wYW5pb24tbGl2ZS1wbGF5MS5zdHJlYW1yZWFkeS5pbi9saXZlL21lZDExLTIvemVlX3R2X2hkL25kYXNoaGQv:Expires=1754563519:KeyName=iptv-prod-media-cdn-keys:Signature=Ia2TjjeybGHuxJl5zmi63bLMYWXy6IHr77ZzZf46CGB6dExzSv8n6eJVN9LygBTPJyuPK1pYqYkdjXBh3cHdBw==",
-    "img": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZEE_TV_HD/images/LOGO_HD/image.png"
-  },
-  {
-    "name": "& TV HD",
-    "type": "Entertainment",
-    "url": "https://companion-live-play1.streamready.in/live/med18-2/and_tv_hd/ndashhd/and_tv_hd.mpd?%7Ccookie=Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9jb21wYW5pb24tbGl2ZS1wbGF5MS5zdHJlYW1yZWFkeS5pbi9saXZlL21lZDE4LTIvYW5kX3R2X2hkL25kYXNoaGQv:Expires=1754567119:KeyName=iptv-prod-media-cdn-keys:Signature=rBTbUpjXZV7_AtweBndMXdHdFcBEn3rXw1u17P1RKfc3Y2S2qbKMCg-ZKi5eZ7sFLSQhrN5nL4cb9QQpymBmAA==",
-    "img": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SYMAND_TV_HD/images/LOGO_HD/image.png"
-  },
-  {
-    "name": "Zee Cafe HD",
-    "type": "Entertainment",
-    "url": "https://companion-live-play1.streamready.in/live/med17/zee_cafe_hd/ndashhd/zee_cafe_hd.mpd?%7Ccookie=Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9jb21wYW5pb24tbGl2ZS1wbGF5MS5zdHJlYW1yZWFkeS5pbi9saXZlL21lZDE3LTIvemVlX2NhZmVfaGQvbmRhc2hoZC8=:Expires=1754563519:KeyName=iptv-prod-media-cdn-keys:Signature=VgyR0XuNbSmtFjJl-eq6dI2hUn5uI46I2-LjkYLZGpP5o4t8KA2U9kmDWz4IBkpo8WejqxMuBVeVs1dbpygwAA==",
-    "img": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZEE_CAFE_HD/images/LOGO_HD/image.png"
-  },
-  {
-    "name": "Zee Marathi HD",
-    "type": "Entertainment",
-    "url": "https://companion-live-play1.streamready.in/live/med17-2/zee_marathi_hd/ndashhd/zee_marathi_hd.mpd?%7Ccookie=Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9jb21wYW5pb24tbGl2ZS1wbGF5MS5zdHJlYW1yZWFkeS5pbi9saXZlL21lZDE3LTIvemVlX21hcmF0aGlfaGQvbmRhc2hoZC8=:Expires=1754567120:KeyName=iptv-prod-media-cdn-keys:Signature=LfFb6--ioPztSx0UNwLaS_Kd6IEPFXHYzCnhsHFa-WEtOxe62RWueqJS9hOqaRr6LsG5tSyTHh5ewkBx-en5BA==",
-    "img": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZEE_MARATHI_HD/images/LOGO_HD/image.png"
-  },
-  {
-    "name": "Zee Bangla HD",
-    "type": "Entertainment",
-    "url": "https://companion-live-play1.streamready.in/live/med18-2/zee_bangla_hd/ndashhd/zee_bangla_hd.mpd?%7Ccookie=Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9jb21wYW5pb24tbGl2ZS1wbGF5MS5zdHJlYW1yZWFkeS5pbi9saXZlL21lZDE4LTIvemVlX2JhbmdsYV9oZC9uZGFzaGhkLw==:Expires=1754575222:KeyName=iptv-prod-media-cdn-keys:Signature=qiPF7M9zSeV-VnRJCc-xTUuIcpKOTEViwYRYQRXDmLC-9735OhsxrSF8IhyOzjQ8kIWgGltR7lAqv_mtplQbCQ==",
-    "img": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZEE_BANGLA_HD/images/LOGO_HD/image.png"
-  },
-  {
-    "name": "Zee Keralam HD",
-    "type": "Entertainment",
-    "url": "https://companion-live-play1.streamready.in/live/med14-2/zee_keralam_hd/ndashhd/zee_keralam_hd.mpd?%7Ccookie=Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9jb21wYW5pb24tbGl2ZS1wbGF5MS5zdHJlYW1yZWFkeS5pbi9saXZlL21lZDE0LTIvemVlX2tlcmFsYW1faGQvbmRhc2hoZC8=:Expires=1754563519:KeyName=iptv-prod-media-cdn-keys:Signature=6w5HuKo3Fg8xhuGDs0Eo8KahCldz2l3ajEUMMFuhK3iZN5yVr4S6j2QnexkV2BFXBk3UqTFXseG1TBCNpJGoAg==",
-    "img": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZEE_KERALAM_HD/images/LOGO_HD/image.png"
   },
   {
     "name": "Aastha (480p)",
@@ -2250,6 +1638,12 @@
     "img": "https://www.lyngsat.com/logo/tv/hh/harvest_tv_in_usa.png"
   },
   {
+    "name": "Hebron TV (432p)",
+    "type": "Religious",
+    "url": "https://account20.livebox.co.in/charleshls/live.m3u8",
+    "img": "https://i0.wp.com/hebrontv.in/wp-content/uploads/2023/11/hebron-.png?w=512"
+  },
+  {
     "name": "Hope Channel India (1080p)",
     "type": "Religious",
     "url": "https://videodelivery.net/98334a974d26e45759c6baa8bceabbcf/manifest/video.m3u8",
@@ -2310,6 +1704,12 @@
     "img": "https://upload.wikimedia.org/wikipedia/en/3/34/Peacetvbanglalogo2.jpeg"
   },
   {
+    "name": "Peace TV English (1080p)",
+    "type": "Religious",
+    "url": "https://dzkyvlfyge.erbvr.com/PeaceTvEnglish/index.m3u8",
+    "img": "https://i.imgur.com/rjgCM2B.png"
+  },
+  {
     "name": "Peace TV Urdu (1080p)",
     "type": "Religious",
     "url": "https://dzkyvlfyge.erbvr.com/PeaceTvUrdu/index.m3u8",
@@ -2334,9 +1734,9 @@
     "img": "https://i.imgur.com/XsuFVlf.png"
   },
   {
-    "name": "SVBC 2 (1080p)",
+    "name": "SVBC 2 (576p)",
     "type": "Religious",
-    "url": "http://player.mslivestream.net/tamil/ac206e74d75b285755ee4924df87d951.sdp/index.m3u8",
+    "url": "https://yuppftalive.akamaized.net/080823/svbc2tamil/playlist.m3u8",
     "img": "https://i.imgur.com/NtmRt1A.png"
   },
   {
@@ -2370,96 +1770,6 @@
     "img": "https://i.imgur.com/MBaKNPC.jpeg"
   },
   {
-    "name": "Akaram Kidz (460p) [Not 24/7]",
-    "type": "Kids",
-    "url": "http://akaram.zecast.net/akaram-live/akaramkidz/index.m3u8",
-    "img": "https://i.imgur.com/ENImp3R.png"
-  },
-  {
-    "name": "Disney Channel (576p) [Not 24/7]",
-    "type": "Kids",
-    "url": "http://116.90.120.149:8000/play/a0bx/index.m3u8",
-    "img": "https://upload.wikimedia.org/wikipedia/commons/3/3d/2022_Disney_Channel_logo.svg"
-  },
-  {
-    "name": "Disney Junior (576p)",
-    "type": "Kids",
-    "url": "http://116.90.120.149:8000/play/a0b3/index.m3u8",
-    "img": "https://upload.wikimedia.org/wikipedia/commons/3/36/2019_Disney_Junior_logo.svg"
-  },
-  {
-    "name": "Gubbare (1080p)",
-    "type": "Kids",
-    "url": "https://epiconvh.akamaized.net/live/gubbare/master.m3u8",
-    "img": "https://i.imgur.com/Bvbf9o7.png"
-  },
-  {
-    "name": "Nick HD+ (1080p) [Not 24/7]",
-    "type": "Kids",
-    "url": "http://116.90.120.149:8000/play/a0cw/index.m3u8",
-    "img": "https://i.imgur.com/nJPbTet.png"
-  },
-  {
-    "name": "Nick Jr India (1080p)",
-    "type": "Kids",
-    "url": "https://prod-sports-north-gm.jiocinema.com/bpk-tv/Nick_Junior_voot_MOB/Fallback/index.m3u8",
-    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Nick_Jr._logo_2009.svg/512px-Nick_Jr._logo_2009.svg.png"
-  },
-  {
-    "name": "Nickelodeon Sonic Hindi (1080p)",
-    "type": "Kids",
-    "url": "https://prod-sports-north-gm.jiocinema.com/bpk-tv/Sonic_Nickelodeon_voot_MOB/Fallback/index.m3u8",
-    "img": "https://upload.wikimedia.org/wikipedia/en/thumb/2/2b/Nickelodeon_Sonic_logo.png/512px-Nickelodeon_Sonic_logo.png"
-  },
-  {
-    "name": "ZB Cartoon (1080p)",
-    "type": "Kids",
-    "url": "https://server.zillarbarta.com/zbcatun/video.m3u8",
-    "img": "https://i.imgur.com/BbFNpMr.jpeg"
-  },
-  {
-    "name": "Cartoon Network",
-    "type": "Kids",
-    "url": "https://companion-live-play1.streamready.in/live/med3-2/cartoon_network/ndashd/cartoon_network.mpd?%7Ccookie=Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9jb21wYW5pb24tbGl2ZS1wbGF5MS5zdHJlYW1yZWFkeS5pbi9saXZlL21lZDMtMi9jYXJ0b29uX25ldHdvcmsvbmRhc2hkLw==:Expires=1754563511:KeyName=iptv-prod-media-cdn-keys:Signature=pBErF7sfTUb_ErrewRc3W3sEZ9yPFwOGtrly6UNsm_58kPQj58lepEbDrr0reRy7rEydYTrSZx8BYwCHrHM7CA==",
-    "img": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_CARTOON_NETWORK/images/LOGO_HD/image.png"
-  },
-  {
-    "name": "Pogo",
-    "type": "Kids",
-    "url": "https://companion-live-play1.streamready.in/live/med4-2/pogo/ndashd/pogo.mpd?%7Ccookie=Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9jb21wYW5pb24tbGl2ZS1wbGF5MS5zdHJlYW1yZWFkeS5pbi9saXZlL21lZDQtMi9wb2dvL25kYXNoZC8=:Expires=1754567111:KeyName=iptv-prod-media-cdn-keys:Signature=Mylm3r4Gi3Sm_vhRa_9bUtxHZujH7yVbDyYtLiNo2oND2cjd3au5Hjp-qlrwzLurgS2Ejkq8h7WajEKkRKkxCw==",
-    "img": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_POGO/images/LOGO_HD/image.png"
-  },
-  {
-    "name": "CARTOON NETWORK HD+",
-    "type": "Kids",
-    "url": "https://companion-live-play1.streamready.in/live/med14-2/cartoon_network_hd_plus/ndashhd/cartoon_network_hd_plus.mpd?%7Ccookie=Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9jb21wYW5pb24tbGl2ZS1wbGF5MS5zdHJlYW1yZWFkeS5pbi9saXZlL21lZDE0LTIvY2FydG9vbl9uZXR3b3JrX2hkX3BsdXMvbmRhc2hoZC8=:Expires=1754570716:KeyName=iptv-prod-media-cdn-keys:Signature=PWAcAtKX-5EJjlB6qMghmOA3_AihgJ-JDXLvrQ14hCP3jWolsQGEcvGf5_WsXSUjNJ7mBAq6Bug621OlHVttDg==",
-    "img": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_CARTOON_NETWORK_HDSYMPLUS/images/LOGO_HD/image.png"
-  },
-  {
-    "name": "Discovery Kids",
-    "type": "Kids",
-    "url": "https://companion-live-play1.streamready.in/live/med1-2/discovery_kids/ndashd/discovery_kids.mpd?%7Ccookie=Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9jb21wYW5pb24tbGl2ZS1wbGF5MS5zdHJlYW1yZWFkeS5pbi9saXZlL21lZDEtMi9kaXNjb3Zlcnlfa2lkcy9uZGFzaGQv:Expires=1754570716:KeyName=iptv-prod-media-cdn-keys:Signature=rdkcGlIrRiknpTxwWm59C4ix1eN7VQuq_QhkE53b-IqLMwyUiQKrsgBoMHjZQyrIi2BsXtEsrA34YcqPbrxfBw==",
-    "img": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_DISCOVERY_KIDS/images/LOGO_HD/image.png"
-  },
-  {
-    "name": "CBeebies",
-    "type": "Kids",
-    "url": "https://companion-live-play1.streamready.in/live/med13-2/cbeebies/ndashd/cbeebies.mpd?%7Ccookie=Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9jb21wYW5pb24tbGl2ZS1wbGF5MS5zdHJlYW1yZWFkeS5pbi9saXZlL21lZDEzLTIvY2JlZWJpZXMvbmRhc2hkLw==:Expires=1754567111:KeyName=iptv-prod-media-cdn-keys:Signature=Wx7WFIzB7J8o45-uxaR4q10fThKrhF4fVnCE72bwX7Cgg1WKagetvT3_UG-45-kBGhLIs47aId_RktvwoejQCQ==",
-    "img": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_CBEEBIES/images/LOGO_HD/image.png"
-  },
-  {
-    "name": "Gubbare",
-    "type": "Kids",
-    "url": "https://companion-live-play1.streamready.in/live/med14-2/gubbare/ndashd/gubbare.mpd?%7Ccookie=Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9jb21wYW5pb24tbGl2ZS1wbGF5MS5zdHJlYW1yZWFkeS5pbi9saXZlL21lZDE0LTIvZ3ViYmFyZS9uZGFzaGQv:Expires=1754567111:KeyName=iptv-prod-media-cdn-keys:Signature=j74NflBTfgnc7bE1YRGaq7aO3TWFU8afhJZbIbiUBTIc9KMZ2UIRbRbX-_6VeCO-nLGUZi-kWjszo3WrB5JUCQ==",
-    "img": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_GUBBARE/images/LOGO_HD/image.png"
-  },
-  {
-    "name": "Sony Yay",
-    "type": "Kids",
-    "url": "https://companion-live-play1.streamready.in/live/med11-2/sony_yay/ndashd/sony_yay.mpd?%7Ccookie=Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9jb21wYW5pb24tbGl2ZS1wbGF5MS5zdHJlYW1yZWFkeS5pbi9saXZlL21lZDExLTIvc29ueV95YXkvbmRhc2hkLw==:Expires=1754567111:KeyName=iptv-prod-media-cdn-keys:Signature=disYcdqoPNChkxIV2PZDM_etILpHHYRtvkYPj6FQu1bYq-RxmEn2w1bygSoJ0qRFbyJcubYH1iKFrCBhEvGUAg==",
-    "img": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SONY_YAY/images/LOGO_HD/image.png"
-  },
-  {
     "name": "Animax [Geo-blocked]",
     "type": "Animation",
     "url": "https://amg02159-kcglobal-amg02159c1-samsung-in-521.playouts.now.amagi.tv/playlist/amg02159-kcglobal-animax-samsungin/playlist.m3u8",
@@ -2490,28 +1800,16 @@
     "img": "https://i.imgur.com/e9qTjgB.png"
   },
   {
-    "name": "TLC",
+    "name": "NDTV Good Times (1080p)",
     "type": "Lifestyle",
-    "url": "https://companion-live-play1.streamready.in/live/med4-2/tlc/ndashd/tlc.mpd?%7Ccookie=Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9jb21wYW5pb24tbGl2ZS1wbGF5MS5zdHJlYW1yZWFkeS5pbi9saXZlL21lZDQtMi90bGMvbmRhc2hkLw==:Expires=1754570710:KeyName=iptv-prod-media-cdn-keys:Signature=_YUygfi6YwdidA4APh_Zfwp8KbXQlPjDpUI5ix2JqwDgcDz0CFpoNsMJDR5HoNXp7gBwoIMa2zejZLQSVfkmAA==",
-    "img": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_TLC/images/LOGO_HD/image.png"
+    "url": "https://amg01448-samsungin-ndtvgoodtimes-samsungin-ad-gp.amagi.tv/playlist/amg01448-samsungin-ndtvgoodtimes-samsungin/playlist.m3u8",
+    "img": "https://i.imgur.com/7cruYvo.png"
   },
   {
-    "name": "TLC HD",
+    "name": "Superyacht TV (1080p)",
     "type": "Lifestyle",
-    "url": "https://companion-live-play1.streamready.in/live/med16-2/tlc_hd/ndashhd/tlc_hd.mpd?%7Ccookie=Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9jb21wYW5pb24tbGl2ZS1wbGF5MS5zdHJlYW1yZWFkeS5pbi9saXZlL21lZDE2LTIvdGxjX2hkL25kYXNoaGQv:Expires=1754572510:KeyName=iptv-prod-media-cdn-keys:Signature=OsiqUa-bu7ijAtNwyA5bixjuTlNPg8KY0xN-099W_M41QiVtrp0md4CyPCa2avhvcGwb8uzBlnpRD2eE0kOmAg==",
-    "img": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_TLC_HD/images/LOGO_HD/image.png"
-  },
-  {
-    "name": "GOOD TiMES",
-    "type": "Lifestyle",
-    "url": "https://companion-live-play1.streamready.in/live/med2-2/good_times/ndashd/good_times.mpd?%7Ccookie=Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9jb21wYW5pb24tbGl2ZS1wbGF5MS5zdHJlYW1yZWFkeS5pbi9saXZlL21lZDItMi9nb29kX3RpbWVzL25kYXNoZC8=:Expires=1754570710:KeyName=iptv-prod-media-cdn-keys:Signature=Dj-6L3vzM5VNkFL19aQf04laaVB-Rzlb3Owcb-MaePRUokkVVEFD2TpOixMoov78InlebhWpWNlwYQnpmHMXBw==",
-    "img": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_GOOD_TIMES/images/LOGO_HD/image.png"
-  },
-  {
-    "name": "Travelxp",
-    "type": "Lifestyle",
-    "url": "https://companion-live-play1.streamready.in/live/med4-2/travelxp/ndashd/travelxp.mpd?%7Ccookie=Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9jb21wYW5pb24tbGl2ZS1wbGF5MS5zdHJlYW1yZWFkeS5pbi9saXZlL21lZDQtMi90cmF2ZWx4cC9uZGFzaGQv:Expires=1754567111:KeyName=iptv-prod-media-cdn-keys:Signature=lFY__HsswEIiiEOkhnPCXGwcM_0302zINpgqVCcc1Nl9LvZd_YsoKLoqhgL-vZgTpUbaDgiLv6fwk8BIAPnSBA==",
-    "img": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_TRAVELXP/images/LOGO_HD/image.png"
+    "url": "https://sy.wns.live/hls/stream.m3u8",
+    "img": "https://i.imgur.com/cgjgjE1.png"
   },
   {
     "name": "Bhakthi TV (720p)",
@@ -2530,6 +1828,12 @@
     "type": "Undefined",
     "url": "https://d3eyhgoylams0m.cloudfront.net/v1/manifest/93ce20f0f52760bf38be911ff4c91ed02aa2fd92/ed7bd2c7-8d10-4051-b397-2f6b90f99acb/5f0e3651-3393-41d2-a137-a4513be8f3d5/2.m3u8",
     "img": "https://i.imgur.com/I5zT1DG.png"
+  },
+  {
+    "name": "Disha TV (576p)",
+    "type": "Undefined",
+    "url": "https://yuppftalive.akamaized.net/080823/dishatv/playlist.m3u8",
+    "img": "https://i.imgur.com/U4W0Rw8.png"
   },
   {
     "name": "ET Now Swadesh (720p)",
@@ -2656,6 +1960,12 @@
     "type": "Undefined",
     "url": "https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/2839e3d1e0f84a2e821c1708d5fdfdf0/index.m3u8",
     "img": "https://i.imgur.com/4oF38ei.png"
+  },
+  {
+    "name": "Rengoni (576p)",
+    "type": "Undefined",
+    "url": "https://yuppftalive.akamaized.net/080823/rengonitv/playlist.m3u8",
+    "img": "https://i.imgur.com/Ss1OBn1.png"
   },
   {
     "name": "Republic Bangla (1080p)",
@@ -2788,6 +2098,12 @@
     "type": "Undefined",
     "url": "https://tv.bdixtv24.com/toffee/live.php?e=.m3u8&id=ea02096b0fbc",
     "img": "https://i.postimg.cc/Z5G8j67L/PIX-HD-WHITE.png"
+  },
+  {
+    "name": "Subharti TV (576p)",
+    "type": "Undefined",
+    "url": "https://yuppftalive.akamaized.net/080823/subhartitv/playlist.m3u8",
+    "img": "https://i.imgur.com/9hdNFtt.png"
   },
   {
     "name": "Subhavaartha TV (720p)",
@@ -2946,6 +2262,12 @@
     "img": "https://i.imgur.com/vv9ysD3.png"
   },
   {
+    "name": "Zee Punjab Haryana Himachal (720p)",
+    "type": "Undefined",
+    "url": "https://vg-zeefta.akamaized.net/ptnr-yupptv/title-zeepunjabharyanahima/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/65eed269-2f3a-4dd0-ac89-d18959af28e3/main.m3u8",
+    "img": "https://i.imgur.com/wnALPbu.png"
+  },
+  {
     "name": "Zee Rajasthan (720p)",
     "type": "Undefined",
     "url": "https://vg-zeefta.akamaized.net/ptnr-yupptv/title-zeerajashthannews/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/8e864b9a-1681-41a0-99a6-387490bc5b24/main.m3u8",
@@ -3022,6 +2344,12 @@
     "type": "Business",
     "url": "https://dwby15d04agvq.cloudfront.net/index_1.m3u8",
     "img": "https://i.imgur.com/vkWBtL4.png"
+  },
+  {
+    "name": "BTV World (1080p)",
+    "type": "General",
+    "url": "https://www.btvlive.gov.bd/streams/ef8b8bbc-98b7-4ba7-a49d-a0adaf259d35/ES/d96eb7f4-83c2-4472-9597-3568390a8ebf/d96eb7f4-83c2-4472-9597-3568390a8ebf_3_playlist.m3u8",
+    "img": "https://i.imgur.com/sSnrg7o.png"
   },
   {
     "name": "CCV (480p)",
@@ -3126,12 +2454,6 @@
     "img": "https://i.imgur.com/Rw61ile.png"
   },
   {
-    "name": "DD Podhigai",
-    "type": "General",
-    "url": "https://d3eyhgoylams0m.cloudfront.net/v1/manifest/93ce20f0f52760bf38be911ff4c91ed02aa2fd92/ed7bd2c7-8d10-4051-b397-2f6b90f99acb/1324a5ee-c108-423f-ae78-c83b2fd31065/2.m3u8",
-    "img": "https://i.imgur.com/vbjkE84.png"
-  },
-  {
     "name": "DD Rajasthan (720p)",
     "type": "General",
     "url": "https://cdn-1.pishow.tv/live/34/master.m3u8",
@@ -3190,6 +2512,12 @@
     "type": "General",
     "url": "https://5a1178b42cc03.streamlock.net/8068/8068/playlist.m3u8",
     "img": "https://i.imgur.com/pdBo8Xb.png"
+  },
+  {
+    "name": "Jan TV (576p)",
+    "type": "General",
+    "url": "https://yuppftalive.akamaized.net/080823/jantv/playlist.m3u8",
+    "img": "https://i.imgur.com/RfJBuf5.png"
   },
   {
     "name": "Jeevan TV (396p)",
@@ -3252,15 +2580,27 @@
     "img": "https://i.ibb.co/CBgJ4QV/metro-logo.jpg"
   },
   {
+    "name": "MNB World (1080p)",
+    "type": "General",
+    "url": "https://cdn3.skygo.mn/live/disk1/MNB_World/HLS-FTA/MNB_World.m3u8",
+    "img": "https://i.imgur.com/PHlj84Q.png"
+  },
+  {
     "name": "Nandighosha TV (720p)",
     "type": "General",
     "url": "https://www.nandighoshatvlive.com/hls/stream/index.m3u8",
     "img": "https://i.imgur.com/cxneGRS.png"
   },
   {
-    "name": "News 11 (360p)",
+    "name": "Network 10 (576p)",
     "type": "General",
-    "url": "https://rtmp.smartstream.video/news11/news11/playlist.m3u8",
+    "url": "https://yuppftalive.akamaized.net/080823/network10/playlist.m3u8",
+    "img": "https://i.imgur.com/xkWfruI.png"
+  },
+  {
+    "name": "News 11 (576p)",
+    "type": "General",
+    "url": "https://yuppftalive.akamaized.net/080823/news11bharat/playlist.m3u8",
     "img": "https://i.imgur.com/brLsWXU.png"
   },
   {
@@ -3306,6 +2646,12 @@
     "img": "https://i.imgur.com/DTtK0z7.png"
   },
   {
+    "name": "CGTN Documentary (1080p)",
+    "type": "Documentary",
+    "url": "https://amg00405-rakutentv-cgtndocumentary-rakuten-0ql8j.amagi.tv/master.m3u8",
+    "img": "https://i.imgur.com/JHv0WxM.png"
+  },
+  {
     "name": "DD Bharati (720p)",
     "type": "Culture",
     "url": "https://cdn-1.pishow.tv/live/10/master.m3u8",
@@ -3346,6 +2692,12 @@
     "type": "Sports",
     "url": "https://cdn-6.pishow.tv/live/13/master.m3u8",
     "img": "https://i.imgur.com/J2Ky5OO.png"
+  },
+  {
+    "name": "Red Bull TV (1080p)",
+    "type": "Sports",
+    "url": "https://3ea22335.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWdiX1JlZEJ1bGxUVl9ITFM/playlist.m3u8",
+    "img": "https://i.postimg.cc/8c78JM28/image.png"
   },
   {
     "name": "Sony Six HD (1080p)",
@@ -3474,82 +2826,46 @@
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
-    "name": "SONY SPORTS TEN 1",
-    "type": "Sports",
-    "url": "https://companion-live-play1.streamready.in/live/med13-2/sony_sports_ten_1/ndashd/sony_sports_ten_1.mpd?%7Ccookie=Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9jb21wYW5pb24tbGl2ZS1wbGF5MS5zdHJlYW1yZWFkeS5pbi9saXZlL21lZDEzLTIvc29ueV9zcG9ydHNfdGVuXzEvbmRhc2hkLw==:Expires=1754567108:KeyName=iptv-prod-media-cdn-keys:Signature=FqUdERjlzYyP6bmmqk1zCQBnHWQidqKtb9wabeYeuV5_Va2nshMslfkbq6xYDQYbC2i7cp8aky3OrSy-JzVUAQ==",
-    "img": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SONY_SPORTS_TEN_1/images/LOGO_HD/image.png"
+    "name": "Disney Channel (576p) [Not 24/7]",
+    "type": "Kids",
+    "url": "http://116.90.120.149:8000/play/a0bx/index.m3u8",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/3/3d/2022_Disney_Channel_logo.svg"
   },
   {
-    "name": "SONY SPORTS TEN 1 HD",
-    "type": "Sports",
-    "url": "https://companion-live-play1.streamready.in/live/med15-2/sony_sports_ten_1_hd/ndashshd/sony_sports_ten_1_hd.mpd?%7Ccookie=Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9jb21wYW5pb24tbGl2ZS1wbGF5MS5zdHJlYW1yZWFkeS5pbi9saXZlL21lZDE1LTIvc29ueV9zcG9ydHNfdGVuXzFfaGQvbmRhc2hzaGQv:Expires=1754570709:KeyName=iptv-prod-media-cdn-keys:Signature=UnrxJ5LBpnjYw6rqe7xwGOFBio7rBZ4nM5DayKzvaG8KtZ6eEDRkdSH_Y0UXNW4vsiaaNbv5VgbhkcGLnxjFAA==",
-    "img": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SONY_SPORTS_TEN_1_HD/images/LOGO_HD/image.png"
+    "name": "Disney Junior (576p)",
+    "type": "Kids",
+    "url": "http://116.90.120.149:8000/play/a0b3/index.m3u8",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/3/36/2019_Disney_Junior_logo.svg"
   },
   {
-    "name": "SONY SPORTS TEN 2",
-    "type": "Sports",
-    "url": "https://companion-live-play1.streamready.in/live/med13-2/sony_sports_ten_2/ndashd/sony_sports_ten_2.mpd?%7Ccookie=Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9jb21wYW5pb24tbGl2ZS1wbGF5MS5zdHJlYW1yZWFkeS5pbi9saXZlL21lZDEzLTIvc29ueV9zcG9ydHNfdGVuXzIvbmRhc2hkLw==:Expires=1754570709:KeyName=iptv-prod-media-cdn-keys:Signature=JQf5Yb59vHfj_UsG4Sn1Xpv0NrpmJHHTonfhbQbGdPK2tbewDzAEKlz3gSBgWUy4iYSCkzq9u8XZSEwLY01XDg==",
-    "img": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SONY_SPORTS_TEN_2/images/LOGO_HD/image.png"
+    "name": "Gubbare (1080p)",
+    "type": "Kids",
+    "url": "https://epiconvh.akamaized.net/live/gubbare/master.m3u8",
+    "img": "https://i.imgur.com/Bvbf9o7.png"
   },
   {
-    "name": "SONY SPORTS TEN 2 HD",
-    "type": "Sports",
-    "url": "https://companion-live-play1.streamready.in/live/med16-2/sony_sports_ten_2_hd/ndashshd/sony_sports_ten_2_hd.mpd?%7Ccookie=Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9jb21wYW5pb24tbGl2ZS1wbGF5MS5zdHJlYW1yZWFkeS5pbi9saXZlL21lZDE2LTIvc29ueV9zcG9ydHNfdGVuXzJfaGQvbmRhc2hzaGQv:Expires=1754574309:KeyName=iptv-prod-media-cdn-keys:Signature=-l6wBqvvZDSXD-tUC9Le-w70OQy19E4rJpAJ44rxD66EwKcUW__yztRWC0K_eigeESv_HzoxUESZHsK5CEkVBA==",
-    "img": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SONY_SPORTS_TEN_2_HD/images/LOGO_HD/image.png"
+    "name": "Nick HD+ (1080p) [Not 24/7]",
+    "type": "Kids",
+    "url": "http://116.90.120.149:8000/play/a0cw/index.m3u8",
+    "img": "https://i.imgur.com/nJPbTet.png"
   },
   {
-    "name": "SONY SPORTS TEN 3",
-    "type": "Sports",
-    "url": "https://companion-live-play1.streamready.in/live/med13-2/sony_sports_ten_3/ndashd/sony_sports_ten_3.mpd?%7Ccookie=Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9jb21wYW5pb24tbGl2ZS1wbGF5MS5zdHJlYW1yZWFkeS5pbi9saXZlL21lZDEzLTIvc29ueV9zcG9ydHNfdGVuXzMvbmRhc2hkLw==:Expires=1754571616:KeyName=iptv-prod-media-cdn-keys:Signature=xhaH5LALvzHju6yReLHugEGNCZCrx4PX_o1_cbQkTVp4N6wwiPaDvHUuDxtM6ilwZS7Tqhfs_pvEffOrOBiCAw==",
-    "img": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SONY_SPORTS_TEN_3/images/LOGO_HD/image.png"
+    "name": "Nick Jr India (1080p)",
+    "type": "Kids",
+    "url": "https://prod-sports-north-gm.jiocinema.com/bpk-tv/Nick_Junior_voot_MOB/Fallback/index.m3u8",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Nick_Jr._logo_2009.svg/512px-Nick_Jr._logo_2009.svg.png"
   },
   {
-    "name": "SONY SPORTS TEN 3 HD",
-    "type": "Sports",
-    "url": "https://companion-live-play1.streamready.in/live/med16-2/sony_sports_ten_3_hd/ndashshd/sony_sports_ten_3_hd.mpd?%7Ccookie=Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9jb21wYW5pb24tbGl2ZS1wbGF5MS5zdHJlYW1yZWFkeS5pbi9saXZlL21lZDE2LTIvc29ueV9zcG9ydHNfdGVuXzNfaGQvbmRhc2hzaGQv:Expires=1754567108:KeyName=iptv-prod-media-cdn-keys:Signature=IsNAmFrJ0yZu8o2bxR1ZaM6br0H6-TVWf26fOda_CuGNjymzyyL6E4U7IHVh81fW_R9PyyLPhU9FHboNwL4JDw==",
-    "img": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SONY_SPORTS_TEN_3_HD/images/LOGO_HD/image.png"
+    "name": "Nickelodeon Sonic Hindi (1080p)",
+    "type": "Kids",
+    "url": "https://prod-sports-north-gm.jiocinema.com/bpk-tv/Sonic_Nickelodeon_voot_MOB/Fallback/index.m3u8",
+    "img": "https://upload.wikimedia.org/wikipedia/en/thumb/2/2b/Nickelodeon_Sonic_logo.png/512px-Nickelodeon_Sonic_logo.png"
   },
   {
-    "name": "SONY SPORTS TEN 5",
-    "type": "Sports",
-    "url": "https://companion-live-play1.streamready.in/live/med4-2/sony_sports_ten_5/ndashd/sony_sports_ten_5.mpd?%7Ccookie=Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9jb21wYW5pb24tbGl2ZS1wbGF5MS5zdHJlYW1yZWFkeS5pbi9saXZlL21lZDQtMi9zb255X3Nwb3J0c190ZW5fNS9uZGFzaGQv:Expires=1754563509:KeyName=iptv-prod-media-cdn-keys:Signature=dOu4M6Kg8qU8HhsENypAILHe0Pm_y5jAPrHN3z124RsFe_EN9iEBw5avlVFrI9YMTPoO9mDVjILH6Yhsty_dBg==",
-    "img": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SONY_SPORTS_TEN_5/images/LOGO_HD/image.png"
-  },
-  {
-    "name": "SONY SPORTS TEN 5 HD",
-    "type": "Sports",
-    "url": "https://companion-live-play1.streamready.in/live/med16-2/sony_sports_ten_5_hd/ndashshd/sony_sports_ten_5_hd.mpd?%7Ccookie=Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9jb21wYW5pb24tbGl2ZS1wbGF5MS5zdHJlYW1yZWFkeS5pbi9saXZlL21lZDE2LTIvc29ueV9zcG9ydHNfdGVuXzVfaGQvbmRhc2hzaGQv:Expires=1754567108:KeyName=iptv-prod-media-cdn-keys:Signature=2XdQf1NemCAIg7d8Zx8XvQAHWw8WI5vvoL7tDdUK-0pjSWD99xF9qGIzAcDCIe_TORGAtc8tZNFRYvuk5S4FAw==",
-    "img": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SONY_SPORTS_TEN_5_HD/images/LOGO_HD/image.png"
-  },
-  {
-    "name": "DD Sports",
-    "type": "Sports",
-    "url": "https://companion-live-play1.streamready.in/live/med1-2/dd_sports/ndashd/dd_sports.mpd?%7Ccookie=Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9jb21wYW5pb24tbGl2ZS1wbGF5MS5zdHJlYW1yZWFkeS5pbi9saXZlL21lZDEtMi9kZF9zcG9ydHMvbmRhc2hkLw==:Expires=1754563509:KeyName=iptv-prod-media-cdn-keys:Signature=-ckxsjn2l3EqeapxZwZnxSLxlWhMheSJpZG5_yw3FE62_VGENHfDkYRJv1gNgFGFa6Dcs6upLtzrfJzx2mKDDw==",
-    "img": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_DD_SPORTS/images/LOGO_HD/image.png"
-  },
-  {
-    "name": "Eurosport",
-    "type": "Sports",
-    "url": "https://companion-live-play1.streamready.in/live/med11-2/eurosport/ndashd/eurosport.mpd?%7Ccookie=Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9jb21wYW5pb24tbGl2ZS1wbGF5MS5zdHJlYW1yZWFkeS5pbi9saXZlL21lZDExLTIvZXVyb3Nwb3J0L25kYXNoZC8=:Expires=1754567109:KeyName=iptv-prod-media-cdn-keys:Signature=QUxJ-2OO9QKyN73-wggTxRqJ8WkIx8-VEW2GxugbvH3DlVzVluJsbTaU9ofDbpIPUlXaQrOMImjuGWkPzmXzDA==",
-    "img": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_EUROSPORT/images/LOGO_HD/image.png"
-  },
-  {
-    "name": "Eurosport HD",
-    "type": "Sports",
-    "url": "https://companion-live-play1.streamready.in/live/med14-2/eurosport_hd/ndashshd/eurosport_hd.mpd?%7Ccookie=Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9jb21wYW5pb24tbGl2ZS1wbGF5MS5zdHJlYW1yZWFkeS5pbi9saXZlL21lZDE0LTIvZXVyb3Nwb3J0X2hkL25kYXNoc2hkLw==:Expires=1754567109:KeyName=iptv-prod-media-cdn-keys:Signature=8ubUvDRq1s5dL-LFboHKLghXB7M4-ct2lzDuvyZgOvchQbafCDuPurwptWYuwz63ikLO3iAkVWf_t1efpBGABw==",
-    "img": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_EUROSPORT_HD/images/LOGO_HD/image.png"
-  },
-  {
-    "name": "SONY SPORTS TEN 4",
-    "type": "Sports",
-    "url": "https://companion-live-play1.streamready.in/live/med13-2/sony_ten_4/ndashd/sony_ten_4.mpd?%7Ccookie=Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9jb21wYW5pb24tbGl2ZS1wbGF5MS5zdHJlYW1yZWFkeS5pbi9saXZlL21lZDEzLTIvc29ueV90ZW5fNC9uZGFzaGQv:Expires=1754572513:KeyName=iptv-prod-media-cdn-keys:Signature=0nkXkGpM_JDcc6i2E7kOOCrG_WVPjn16WW_-qQWqf1ds9asxmrcdiaxkzytdnZ0FAcfejhuJyJ1GqdsECCJHCw==",
-    "img": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SONY_SPORTS_TEN_4/images/LOGO_HD/image.png"
-  },
-  {
-    "name": "Sony Sports Ten 4 HD",
-    "type": "Sports",
-    "url": "https://companion-live-play1.streamready.in/live/med16-2/sony_sports_ten_4_hd/ndashshd/sony_sports_ten_4_hd.mpd?%7Ccookie=Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9jb21wYW5pb24tbGl2ZS1wbGF5MS5zdHJlYW1yZWFkeS5pbi9saXZlL21lZDE2LTIvc29ueV9zcG9ydHNfdGVuXzRfaGQvbmRhc2hzaGQv:Expires=1754570716:KeyName=iptv-prod-media-cdn-keys:Signature=qlhTvjx5rTo4DaURLQgZ6DE7d-NudFoBW4GI2zZrWPXBFcB2D7LQKGdsMNisheA0aJKDBqyl1M_PYOvY9cSTBQ==",
-    "img": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SONY_SPORTS_TEN_4_HD/images/LOGO_HD/image.png"
+    "name": "ZB Cartoon (1080p)",
+    "type": "Kids",
+    "url": "https://server.zillarbarta.com/zbcatun/video.m3u8",
+    "img": "https://i.imgur.com/BbFNpMr.jpeg"
   },
   {
     "name": "ETV Abhiruchi (1080p)",
@@ -3600,6 +2916,12 @@
     "img": "https://i.imgur.com/TWSZC2H.png"
   },
   {
+    "name": "Motorvision",
+    "type": "Auto",
+    "url": "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6093f2ae4dd5ab0007d1ff9d/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=1b1e7523-4b81-11ef-a8ac-e146e4e7be02&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=3105f589-5bf9-41ef-8229-51bdf3abb1d2",
+    "img": "https://i.imgur.com/v4kj8pI.png"
+  },
+  {
     "name": "Nambikkai TV (576p)",
     "type": "Family",
     "url": "https://live.wmncdn.net/nambikkaitv/live.stream/index.m3u8",
@@ -3610,6 +2932,12 @@
     "type": "Family",
     "url": "https://the-pet-collective-international-in.samsung.wurl.tv/playlist.m3u8",
     "img": "https://i.imgur.com/yH7n2dF.png"
+  },
+  {
+    "name": "NHK World-Japan (720p)",
+    "type": "Culture;News",
+    "url": "https://master.nhkworld.jp/nhkworld-tv/playlist/live.m3u8",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/NHK_World-Japan_TV.svg/512px-NHK_World-Japan_TV.svg.png"
   },
   {
     "name": "Sanskar TV (1080p)",
@@ -4096,258 +3424,6 @@
     "type": "Uncategorized",
     "url": "http://bamus-eng-roku.amagi.tv/playlist1080p.m3u8",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
-    "name": "Star Sports 1",
-    "type": "Uncategorized",
-    "url": "https://d10.gogohaalmal.com/hls/star1in.m3u8?md5=dm6w50P86ouACLGdzfRlng&expires=1754562386",
-    "img": "https://raw.githubusercontent.com/abusaeeidx/Tv-Channel-Logo/heads/main/CricHD/runded/16-by-xfireflix.png"
-  },
-  {
-    "name": "Star Sports 1 Hindi",
-    "type": "Uncategorized",
-    "url": "https://d10.gogohaalmal.com/hls/starhindi.m3u8?md5=LhH7_-zrFTOyPLPnTZdPdw&expires=1754562386",
-    "img": "https://raw.githubusercontent.com/abusaeeidx/Tv-Channel-Logo/heads/main/CricHD/runded/1-by-xfireflix.png"
-  },
-  {
-    "name": "PTV Sports",
-    "type": "Uncategorized",
-    "url": "https://d10.gogohaalmal.com/hls/ptvpk.m3u8?md5=8isJMLiBaKHxpD4wB6fEuw&expires=1754562386",
-    "img": "https://raw.githubusercontent.com/abusaeeidx/Tv-Channel-Logo/heads/main/CricHD/runded/20-by-xfireflix.png"
-  },
-  {
-    "name": "Willow HD",
-    "type": "Uncategorized",
-    "url": "https://d10.gogohaalmal.com/hls/willowusa.m3u8?md5=s_bpNmDcNDrfLvfFZ6hy2Q&expires=1754562386",
-    "img": "https://raw.githubusercontent.com/abusaeeidx/Tv-Channel-Logo/heads/main/CricHD/runded/38-by-xfireflix.png"
-  },
-  {
-    "name": "Willow HD 2",
-    "type": "Uncategorized",
-    "url": "https://d10.gogohaalmal.com/hls/willowextra.m3u8?md5=hcQNhtyb4Q0HeBaqV8oxbQ&expires=1754562386",
-    "img": "https://raw.githubusercontent.com/abusaeeidx/Tv-Channel-Logo/heads/main/CricHD/runded/8-by-xfireflix.png"
-  },
-  {
-    "name": "Ten Sports",
-    "type": "Uncategorized",
-    "url": "https://d10.gogohaalmal.com/hls/tenspk.m3u8?md5=TO412-9WkyaFsxx2v4I8fQ&expires=1754562386",
-    "img": "https://raw.githubusercontent.com/abusaeeidx/Tv-Channel-Logo/heads/main/CricHD/runded/10-by-xfireflix.png"
-  },
-  {
-    "name": "A Sports HD",
-    "type": "Uncategorized",
-    "url": "https://d10.gogohaalmal.com/hls/asportshd.m3u8?md5=XrPurDYmJzXUqfXFIOusKg&expires=1754562387",
-    "img": "https://raw.githubusercontent.com/abusaeeidx/Tv-Channel-Logo/heads/main/CricHD/runded/12-by-xfireflix.png"
-  },
-  {
-    "name": "Sky Sports Cricket",
-    "type": "Uncategorized",
-    "url": "https://d10.gogohaalmal.com/hls/skyscric.m3u8?md5=gQLc5B3hCujkyejxbyPkwA&expires=1754562387",
-    "img": "https://raw.githubusercontent.com/abusaeeidx/Tv-Channel-Logo/heads/main/CricHD/runded/9-by-xfireflix.png"
-  },
-  {
-    "name": "Sky Sports Main Event",
-    "type": "Uncategorized",
-    "url": "https://d10.gogohaalmal.com/hls/skysme.m3u8?md5=eHII8Q896OC1-6MBfdUvFw&expires=1754562387",
-    "img": "https://raw.githubusercontent.com/abusaeeidx/Tv-Channel-Logo/heads/main/CricHD/runded/18-by-xfireflix.png"
-  },
-  {
-    "name": "TNT 1",
-    "type": "Uncategorized",
-    "url": "https://d10.gogohaalmal.com/hls/bbtsp1.m3u8?md5=0uTXpuNiTRzUtI211MZEpA&expires=1754562387",
-    "img": "https://raw.githubusercontent.com/abusaeeidx/Tv-Channel-Logo/heads/main/CricHD/runded/tnt.png"
-  },
-  {
-    "name": "TNT 2",
-    "type": "Uncategorized",
-    "url": "https://d10.gogohaalmal.com/hls/bbtsp2.m3u8?md5=tAQIZi_n_XYJVdhUnbt0hQ&expires=1754562387",
-    "img": "https://raw.githubusercontent.com/abusaeeidx/Tv-Channel-Logo/heads/main/CricHD/runded/tnt.png"
-  },
-  {
-    "name": "TNT 3",
-    "type": "Uncategorized",
-    "url": "https://d10.gogohaalmal.com/hls/bbtsp3.m3u8?md5=r4G26SkzsEGPslyKrZgJ5w&expires=1754562387",
-    "img": "https://raw.githubusercontent.com/abusaeeidx/Tv-Channel-Logo/heads/main/CricHD/runded/tnt.png"
-  },
-  {
-    "name": "TNT 4",
-    "type": "Uncategorized",
-    "url": "https://d10.gogohaalmal.com/hls/bbtespn.m3u8?md5=AjWYb-cZKVEATMK0oXcIWA&expires=1754562387",
-    "img": "https://raw.githubusercontent.com/abusaeeidx/Tv-Channel-Logo/heads/main/CricHD/runded/tnt.png"
-  },
-  {
-    "name": "Sky Sports 1",
-    "type": "Uncategorized",
-    "url": "https://d10.gogohaalmal.com/hls/sky1nz.m3u8?md5=F5auTTqObNyOYeegkPhyqA&expires=1754562387",
-    "img": "https://raw.githubusercontent.com/abusaeeidx/Tv-Channel-Logo/heads/main/CricHD/runded/56-by-xfireflix.png"
-  },
-  {
-    "name": "Sky Sports 2",
-    "type": "Uncategorized",
-    "url": "https://d10.gogohaalmal.com/hls/sky2nz.m3u8?md5=3Ua-_BVGcS-2zVCWUQ9e7Q&expires=1754562387",
-    "img": "https://raw.githubusercontent.com/abusaeeidx/Tv-Channel-Logo/heads/main/CricHD/runded/56-by-xfireflix.png"
-  },
-  {
-    "name": "Sky Sports 3",
-    "type": "Uncategorized",
-    "url": "https://d10.gogohaalmal.com/hls/sky3nz.m3u8?md5=M1MKLyGQTKzE2fAbi1torA&expires=1754562387",
-    "img": "https://raw.githubusercontent.com/abusaeeidx/Tv-Channel-Logo/heads/main/CricHD/runded/56-by-xfireflix.png"
-  },
-  {
-    "name": "Sky Sports 4",
-    "type": "Uncategorized",
-    "url": "https://d10.gogohaalmal.com/hls/sky4nz.m3u8?md5=Ox_tidN6AhrAXMNA2FnbTg&expires=1754562388",
-    "img": "https://raw.githubusercontent.com/abusaeeidx/Tv-Channel-Logo/heads/main/CricHD/runded/56-by-xfireflix.png"
-  },
-  {
-    "name": "Sky Sports 5",
-    "type": "Uncategorized",
-    "url": "https://d10.gogohaalmal.com/hls/sky5nz.m3u8?md5=ofoVOd3FjQWPQTMJwNUjyQ&expires=1754562388",
-    "img": "https://raw.githubusercontent.com/abusaeeidx/Tv-Channel-Logo/heads/main/CricHD/runded/56-by-xfireflix.png"
-  },
-  {
-    "name": "Sky Sports 6",
-    "type": "Uncategorized",
-    "url": "https://d10.gogohaalmal.com/hls/sky6nz.m3u8?md5=wxUYmAYTOwwdV52IjJkMgw&expires=1754562388",
-    "img": "https://raw.githubusercontent.com/abusaeeidx/Tv-Channel-Logo/heads/main/CricHD/runded/56-by-xfireflix.png"
-  },
-  {
-    "name": "Sky Sports 7",
-    "type": "Uncategorized",
-    "url": "https://d10.gogohaalmal.com/hls/sky7nz.m3u8?md5=UJFZW2DU5xARuZxHms1BEw&expires=1754562388",
-    "img": "https://raw.githubusercontent.com/abusaeeidx/Tv-Channel-Logo/heads/main/CricHD/runded/56-by-xfireflix.png"
-  },
-  {
-    "name": "Sky Sports 8",
-    "type": "Uncategorized",
-    "url": "https://d10.gogohaalmal.com/hls/sky8nz.m3u8?md5=Bt2ft0w-LkndBud2zfbynw&expires=1754562388",
-    "img": "https://raw.githubusercontent.com/abusaeeidx/Tv-Channel-Logo/heads/main/CricHD/runded/56-by-xfireflix.png"
-  },
-  {
-    "name": "Sky Sports 9",
-    "type": "Uncategorized",
-    "url": "https://d10.gogohaalmal.com/hls/sky9nz.m3u8?md5=ObQMbN74uL0Lk3e5x2NP5g&expires=1754562388",
-    "img": "https://raw.githubusercontent.com/abusaeeidx/Tv-Channel-Logo/heads/main/CricHD/runded/56-by-xfireflix.png"
-  },
-  {
-    "name": "Sky Cinema",
-    "type": "Uncategorized",
-    "url": "https://d10.gogohaalmal.com/hls/skysme.m3u8?md5=uhg9c0nW3wA0AOSphdg7Bw&expires=1754562388",
-    "img": "https://raw.githubusercontent.com/abusaeeidx/Tv-Channel-Logo/heads/main/CricHD/runded/skycinema.png"
-  },
-  {
-    "name": "Sky Sports Action",
-    "type": "Uncategorized",
-    "url": "https://d10.gogohaalmal.com/hls/skysact.m3u8?md5=xbLJD6lTFPnqJY1tAHFzeQ&expires=1754562388",
-    "img": "https://raw.githubusercontent.com/abusaeeidx/Tv-Channel-Logo/heads/main/CricHD/runded/1745007829332.png"
-  },
-  {
-    "name": "Sky Sports Golf",
-    "type": "Uncategorized",
-    "url": "https://d10.gogohaalmal.com/hls/skysgol.m3u8?md5=ztPPaeLQHSAocx13O7QirQ&expires=1754562388",
-    "img": "https://raw.githubusercontent.com/abusaeeidx/Tv-Channel-Logo/heads/main/CricHD/runded/1745008055327.png"
-  },
-  {
-    "name": "Sky Sports Premier League",
-    "type": "Uncategorized",
-    "url": "https://d10.gogohaalmal.com/hls/skysprem.m3u8?md5=9MM8RYVNyIrZzuZgwnSLLA&expires=1754562388",
-    "img": "https://raw.githubusercontent.com/abusaeeidx/Tv-Channel-Logo/heads/main/CricHD/runded/43-by-xfireflix.png"
-  },
-  {
-    "name": "Sky Sports Football",
-    "type": "Uncategorized",
-    "url": "https://d10.gogohaalmal.com/hls/skysfott.m3u8?md5=QrZJv4Y95sjTeu9NAfshSQ&expires=1754562389",
-    "img": "https://raw.githubusercontent.com/abusaeeidx/Tv-Channel-Logo/heads/main/CricHD/runded/44-by-xfireflix.png"
-  },
-  {
-    "name": "Sky Sports Plus",
-    "type": "Uncategorized",
-    "url": "https://d10.gogohaalmal.com/hls/skysare.m3u8?md5=UuAS-OapQSDDY_Z9bL0U8A&expires=1754562389",
-    "img": "https://raw.githubusercontent.com/abusaeeidx/Tv-Channel-Logo/heads/main/CricHD/runded/1745008347584.png"
-  },
-  {
-    "name": "Sky Sports F1",
-    "type": "Uncategorized",
-    "url": "https://d10.gogohaalmal.com/hls/skysfor1.m3u8?md5=2HB_fbDL9E3XAArHEdms_A&expires=1754562389",
-    "img": "https://raw.githubusercontent.com/abusaeeidx/Tv-Channel-Logo/heads/main/CricHD/runded/1745008468637.png"
-  },
-  {
-    "name": "LaLiGA",
-    "type": "Uncategorized",
-    "url": "https://d10.gogohaalmal.com/hls/laligauk.m3u8?md5=ATfduhuXlPUZOtt7mtjrow&expires=1754562389",
-    "img": "https://raw.githubusercontent.com/abusaeeidx/Tv-Channel-Logo/heads/main/CricHD/runded/19-by-xfireflix.png"
-  },
-  {
-    "name": "Premier Sports 1",
-    "type": "Uncategorized",
-    "url": "https://d10.gogohaalmal.com/hls/premieruk.m3u8?md5=x2naQlhysF16n1qfTXUxag&expires=1754562389",
-    "img": "https://raw.githubusercontent.com/abusaeeidx/Tv-Channel-Logo/heads/main/CricHD/runded/31-by-xfireflix.png"
-  },
-  {
-    "name": "Premier Sports 2",
-    "type": "Uncategorized",
-    "url": "https://d10.gogohaalmal.com/hls/hdchnl2.m3u8?md5=iWbFnvhq4wUVljKDdbOstA&expires=1754562389",
-    "img": "https://raw.githubusercontent.com/abusaeeidx/Tv-Channel-Logo/heads/main/CricHD/runded/31-by-xfireflix.png"
-  },
-  {
-    "name": "Super Football",
-    "type": "Uncategorized",
-    "url": "https://d10.gogohaalmal.com/hls/superfotball.m3u8?md5=gVFUyy2M5yOw_H2BmL0pmQ&expires=1754562389",
-    "img": "https://raw.githubusercontent.com/abusaeeidx/Tv-Channel-Logo/heads/main/CricHD/runded/34-by-xfireflix.png"
-  },
-  {
-    "name": "Super Premier League",
-    "type": "Uncategorized",
-    "url": "https://d10.gogohaalmal.com/hls/superpremier.m3u8?md5=AZYObtpWJL_SpUVhMQvwAA&expires=1754562389",
-    "img": "https://raw.githubusercontent.com/abusaeeidx/Tv-Channel-Logo/heads/main/CricHD/runded/1745008781606.png"
-  },
-  {
-    "name": "Astro Cricket",
-    "type": "Uncategorized",
-    "url": "https://d10.gogohaalmal.com/hls/fox501.m3u8?md5=0M5iddDMbhgRl59OiM9GYQ&expires=1754562389",
-    "img": "https://raw.githubusercontent.com/abusaeeidx/Tv-Channel-Logo/heads/main/CricHD/runded/1745008895589.png"
-  },
-  {
-    "name": "ESPN 1",
-    "type": "Uncategorized",
-    "url": "https://d10.gogohaalmal.com/hls/espnusa.m3u8?md5=IQ9bgzQrzlWbSXYTTBZJ1g&expires=1754562389",
-    "img": "https://raw.githubusercontent.com/abusaeeidx/Tv-Channel-Logo/heads/main/CricHD/runded/17-by-xfireflix.png"
-  },
-  {
-    "name": "ESPN 2",
-    "type": "Uncategorized",
-    "url": "https://d10.gogohaalmal.com/hls/espn2.m3u8?md5=niMasQ-x0_LxO7FnsSeDjA&expires=1754562390",
-    "img": "https://raw.githubusercontent.com/abusaeeidx/Tv-Channel-Logo/heads/main/CricHD/runded/17-by-xfireflix.png"
-  },
-  {
-    "name": "Sky Sports Arena",
-    "type": "Uncategorized",
-    "url": "https://d10.gogohaalmal.com/hls/skysare.m3u8?md5=GXDpVA7OO6f0-1BXZwbVCw&expires=1754562390",
-    "img": "https://raw.githubusercontent.com/abusaeeidx/Tv-Channel-Logo/heads/main/CricHD/runded/1745007829327.png"
-  },
-  {
-    "name": "Sky Sports Mix",
-    "type": "Uncategorized",
-    "url": "https://d10.gogohaalmal.com/hls/skysmixx.m3u8?md5=JXwPRamJJ0qgu7yb6CrLtQ&expires=1754562390",
-    "img": "https://raw.githubusercontent.com/abusaeeidx/Tv-Channel-Logo/heads/main/CricHD/runded/13-by-xfireflix.png"
-  },
-  {
-    "name": "Sky Sports Tennis",
-    "type": "Uncategorized",
-    "url": "https://d10.gogohaalmal.com/hls/skystennis.m3u8?md5=4DiX-6WlUHR-72tpsM0v9g&expires=1754562390",
-    "img": "https://raw.githubusercontent.com/abusaeeidx/Tv-Channel-Logo/heads/main/CricHD/runded/1745009085794.png"
-  },
-  {
-    "name": "Fox Cricket 501 HD",
-    "type": "Uncategorized",
-    "url": "https://d10.gogohaalmal.com/hls/fox501.m3u8?md5=x8msR9zWGjn0pSy0YSBEFg&expires=1754562390",
-    "img": "https://raw.githubusercontent.com/abusaeeidx/Tv-Channel-Logo/heads/main/CricHD/runded/6-by-xfireflix.png"
-  },
-  {
-    "name": "Sony Sports3",
-    "type": "Uncategorized",
-    "url": "https://d10.gogohaalmal.com/hls/ten1hd.m3u8?md5=1HaCTrO-A6HW90MQ-l_7gg&expires=1754562390",
-    "img": "https://raw.githubusercontent.com/abusaeeidx/Tv-Channel-Logo/heads/main/CricHD/runded/1000173192-modified.png"
   },
   {
     "name": "ATN Bangla",
@@ -11014,545 +10090,5 @@
     "type": "TS-JioTV Shopping",
     "url": "http://103.168.18.83:80/zan/app/ts_live_1148.m3u8",
     "img": "https://jiotv.catchup.cdn.jio.com/dare_images/images/TEST8_HD.png"
-  },
-  {
-    "name": "MH One Dil Se",
-    "type": "Regional",
-    "url": "https://companion-live-play1.streamready.in/live/med14-2/mh_one_dil_se/ndashd/mh_one_dil_se.mpd?%7Ccookie=Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9jb21wYW5pb24tbGl2ZS1wbGF5MS5zdHJlYW1yZWFkeS5pbi9saXZlL21lZDE0LTIvbWhfb25lX2RpbF9zZS9uZGFzaGQv:Expires=1754570709:KeyName=iptv-prod-media-cdn-keys:Signature=VxeAOmtWHmUaTB0GeE5t_uIZQl0uL2gOsMdoX_poodgOTEYRJSK9sAfnO9SuRaj4v44UYxPYD6yOjMJ9FK-KBA==",
-    "img": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_MH_ONE_DIL_SE/images/LOGO_HD/image.png"
-  },
-  {
-    "name": "Zee Madhya Pradesh Chhattisgarh",
-    "type": "Regional",
-    "url": "https://companion-live-play1.streamready.in/live/med12-2/zee_madhya_pradesh_chhattisgarh/ndashd/zee_madhya_pradesh_chhattisgarh.mpd?%7Ccookie=Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9jb21wYW5pb24tbGl2ZS1wbGF5MS5zdHJlYW1yZWFkeS5pbi9saXZlL21lZDEyLTIvemVlX21hZGh5YV9wcmFkZXNoX2NoaGF0dGlzZ2FyaC9uZGFzaGQv:Expires=1754570710:KeyName=iptv-prod-media-cdn-keys:Signature=h8-kpQIQ3ikYVO8WBTguIqdNDemAi0qXpCcgog7Xf9lV2h9GsNGCq2ap1UZI65GRIsPlO9hQnhON43NhcHG8Bw==",
-    "img": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZEE_MADHYA_PRADESH_CHHATTISGARH/images/LOGO_HD/image.png"
-  },
-  {
-    "name": "Zee Marathi",
-    "type": "Regional",
-    "url": "https://companion-live-play1.streamready.in/live/med12-2/zee_marathi/ndashd/zee_marathi.mpd?%7Ccookie=Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9jb21wYW5pb24tbGl2ZS1wbGF5MS5zdHJlYW1yZWFkeS5pbi9saXZlL21lZDEyLTIvemVlX21hcmF0aGkvbmRhc2hkLw==:Expires=1754564416:KeyName=iptv-prod-media-cdn-keys:Signature=N3Xp0G8sPfjiCZp3kV-zHJEnzKxFqqVJzIjbzNGZPPCeBpGQGjkqpvECJzSx5B1nhVbcRwZyiG5QNpOU8LoKBg==",
-    "img": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZEE_MARATHI/images/LOGO_HD/image.png"
-  },
-  {
-    "name": "Zee Yuva",
-    "type": "Regional",
-    "url": "https://companion-live-play1.streamready.in/live/med12-2/zee_yuva/ndashd/zee_yuva.mpd?%7Ccookie=Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9jb21wYW5pb24tbGl2ZS1wbGF5MS5zdHJlYW1yZWFkeS5pbi9saXZlL21lZDEyLTIvemVlX3l1dmEvbmRhc2hkLw==:Expires=1754574311:KeyName=iptv-prod-media-cdn-keys:Signature=bYIPTABNp1HvvTKLKZMae0IFPUwLCfDfriApCze02VEgtGqd-RBMNw-gTaWLqVFx5mgK9LHU9QH9bJUU1__EDw==",
-    "img": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZEE_YUVA/images/LOGO_HD/image.png"
-  },
-  {
-    "name": "Sony Marathi",
-    "type": "Regional",
-    "url": "https://companion-live-play1.streamready.in/live/med14-2/sony_marathi/ndashd/sony_marathi.mpd?%7Ccookie=Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9jb21wYW5pb24tbGl2ZS1wbGF5MS5zdHJlYW1yZWFkeS5pbi9saXZlL21lZDE0LTIvc29ueV9tYXJhdGhpL25kYXNoZC8=:Expires=1754572511:KeyName=iptv-prod-media-cdn-keys:Signature=LijpD__5D_X-QxEaPzWZygKUCyzkQw_xFDse0FZrzpXyW6a6n_hj5fAmnAkeokfYu6a8_-tVYL8fxmRSTxtIDA==",
-    "img": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SONY_MARATHI/images/LOGO_HD/image.png"
-  },
-  {
-    "name": "Zee Talkies",
-    "type": "Regional",
-    "url": "https://companion-live-play1.streamready.in/live/med12-2/zee_talkies/ndashd/zee_talkies.mpd?%7Ccookie=Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9jb21wYW5pb24tbGl2ZS1wbGF5MS5zdHJlYW1yZWFkeS5pbi9saXZlL21lZDEyLTIvemVlX3RhbGtpZXMvbmRhc2hkLw==:Expires=1754563511:KeyName=iptv-prod-media-cdn-keys:Signature=YeuIrQ8K-EhP7i0yRDJh5w39T0GaPX7zXS7BlnKPca_prGkrxc0qe40q7f2Tggh18k1q-l4o61u6QexSHXdUAQ==",
-    "img": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZEE_TALKIES/images/LOGO_HD/image.png"
-  },
-  {
-    "name": "Fakt Marathi",
-    "type": "Regional",
-    "url": "https://companion-live-play1.streamready.in/live/med2-2/fakt_marathi/ndashd/fakt_marathi.mpd?%7Ccookie=Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9jb21wYW5pb24tbGl2ZS1wbGF5MS5zdHJlYW1yZWFkeS5pbi9saXZlL21lZDItMi9mYWt0X21hcmF0aGkvbmRhc2hkLw==:Expires=1754574311:KeyName=iptv-prod-media-cdn-keys:Signature=AvsGbyl7hJlqv80bw-nhm7rqzHu-6dzC0EBv8YJ065fQ2PaYtwjgx3SmfMBFJbuKWi61zONHk1uI26mW-sazBA==",
-    "img": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_FAKT_MARATHI/images/LOGO_HD/image.png"
-  },
-  {
-    "name": "Saam TV",
-    "type": "Regional",
-    "url": "https://companion-live-play1.streamready.in/live/med3-2/saam_tv/ndashd/saam_tv.mpd?%7Ccookie=Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9jb21wYW5pb24tbGl2ZS1wbGF5MS5zdHJlYW1yZWFkeS5pbi9saXZlL21lZDMtMi9zYWFtX3R2L25kYXNoZC8=:Expires=1754567111:KeyName=iptv-prod-media-cdn-keys:Signature=9aCQ8XqJNtKYM-RE5orRTR8NTmWjJy_T-kEqDaaLzgkSOksflXGJ3feH69zUvZx9YsqmLRzfC4XrXDZaDuIjBA==",
-    "img": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SAAM_TV/images/LOGO_HD/image.png"
-  },
-  {
-    "name": "DD Sahyadri",
-    "type": "Regional",
-    "url": "https://companion-live-play1.streamready.in/live/med10-2/dd_sahyadri/ndashd/dd_sahyadri.mpd?%7Ccookie=Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9jb21wYW5pb24tbGl2ZS1wbGF5MS5zdHJlYW1yZWFkeS5pbi9saXZlL21lZDEwLTIvZGRfc2FoeWFkcmkvbmRhc2hkLw==:Expires=1754575220:KeyName=iptv-prod-media-cdn-keys:Signature=NhnYNaywxrPIIO8CWSiTHH-vQSozLYYtQr--9VveTPXqEkef7uZJCKBq6PONrelac1UnYc7AR4g7wE3_-orTCQ==",
-    "img": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_DD_SAHYADRI/images/LOGO_HD/image.png"
-  },
-  {
-    "name": "PTC Punjabi",
-    "type": "Regional",
-    "url": "https://companion-live-play1.streamready.in/live/med1-2/ptc_punjabi/ndashd/ptc_punjabi.mpd?%7Ccookie=Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9jb21wYW5pb24tbGl2ZS1wbGF5MS5zdHJlYW1yZWFkeS5pbi9saXZlL21lZDEtMi9wdGNfcHVuamFiaS9uZGFzaGQv:Expires=1754567112:KeyName=iptv-prod-media-cdn-keys:Signature=cT0QfaK6It_Bv1oy1yRDw3nP9l9os0pI0qUTPL7J7oOITZjU8hlNkWwfKj-S5E07QpiI4A1M8YrrI-5dgdjxDw==",
-    "img": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_PTC_PUNJABI/images/LOGO_HD/image.png"
-  },
-  {
-    "name": "Zee Punjabi",
-    "type": "Regional",
-    "url": "https://companion-live-play1.streamready.in/live/med12-2/zee_punjabi/ndashd/zee_punjabi.mpd?%7Ccookie=Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9jb21wYW5pb24tbGl2ZS1wbGF5MS5zdHJlYW1yZWFkeS5pbi9saXZlL21lZDEyLTIvemVlX3B1bmphYmkvbmRhc2hkLw==:Expires=1754567112:KeyName=iptv-prod-media-cdn-keys:Signature=6Cl3OP0voF0-OP7Bs14UBbTJlSv67pAkyd_h-UW5vL2ksQ7042qX-WGm3ywR5P1dcqNlZxkR4ohBXadRrCJqBA==",
-    "img": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZEE_PUNJABI/images/LOGO_HD/image.png"
-  },
-  {
-    "name": "Pitaara",
-    "type": "Regional",
-    "url": "https://companion-live-play1.streamready.in/live/med14-2/pitaara/ndashd/pitaara.mpd?%7Ccookie=Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9jb21wYW5pb24tbGl2ZS1wbGF5MS5zdHJlYW1yZWFkeS5pbi9saXZlL21lZDE0LTIvcGl0YWFyYS9uZGFzaGQv:Expires=1754574312:KeyName=iptv-prod-media-cdn-keys:Signature=A-IRK0MHkOmsuP1W5dra2qsGMk9MV8yCuCVP5BZS3FWBoCJsMwmj0NtWUVgEylj3pOumxQbxvTzhtFbEGsE7Bw==",
-    "img": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_PITAARA/images/LOGO_HD/image.png"
-  },
-  {
-    "name": "Zee Punjab Haryana Himachal",
-    "type": "Regional",
-    "url": "https://companion-live-play1.streamready.in/live/med9-2/zee_punjab_haryana_himachal/ndashd/zee_punjab_haryana_himachal.mpd?%7Ccookie=Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9jb21wYW5pb24tbGl2ZS1wbGF5MS5zdHJlYW1yZWFkeS5pbi9saXZlL21lZDktMi96ZWVfcHVuamFiX2hhcnlhbmFfaGltYWNoYWwvbmRhc2hkLw==:Expires=1754563511:KeyName=iptv-prod-media-cdn-keys:Signature=-5Fnuk_U0htvL-AKQ7_8tq9orogKXPeJL0blvSutBTjcGVMiENfwtn-IlbKJEquB9uOBRQAZP9XMCuIpQF8eAw==",
-    "img": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZEE_PUNJAB_HARYANA_HIMACHAL/images/LOGO_HD/image.png"
-  },
-  {
-    "name": "PTC Simran",
-    "type": "Regional",
-    "url": "https://companion-live-play1.streamready.in/live/med14-2/ptc_simran/ndashd/ptc_simran.mpd?%7Ccookie=Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9jb21wYW5pb24tbGl2ZS1wbGF5MS5zdHJlYW1yZWFkeS5pbi9saXZlL21lZDE0LTIvcHRjX3NpbXJhbi9uZGFzaGQv:Expires=1754567112:KeyName=iptv-prod-media-cdn-keys:Signature=Vndc6QxdOgjHG3yDhY8xp7QnfFSASq3ITOA2U-nI5_yDQoZXu2Cf-RiiFgVkNjjnr_G0BmlmkE3-ZNv6oJAwBA==",
-    "img": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_PTC_SIMRAN/images/LOGO_HD/image.png"
-  },
-  {
-    "name": "MH1",
-    "type": "Regional",
-    "url": "https://companion-live-play1.streamready.in/live/med2-2/mh1/ndashd/mh1.mpd?%7Ccookie=Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9jb21wYW5pb24tbGl2ZS1wbGF5MS5zdHJlYW1yZWFkeS5pbi9saXZlL21lZDItMi9taDEvbmRhc2hkLw==:Expires=1754572511:KeyName=iptv-prod-media-cdn-keys:Signature=mx2JXH34JA-czj1U9-B0xpTmIO_KAJz9JSX4L8j3t9CX6K12H1McAvk9gMkwT1qAW6SB7S9MU-9Y98ZuiJ6YAQ==",
-    "img": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_MH1/images/LOGO_HD/image.png"
-  },
-  {
-    "name": "DD Punjabi",
-    "type": "Regional",
-    "url": "https://companion-live-play1.streamready.in/live/med1-2/dd_punjabi/ndashd/dd_punjabi.mpd?%7Ccookie=Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9jb21wYW5pb24tbGl2ZS1wbGF5MS5zdHJlYW1yZWFkeS5pbi9saXZlL21lZDEtMi9kZF9wdW5qYWJpL25kYXNoZC8=:Expires=1754563512:KeyName=iptv-prod-media-cdn-keys:Signature=GZ56P8FcMh8cTObBZV-ZAtZdv5NLFav5wEysQg74JqYH8Bx5qN-748Ur49BXI4iqtDHiWwBkXWoCZctAsUjVBg==",
-    "img": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_DD_PUNJABI/images/LOGO_HD/image.png"
-  },
-  {
-    "name": "DD Girnar",
-    "type": "Regional",
-    "url": "https://companion-live-play1.streamready.in/live/med10-2/dd_girnar/ndashd/dd_girnar.mpd?%7Ccookie=Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9jb21wYW5pb24tbGl2ZS1wbGF5MS5zdHJlYW1yZWFkeS5pbi9saXZlL21lZDEwLTIvZGRfZ2lybmFyL25kYXNoZC8=:Expires=1754563511:KeyName=iptv-prod-media-cdn-keys:Signature=zDWIm1-W2bs8Xx0VzqDIPGEUaEIKXueQKzwtCMKelEhnloF5tkOcILeYfWJJgxGBe76VwAmIB8pf1Pz1Sp-OBQ==",
-    "img": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_DD_GIRNAR/images/LOGO_HD/image.png"
-  },
-  {
-    "name": "Tarang",
-    "type": "Regional",
-    "url": "https://companion-live-play1.streamready.in/live/med2-2/tarang_tv/ndashd/tarang_tv.mpd?%7Ccookie=Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9jb21wYW5pb24tbGl2ZS1wbGF5MS5zdHJlYW1yZWFkeS5pbi9saXZlL21lZDItMi90YXJhbmdfdHYvbmRhc2hkLw==:Expires=1754564416:KeyName=iptv-prod-media-cdn-keys:Signature=qnRyiu7gtRritSq9c76-ze7kPsEh653c1CTpMmzkG5KslZcBnvdvOqbUCZSN6FsdHstY3EufDvIyXwSD0WhEDg==",
-    "img": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_TARANG/images/LOGO_HD/image.png"
-  },
-  {
-    "name": "Prarthana TV",
-    "type": "Regional",
-    "url": "https://companion-live-play1.streamready.in/live/med2-2/prarthana_tv/ndashd/prarthana_tv.mpd?%7Ccookie=Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9jb21wYW5pb24tbGl2ZS1wbGF5MS5zdHJlYW1yZWFkeS5pbi9saXZlL21lZDItMi9wcmFydGhhbmFfdHYvbmRhc2hkLw==:Expires=1754567112:KeyName=iptv-prod-media-cdn-keys:Signature=LBK9J2_J9ntpLD0VJ2kO5qewdaGUp4JmZwQcHP0xwo8HuwjDzQUFEc_hrCpUvKyKWvZBszqzIYdQuoVbXC9UBw==",
-    "img": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_PRARTHANA_TV/images/LOGO_HD/image.png"
-  },
-  {
-    "name": "Zee Sarthak",
-    "type": "Regional",
-    "url": "https://companion-live-play1.streamready.in/live/med12-2/zee_sarthak/ndashd/zee_sarthak.mpd?%7Ccookie=Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9jb21wYW5pb24tbGl2ZS1wbGF5MS5zdHJlYW1yZWFkeS5pbi9saXZlL21lZDEyLTIvemVlX3NhcnRoYWsvbmRhc2hkLw==:Expires=1754567112:KeyName=iptv-prod-media-cdn-keys:Signature=VAz1ogG5b-bF5O267Ud88psVWIrmuVDaC6v8Piq2HVT43suaVhZExYjqfsxm7xQ6WIlxadWWXuMXtTNBgQiQAQ==",
-    "img": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZEE_SARTHAK/images/LOGO_HD/image.png"
-  },
-  {
-    "name": "SIDHARTH TV",
-    "type": "Regional",
-    "url": "https://companion-live-play1.streamready.in/live/med14-2/sidharth_tv/ndashd/sidharth_tv.mpd?%7Ccookie=Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9jb21wYW5pb24tbGl2ZS1wbGF5MS5zdHJlYW1yZWFkeS5pbi9saXZlL21lZDE0LTIvc2lkaGFydGhfdHYvbmRhc2hkLw==:Expires=1754567112:KeyName=iptv-prod-media-cdn-keys:Signature=PO4h52I1ENX94bFuBRd8PPhlc_n6WEc6gAPv-vJAJl_6SOzvGWql-7eJKJxI9VFV665JWAP9cQLnO_dZ33KHCQ==",
-    "img": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SIDHARTH_TV/images/LOGO_HD/image.png"
-  },
-  {
-    "name": "Alankar",
-    "type": "Regional",
-    "url": "https://companion-live-play1.streamready.in/live/med14-2/alankar/ndashd/alankar.mpd?%7Ccookie=Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9jb21wYW5pb24tbGl2ZS1wbGF5MS5zdHJlYW1yZWFkeS5pbi9saXZlL21lZDE0LTIvYWxhbmthci9uZGFzaGQv:Expires=1754571617:KeyName=iptv-prod-media-cdn-keys:Signature=FXxyDydGdnBUXcOmCtBkXlfyeGaopzNDr83Vj_DAWkoW-4ao4tAd5Zsj7aYZothpzer_rqHnmpZHn5lyilpXAQ==",
-    "img": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ALANKAR/images/LOGO_HD/image.png"
-  },
-  {
-    "name": "OTV",
-    "type": "Regional",
-    "url": "https://companion-live-play1.streamready.in/live/med1-2/otv/ndashd/otv.mpd?%7Ccookie=Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9jb21wYW5pb24tbGl2ZS1wbGF5MS5zdHJlYW1yZWFkeS5pbi9saXZlL21lZDEtMi9vdHYvbmRhc2hkLw==:Expires=1754571618:KeyName=iptv-prod-media-cdn-keys:Signature=zP8lajXeFyhn4jau0s63PkHdj3d9e5odVV28_KyCtPJnKlZFvh-EoJAcGijUD4wyU2MdQI55CC0GAdxT107XBw==",
-    "img": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_OTV/images/LOGO_HD/image.png"
-  },
-  {
-    "name": "DD Oriya",
-    "type": "Regional",
-    "url": "https://companion-live-play1.streamready.in/live/med1/dd_oriya/ndashd/dd_oriya.mpd?%7Ccookie=Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9jb21wYW5pb24tbGl2ZS1wbGF5MS5zdHJlYW1yZWFkeS5pbi9saXZlL21lZDEtMi9kZF9vcml5YS9uZGFzaGQv:Expires=1754575220:KeyName=iptv-prod-media-cdn-keys:Signature=HtVsYn9YfU9igBMx2aMuEnuTGisFuY5rusaV2FX7EkNIwDQvSAsZgY2ij1pw4QKNVMF2SO0uD1xlaaVMqsMMAg==",
-    "img": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_DD_ORIYA/images/LOGO_HD/image.png"
-  },
-  {
-    "name": "Salaam TV",
-    "type": "Regional",
-    "url": "https://companion-live-play1.streamready.in/live/med8-2/salaam_tv/ndashd/salaam_tv.mpd?%7Ccookie=Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9jb21wYW5pb24tbGl2ZS1wbGF5MS5zdHJlYW1yZWFkeS5pbi9saXZlL21lZDgtMi9zYWxhYW1fdHYvbmRhc2hkLw==:Expires=1754571617:KeyName=iptv-prod-media-cdn-keys:Signature=efJEO6xPu4crYrK9jLurtHk6SmHfw7avkAU5r9qk398SfbU9Z8p9Fx62ljfd2EAgjIUOBbk3S4GZ1j2EJuFUCg==",
-    "img": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SALAAM_TV/images/LOGO_HD/image.png"
-  },
-  {
-    "name": "DD Urdu",
-    "type": "Regional",
-    "url": "https://companion-live-play1.streamready.in/live/med1/dd_urdu/ndashd/dd_urdu.mpd?%7Ccookie=Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9jb21wYW5pb24tbGl2ZS1wbGF5MS5zdHJlYW1yZWFkeS5pbi9saXZlL21lZDEtMi9kZF91cmR1L25kYXNoZC8=:Expires=1754567113:KeyName=iptv-prod-media-cdn-keys:Signature=dvdbmgTOAvX7-4yiMR6E5BrsC-wdd_vqIF1v8FeBSsHghiyn4wNOuuDCWi1jEDwX7GesRQSpyhRdL8sVEIIWBA==",
-    "img": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_DD_URDU/images/LOGO_HD/image.png"
-  },
-  {
-    "name": "DD Kashir",
-    "type": "Regional",
-    "url": "https://companion-live-play1.streamready.in/live/med10/dd_kashir/ndashd/dd_kashir.mpd?%7Ccookie=Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9jb21wYW5pb24tbGl2ZS1wbGF5MS5zdHJlYW1yZWFkeS5pbi9saXZlL21lZDEwLTIvZGRfa2FzaGlyL25kYXNoZC8=:Expires=1754567113:KeyName=iptv-prod-media-cdn-keys:Signature=OB53vyTL_1EOTRdijWp_sX9bq6zcLjNK4wRuVVWiXye08fqRsw9wM2IxN5_e8kCHAUO4pnIFWeoQdRHz5MI5Bw==",
-    "img": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_DD_KASHIR/images/LOGO_HD/image.png"
-  },
-  {
-    "name": "Rengoni TV",
-    "type": "Regional",
-    "url": "https://companion-live-play1.streamready.in/live/med3/rengoni_tv/ndashd/rengoni_tv.mpd?%7Ccookie=Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9jb21wYW5pb24tbGl2ZS1wbGF5MS5zdHJlYW1yZWFkeS5pbi9saXZlL21lZDMtMi9yZW5nb25pX3R2L25kYXNoZC8=:Expires=1754571618:KeyName=iptv-prod-media-cdn-keys:Signature=Ns4ncYJZQKPBO0pgSsFTQ9Z3NQwYi7l6WPlHb0enYdc3R2XWIw69758CZqSk4aU63G4jhpkDhsAtmxtIAgrpDQ==",
-    "img": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_RENGONI_TV/images/LOGO_HD/image.png"
-  },
-  {
-    "name": "DD North East",
-    "type": "Regional",
-    "url": "https://companion-live-play1.streamready.in/live/med1/dd_north_east/ndashd/dd_north_east.mpd?%7Ccookie=Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9jb21wYW5pb24tbGl2ZS1wbGF5MS5zdHJlYW1yZWFkeS5pbi9saXZlL21lZDEtMi9kZF9ub3J0aF9lYXN0L25kYXNoZC8=:Expires=1754572512:KeyName=iptv-prod-media-cdn-keys:Signature=QZH1aNuolc_LRuwK5QcHMV_KIr-V8ThCZkSHsIj_gJwTCY6EORaZ6kFV4xAP3N3NRuaCNIBDi4yHi6hYpEe-Dw==",
-    "img": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_DD_NORTH_EAST/images/LOGO_HD/image.png"
-  },
-  {
-    "name": "Zee Bihar Jharkhand",
-    "type": "Regional",
-    "url": "https://companion-live-play1.streamready.in/live/med12/zee_bihar_jharkhand/ndashd/zee_bihar_jharkhand.mpd?%7Ccookie=Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9jb21wYW5pb24tbGl2ZS1wbGF5MS5zdHJlYW1yZWFkeS5pbi9saXZlL21lZDEyLTIvemVlX2JpaGFyX2poYXJraGFuZC9uZGFzaGQv:Expires=1754567113:KeyName=iptv-prod-media-cdn-keys:Signature=nwsrI9WCeT-8mPhSrNrT9YMADX5jYJY5j9QGTKjpesNgIoXQHH-bf5t3JZnqSOzHecbTFIXcaM__tdH5RRr8AA==",
-    "img": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZEE_BIHAR_JHARKHAND/images/LOGO_HD/image.png"
-  },
-  {
-    "name": "B4U Bhojpuri",
-    "type": "Regional",
-    "url": "https://companion-live-play1.streamready.in/live/med1/b4u_bhojpuri/ndashd/b4u_bhojpuri.mpd?%7Ccookie=Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9jb21wYW5pb24tbGl2ZS1wbGF5MS5zdHJlYW1yZWFkeS5pbi9saXZlL21lZDItMi9iNHVfYmhvanB1cmkvbmRhc2hkLw==:Expires=1754563512:KeyName=iptv-prod-media-cdn-keys:Signature=hr572bQfvRA0Ol2BqkbUMZCMDPm1STae8LqzuvdqKJAQvVQiTQ9UjvJmsNoTV33BQTg5nIK0P63yMDZUlUhcDw==",
-    "img": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_B4U_BHOJPURI/images/LOGO_HD/image.png"
-  },
-  {
-    "name": "Zee Biskope",
-    "type": "Regional",
-    "url": "https://companion-live-play1.streamready.in/live/med12/zee_biskope/ndashd/zee_biskope.mpd?%7Ccookie=Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9jb21wYW5pb24tbGl2ZS1wbGF5MS5zdHJlYW1yZWFkeS5pbi9saXZlL21lZDEyLTIvemVlX2Jpc2tvcGUvbmRhc2hkLw==:Expires=1754567113:KeyName=iptv-prod-media-cdn-keys:Signature=fTSn9xwvL6LmeF9CG-8X2qTwDl70k0FEwMrJHYIwTA2J13MXWV81CWIapj7jQc-G66sRsdoNMp4uUCOqhLVEAQ==",
-    "img": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZEE_BISKOPE/images/LOGO_HD/image.png"
-  },
-  {
-    "name": "Filamchi Bhojpuri",
-    "type": "Regional",
-    "url": "https://companion-live-play1.streamready.in/live/med14/filamchi_bhojpuri/ndashd/filamchi_bhojpuri.mpd?%7Ccookie=Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9jb21wYW5pb24tbGl2ZS1wbGF5MS5zdHJlYW1yZWFkeS5pbi9saXZlL21lZDE0LTIvZmlsYW1jaGlfYmhvanB1cmkvbmRhc2hkLw==:Expires=1754563512:KeyName=iptv-prod-media-cdn-keys:Signature=suk6mpHmMWkve1E6ZQTu8QKTQ6mJoLQcREiCAKic1M5XFgBg5Qff4o3n1-Kn7mRrj0SKWxOyeZTm9IWU8wAkAA==",
-    "img": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_FILAMCHI_BHOJPURI/images/LOGO_HD/image.png"
-  },
-  {
-    "name": "Zee Bangla",
-    "type": "Regional",
-    "url": "https://companion-live-play1.streamready.in/live/med12-2/zee_bangla/ndashd/zee_bangla.mpd?%7Ccookie=Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9jb21wYW5pb24tbGl2ZS1wbGF5MS5zdHJlYW1yZWFkeS5pbi9saXZlL21lZDEyLTIvemVlX2JhbmdsYS9uZGFzaGQv:Expires=1754563513:KeyName=iptv-prod-media-cdn-keys:Signature=pB1YvG_LCZuitEew5IieZI1JWQb9YSPlQDHBBOd1_FewFXZ7WCWYzP6EowbIzKZgsYA7yK_8_5xwVied5TrmDQ==",
-    "img": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZEE_BANGLA/images/LOGO_HD/image.png"
-  },
-  {
-    "name": "Sony 8",
-    "type": "Regional",
-    "url": "https://companion-live-play1.streamready.in/live/med14-2/sony_aath/ndashd/sony_aath.mpd?%7Ccookie=Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9jb21wYW5pb24tbGl2ZS1wbGF5MS5zdHJlYW1yZWFkeS5pbi9saXZlL21lZDE0LTIvc29ueV9hYXRoL25kYXNoZC8=:Expires=1754575220:KeyName=iptv-prod-media-cdn-keys:Signature=lGRhZvfq424m0GhzbVEEngO5gy6acIzD51R3lZNqo0WoTEvF6d7VI1HFHY8Tc1Dg4y8MzsY0led533TZJ4PeDg==",
-    "img": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SONY_8/images/LOGO_HD/image.png"
-  },
-  {
-    "name": "Enterr10 Bangla",
-    "type": "Regional",
-    "url": "https://companion-live-play1.streamready.in/live/med1-2/enterr10_bangla/ndashd/enterr10_bangla.mpd?%7Ccookie=Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9jb21wYW5pb24tbGl2ZS1wbGF5MS5zdHJlYW1yZWFkeS5pbi9saXZlL21lZDEtMi9lbnRlcnIxMF9iYW5nbGEvbmRhc2hkLw==:Expires=1754568017:KeyName=iptv-prod-media-cdn-keys:Signature=_cQiUN4k5qTUM-P_AUBHpHBw8FsF7-vfFlGiu_n46pqok5DubQA_r_y_O6Rao_qU0nkL1YI_j91ch6AACB0ZCA==",
-    "img": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ENTERR10_BANGLA/images/LOGO_HD/image.png"
-  },
-  {
-    "name": "Zee Bangla Cinema",
-    "type": "Regional",
-    "url": "https://companion-live-play1.streamready.in/live/med12-2/zee_bangla_cinema/ndashd/zee_bangla_cinema.mpd?%7Ccookie=Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9jb21wYW5pb24tbGl2ZS1wbGF5MS5zdHJlYW1yZWFkeS5pbi9saXZlL21lZDEyLTIvemVlX2JhbmdsYV9jaW5lbWEvbmRhc2hkLw==:Expires=1754570716:KeyName=iptv-prod-media-cdn-keys:Signature=u4lTtT8tTIDSADfxb4Pn-yxl3yxa2ah0vZQpi86ohX_uFFbrxKn8B7daMTj9epOUCkaU3L_F9aY5Ai-Y_3kVCQ==",
-    "img": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZEE_BANGLA_CINEMA/images/LOGO_HD/image.png"
-  },
-  {
-    "name": "DD Bangla",
-    "type": "Regional",
-    "url": "https://companion-live-play1.streamready.in/live/med1-2/dd_bangla/ndashd/dd_bangla.mpd?%7Ccookie=Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9jb21wYW5pb24tbGl2ZS1wbGF5MS5zdHJlYW1yZWFkeS5pbi9saXZlL21lZDEtMi9kZF9iYW5nbGEvbmRhc2hkLw==:Expires=1754575220:KeyName=iptv-prod-media-cdn-keys:Signature=OT3IWVcIxZsztTAOKbMyXtNYl1UEB1u17u3Czs3ecmmo_RMa8QJ8l47UBoCLUkqvjrUaFFmGPoszecKxNKmuBw==",
-    "img": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_DD_BANGLA/images/LOGO_HD/image.png"
-  },
-  {
-    "name": "Raj Digital Plus",
-    "type": "Regional",
-    "url": "https://companion-live-play1.streamready.in/live/med3-2/raj_digital_plus/ndashd/raj_digital_plus.mpd?%7Ccookie=Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9jb21wYW5pb24tbGl2ZS1wbGF5MS5zdHJlYW1yZWFkeS5pbi9saXZlL21lZDMtMi9yYWpfZGlnaXRhbF9wbHVzL25kYXNoZC8=:Expires=1754575220:KeyName=iptv-prod-media-cdn-keys:Signature=QY0YnKpgax3Q34BAIP97nPH9Nw0cBs3j3rhpueeatvcuQt665Q4lo3eu8DMw6s99b9ljZGEgCMwJdwgS7K5jCQ==",
-    "img": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_RAJ_DIGITAL_PLUS/images/LOGO_HD/image.png"
-  },
-  {
-    "name": "Mega TV",
-    "type": "Regional",
-    "url": "https://companion-live-play1.streamready.in/live/med2-2/mega_tv/ndashd/mega_tv.mpd?%7Ccookie=Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9jb21wYW5pb24tbGl2ZS1wbGF5MS5zdHJlYW1yZWFkeS5pbi9saXZlL21lZDItMi9tZWdhX3R2L25kYXNoZC8=:Expires=1754575220:KeyName=iptv-prod-media-cdn-keys:Signature=iGJ5eL4QBvwhYdOAzxgHB3C9sUL4Lx4UWI1WqQLmQYuW14lMIIFjYM-Vx3XMAnkPExi1rNqC3_qYCJ7PmNv7Cw==",
-    "img": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_MEGA_TV/images/LOGO_HD/image.png"
-  },
-  {
-    "name": "ZEE TAMIZH",
-    "type": "Regional",
-    "url": "https://companion-live-play1.streamready.in/live/med12-2/zee_tamizh/ndashd/zee_tamizh.mpd?%7Ccookie=Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9jb21wYW5pb24tbGl2ZS1wbGF5MS5zdHJlYW1yZWFkeS5pbi9saXZlL21lZDEyLTIvemVlX3RhbWl6aC9uZGFzaGQv:Expires=1754571619:KeyName=iptv-prod-media-cdn-keys:Signature=RfOHYaSDwTQlBW3Lv8uTAf3bpNQdgUJJsbuOHWWkO-3Uyd_sMsk2_nLN-n55NhMJBbp1aqG10BqXrHxNqqUgDw==",
-    "img": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZEE_TAMIZH/images/LOGO_HD/image.png"
-  },
-  {
-    "name": "Puthu Yugam",
-    "type": "Regional",
-    "url": "https://companion-live-play1.streamready.in/live/med3/puthu_yugam/ndashd/puthu_yugam.mpd?%7Ccookie=Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9jb21wYW5pb24tbGl2ZS1wbGF5MS5zdHJlYW1yZWFkeS5pbi9saXZlL21lZDMtMi9wdXRodV95dWdhbS9uZGFzaGQv:Expires=1754563513:KeyName=iptv-prod-media-cdn-keys:Signature=KapkUQ2hRGekvK2CohyuxrcG9k0Ws7I_X_80WlNdr0k8A6aXuOCvSMBG6bueziATLMe1GhA3MLybqf3sD4EdBw==",
-    "img": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_PUTHU_YUGAM/images/LOGO_HD/image.png"
-  },
-  {
-    "name": "Kalaignar TV",
-    "type": "Regional",
-    "url": "https://companion-live-play1.streamready.in/live/med13/kalaignar_tv/ndashd/kalaignar_tv.mpd?%7Ccookie=Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9jb21wYW5pb24tbGl2ZS1wbGF5MS5zdHJlYW1yZWFkeS5pbi9saXZlL21lZDEzLTIva2FsYWlnbmFyX3R2L25kYXNoZC8=:Expires=1754575220:KeyName=iptv-prod-media-cdn-keys:Signature=60JuV4HXnnPkBKN45rd-QcF-ox6iigfr2EtYJgtnbXoV0rfKFGaTV7x_bPaqW17lVniqbcPF6cLnHTWpudAEDQ==",
-    "img": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_KALAIGNAR_TV/images/LOGO_HD/image.png"
-  },
-  {
-    "name": "Jaya TV",
-    "type": "Regional",
-    "url": "https://companion-live-play1.streamready.in/live/med6/jaya_tv/ndashd/jaya_tv.mpd?%7Ccookie=Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9jb21wYW5pb24tbGl2ZS1wbGF5MS5zdHJlYW1yZWFkeS5pbi9saXZlL21lZDYtMi9qYXlhX3R2L25kYXNoZC8=:Expires=1754570716:KeyName=iptv-prod-media-cdn-keys:Signature=RXHuqt7MlGdIfxfftmMHY-TCv4bpiRDAXDbqKZBVXq8vHtWjD1SPWPH15OpEtzukxoSnZzT2KF8N4EeYaxfxBw==",
-    "img": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_JAYA_TV/images/LOGO_HD/image.png"
-  },
-  {
-    "name": "Raj TV",
-    "type": "Regional",
-    "url": "https://companion-live-play1.streamready.in/live/med3/raj_tv/ndashd/raj_tv.mpd?%7Ccookie=Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9jb21wYW5pb24tbGl2ZS1wbGF5MS5zdHJlYW1yZWFkeS5pbi9saXZlL21lZDMtMi9yYWpfdHYvbmRhc2hkLw==:Expires=1754567114:KeyName=iptv-prod-media-cdn-keys:Signature=fuLmnQ38b5SxG1kF9LSR0ZzusR9_afvQsXGGkzKfmxZNkfLokI7-MjPo5S3eDjJ5tTWWJFypJOJU_X7rnAM7BQ==",
-    "img": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_RAJ_TV/images/LOGO_HD/image.png"
-  },
-  {
-    "name": "Sirippoli",
-    "type": "Regional",
-    "url": "https://companion-live-play1.streamready.in/live/med4-2/sirippoli/ndashd/sirippoli.mpd?%7Ccookie=Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9jb21wYW5pb24tbGl2ZS1wbGF5MS5zdHJlYW1yZWFkeS5pbi9saXZlL21lZDQtMi9zaXJpcHBvbGkvbmRhc2hkLw==:Expires=1754572512:KeyName=iptv-prod-media-cdn-keys:Signature=W_RIpiiIZihuVKIPF8LBtmJBpnO5h6qz_xHjG7Gz5-dhQS1bhROPDQkhT2G8tEbgNZcOAY8ce4Xp4StFOoHdAQ==",
-    "img": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SIRIPPOLI/images/LOGO_HD/image.png"
-  },
-  {
-    "name": "Vasanth TV",
-    "type": "Regional",
-    "url": "https://companion-live-play1.streamready.in/live/med14/vasanth_tv/ndashd/vasanth_tv.mpd?%7Ccookie=Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9jb21wYW5pb24tbGl2ZS1wbGF5MS5zdHJlYW1yZWFkeS5pbi9saXZlL21lZDE0LTIvdmFzYW50aF90di9uZGFzaGQv:Expires=1754570716:KeyName=iptv-prod-media-cdn-keys:Signature=Y7uD-zq5jp30Iw4OKaesjofan2_Xyde72omy1mIcuPwm35wNhuHbd6u6UeC1OstbATLd1YLiZniCo1dbJ-71Ag==",
-    "img": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_VASANTH_TV/images/LOGO_HD/image.png"
-  },
-  {
-    "name": "Mega 24",
-    "type": "Regional",
-    "url": "https://companion-live-play1.streamready.in/live/med13-2/mega_24/ndashd/mega_24.mpd?%7Ccookie=Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9jb21wYW5pb24tbGl2ZS1wbGF5MS5zdHJlYW1yZWFkeS5pbi9saXZlL21lZDEzLTIvbWVnYV8yNC9uZGFzaGQv:Expires=1754567115:KeyName=iptv-prod-media-cdn-keys:Signature=J5QosWz0jdbAcJ79olDHSFkpCXzxKbpEpl2VjcvH8lukPK1vetuy-e8vYWa6jFOIHjIVK9itHju2TUJcTjaQBA==",
-    "img": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_MEGA_24/images/LOGO_HD/image.png"
-  },
-  {
-    "name": "J Movies",
-    "type": "Regional",
-    "url": "https://companion-live-play1.streamready.in/live/med2/j_movies/ndashd/j_movies.mpd?%7Ccookie=Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9jb21wYW5pb24tbGl2ZS1wbGF5MS5zdHJlYW1yZWFkeS5pbi9saXZlL21lZDItMi9qX21vdmllcy9uZGFzaGQv:Expires=1754572512:KeyName=iptv-prod-media-cdn-keys:Signature=9rDVdVgxq2oBm4XmnwpzIpXhKjb4WoS0qtYwxnXOBnXkiefM-9ptwCgASc1mC2MkAgBxFoi4mUE0NCKsrihZAw==",
-    "img": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_J_MOVIES/images/LOGO_HD/image.png"
-  },
-  {
-    "name": "Isai Aruvi",
-    "type": "Regional",
-    "url": "https://companion-live-play1.streamready.in/live/med2-2/isai_aruvi/ndashd/isai_aruvi.mpd?%7Ccookie=Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9jb21wYW5pb24tbGl2ZS1wbGF5MS5zdHJlYW1yZWFkeS5pbi9saXZlL21lZDItMi9pc2FpX2FydXZpL25kYXNoZC8=:Expires=1754571620:KeyName=iptv-prod-media-cdn-keys:Signature=H2Zw92oJR4MqDqwm45FWjuFCaFJM4YIo-wRjefLb4Zt2-c7ozsQrCZjEyon9377esvnOOOXKRxFtuWapiGjPCQ==",
-    "img": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ISAI_ARUVI/images/LOGO_HD/image.png"
-  },
-  {
-    "name": "Jaya Max",
-    "type": "Regional",
-    "url": "https://companion-live-play1.streamready.in/live/med2/jaya_max/ndashd/jaya_max.mpd?%7Ccookie=Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9jb21wYW5pb24tbGl2ZS1wbGF5MS5zdHJlYW1yZWFkeS5pbi9saXZlL21lZDItMi9qYXlhX21heC9uZGFzaGQv:Expires=1754572513:KeyName=iptv-prod-media-cdn-keys:Signature=92gRFRZ8cM4LxP1_XLS73ClSvFPjzs90t6tRvFvrZx4FuwYtk2EyHp9n3yjeMWkflUmxcsU0ktN2hCxB-51LAQ==",
-    "img": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_JAYA_MAX/images/LOGO_HD/image.png"
-  },
-  {
-    "name": "Mazhavil Manorama",
-    "type": "Regional",
-    "url": "https://companion-live-play1.streamready.in/live/med2-2/mazhavil_manorama/ndashd/mazhavil_manorama.mpd?%7Ccookie=Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9jb21wYW5pb24tbGl2ZS1wbGF5MS5zdHJlYW1yZWFkeS5pbi9saXZlL21lZDItMi9tYXpoYXZpbF9tYW5vcmFtYS9uZGFzaGQv:Expires=1754575220:KeyName=iptv-prod-media-cdn-keys:Signature=0AN-blndPW4Qj3bQkaCBEfbdgoHwKIf7ZbfxCrw6-7hQqlvUkq1D6ytHvKMXPc_I0vlEY8ya4tmETTaYc40oBw==",
-    "img": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_MAZHAVIL_MANORAMA/images/LOGO_HD/image.png"
-  },
-  {
-    "name": "Zee Keralam",
-    "type": "Regional",
-    "url": "https://companion-live-play1.streamready.in/live/med12/zee_keralam/ndashd/zee_keralam.mpd?%7Ccookie=Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9jb21wYW5pb24tbGl2ZS1wbGF5MS5zdHJlYW1yZWFkeS5pbi9saXZlL21lZDEyLTIvemVlX2tlcmFsYW0vbmRhc2hkLw==:Expires=1754567120:KeyName=iptv-prod-media-cdn-keys:Signature=SjCxsr3ENgAa5zdWMaPOtYFk10OB_UJ6kkG-aSsIOU9NoqqMxk7DqyZMWXrPniH-k1GrA93GtWglhG4mkCA2CQ==",
-    "img": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZEE_KERALAM/images/LOGO_HD/image.png"
-  },
-  {
-    "name": "Flowers TV",
-    "type": "Regional",
-    "url": "https://companion-live-play1.streamready.in/live/med2/flowers_tv/ndashd/flowers_tv.mpd?%7Ccookie=Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9jb21wYW5pb24tbGl2ZS1wbGF5MS5zdHJlYW1yZWFkeS5pbi9saXZlL21lZDItMi9mbG93ZXJzX3R2L25kYXNoZC8=:Expires=1754574317:KeyName=iptv-prod-media-cdn-keys:Signature=N4bRWI9F9JDBT-hSFsy2mjIZbQyjY-1NCW2eaJF0UNz1NswMvX3k3KO1KU3cQpMoy5KGy3v6Efgtuxk63YV4BQ==",
-    "img": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_FLOWERS_TV/images/LOGO_HD/image.png"
-  },
-  {
-    "name": "Zee Telugu",
-    "type": "Regional",
-    "url": "https://companion-live-play1.streamready.in/live/med12/zee_telugu/ndashd/zee_telugu.mpd?%7Ccookie=Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9jb21wYW5pb24tbGl2ZS1wbGF5MS5zdHJlYW1yZWFkeS5pbi9saXZlL21lZDEyLTIvemVlX3RlbHVndS9uZGFzaGQv:Expires=1754573416:KeyName=iptv-prod-media-cdn-keys:Signature=FZBpBRoEo1sE1sKIgFBkbxY8v3QW7Cxejz75I4h7xFdyNvnaNCtCLeSQs61Ze9rzvRjU4fm9FcIQKKZOrHWZDw==",
-    "img": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZEE_TELUGU/images/LOGO_HD/image.png"
-  },
-  {
-    "name": "Zee Cinemalu",
-    "type": "Regional",
-    "url": "https://companion-live-play1.streamready.in/live/med12/zee_cinemalu/ndashd/zee_cinemalu.mpd?%7Ccookie=Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9jb21wYW5pb24tbGl2ZS1wbGF5MS5zdHJlYW1yZWFkeS5pbi9saXZlL21lZDEyLTIvemVlX2NpbmVtYWx1L25kYXNoZC8=:Expires=1754573416:KeyName=iptv-prod-media-cdn-keys:Signature=JgSx8dKO1O0uQUomjhUvBkiMx_m24EPT4OMODzdLP4cfICPNM6LnrF1p_bWm5JjB7bQbeDHFVHVsIVnN6b_0Dg==",
-    "img": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZEE_CINEMALU/images/LOGO_HD/image.png"
-  },
-  {
-    "name": "10TV",
-    "type": "Regional",
-    "url": "https://companion-live-play1.streamready.in/live/med1/10tv/ndashd/10tv.mpd?%7Ccookie=Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9jb21wYW5pb24tbGl2ZS1wbGF5MS5zdHJlYW1yZWFkeS5pbi9saXZlL21lZDEtMi8xMHR2L25kYXNoZC8=:Expires=1754573416:KeyName=iptv-prod-media-cdn-keys:Signature=2cS85ioJMCr_TKt9SKVFXTW0NLmpLsywxTT2kjWKcozSel3Ox6QPUpZbg-q0o9hc9PJtTOjnaSmgiSfB_EOXBw==",
-    "img": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_10TV/images/LOGO_HD/image.png"
-  },
-  {
-    "name": "DD Yadagiri",
-    "type": "Regional",
-    "url": "https://companion-live-play1.streamready.in/live/med10/dd_yadagiri/ndashd/dd_yadagiri.mpd?%7Ccookie=Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9jb21wYW5pb24tbGl2ZS1wbGF5MS5zdHJlYW1yZWFkeS5pbi9saXZlL21lZDEwLTIvZGRfeWFkYWdpcmkvbmRhc2hkLw==:Expires=1754571620:KeyName=iptv-prod-media-cdn-keys:Signature=7E2mF_KMEkp-kpQX2h1_-x9yoIm1VKkDiDfHKdJObJKym6gTWh8cm0Bv8Z4BTYHgoEfuo4CLxUMpE69cGRyOCA==",
-    "img": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_DD_YADAGIRI/images/LOGO_HD/image.png"
-  },
-  {
-    "name": "DD Saptagiri",
-    "type": "Regional",
-    "url": "https://companion-live-play1.streamready.in/live/med10/dd_saptagiri/ndashd/dd_saptagiri.mpd?%7Ccookie=Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9jb21wYW5pb24tbGl2ZS1wbGF5MS5zdHJlYW1yZWFkeS5pbi9saXZlL21lZDEwLTIvZGRfc2FwdGFnaXJpL25kYXNoZC8=:Expires=1754571620:KeyName=iptv-prod-media-cdn-keys:Signature=L6JkC6kozgBS4K-QYGtMeeYGGoLmCCHVVV0SNQb2FiKB3lnykQp1N-LVrzQclTZzhDK_cx4Tn-OxfdXasVy0Bw==",
-    "img": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_DD_SAPTAGIRI/images/LOGO_HD/image.png"
-  },
-  {
-    "name": "PUBLIC MOVIES",
-    "type": "Regional",
-    "url": "https://companion-live-play1.streamready.in/live/med14/public_movies/ndashd/public_movies.mpd?%7Ccookie=Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9jb21wYW5pb24tbGl2ZS1wbGF5MS5zdHJlYW1yZWFkeS5pbi9saXZlL21lZDE0LTIvcHVibGljX21vdmllcy9uZGFzaGQv:Expires=1754570716:KeyName=iptv-prod-media-cdn-keys:Signature=T6TsqnQ7Cl8jJJ-Mzn9ZPxxP4WkS7LNglqXpSaKpP5LMkAGLQJFvIha-Jj2KwD7g68gmFYCAvH4a6cF8XzRbDg==",
-    "img": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_PUBLIC_MOVIES/images/LOGO_HD/image.png"
-  },
-  {
-    "name": "Zee Picchar",
-    "type": "Regional",
-    "url": "https://companion-live-play1.streamready.in/live/med13/zee_picchar/ndashd/zee_picchar.mpd?%7Ccookie=Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9jb21wYW5pb24tbGl2ZS1wbGF5MS5zdHJlYW1yZWFkeS5pbi9saXZlL21lZDEzLTIvemVlX3BpY2NoYXIvbmRhc2hkLw==:Expires=1754575221:KeyName=iptv-prod-media-cdn-keys:Signature=H2MExGMeECp1jUgYuwRdu54JmmiqZah4TFjS46R0q7326ejoJJ61ylufXU5NTJA9YGjc6Wi7ZrLYY8T-31r-AA==",
-    "img": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZEE_PICCHAR/images/LOGO_HD/image.png"
-  },
-  {
-    "name": "Public TV",
-    "type": "Regional",
-    "url": "https://companion-live-play1.streamready.in/live/med3/public_tv/ndashd/public_tv.mpd?%7Ccookie=Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9jb21wYW5pb24tbGl2ZS1wbGF5MS5zdHJlYW1yZWFkeS5pbi9saXZlL21lZDMtMi9wdWJsaWNfdHYvbmRhc2hkLw==:Expires=1754567119:KeyName=iptv-prod-media-cdn-keys:Signature=XVS-jdTG_-KmaXw22I4RripmOIREV_S3tFyHi6Mj9hdNAkDeS1YeQ_pBrbix-DAPTn3hBzfeyZ65bNe4TgK-Cg==",
-    "img": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_PUBLIC_TV/images/LOGO_HD/image.png"
-  },
-  {
-    "name": "DD Chandana",
-    "type": "Regional",
-    "url": "https://companion-live-play1.streamready.in/live/med10/dd_chandana/ndashd/dd_chandana.mpd?%7Ccookie=Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9jb21wYW5pb24tbGl2ZS1wbGF5MS5zdHJlYW1yZWFkeS5pbi9saXZlL21lZDEwLTIvZGRfY2hhbmRhbmEvbmRhc2hkLw==:Expires=1754574318:KeyName=iptv-prod-media-cdn-keys:Signature=s4fvDqIgR6gTH75hQizpqjhaWanL1qK0lLBPftX4fEwZ9kT-9yQmZynrwPVgk2qtVHXmETrpXHa_jIOJa1SeAA==",
-    "img": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_DD_CHANDANA/images/LOGO_HD/image.png"
-  },
-  {
-    "name": "DD Tamil",
-    "type": "Regional",
-    "url": "https://companion-live-play1.streamready.in/live/med1/dd_tamil/ndashd/dd_tamil.mpd?%7Ccookie=Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9jb21wYW5pb24tbGl2ZS1wbGF5MS5zdHJlYW1yZWFkeS5pbi9saXZlL21lZDEtMi9kZF90YW1pbC9uZGFzaGQv:Expires=1754572513:KeyName=iptv-prod-media-cdn-keys:Signature=wV5_dA_E9SNvVqJ9n-ixsZFPv5hg5elhZ_hpMttnjRjms_BSL-5hXBcnq95YQK9REIT7s94e6BmGo8ZQFgHQBA==",
-    "img": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_DD_TAMIL/images/LOGO_HD/image.png"
-  },
-  {
-    "name": "Zee Tamil HD",
-    "type": "Regional",
-    "url": "https://companion-live-play1.streamready.in/live/med16-2/zee_tamil_hd/ndashhd/zee_tamil_hd.mpd?%7Ccookie=Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9jb21wYW5pb24tbGl2ZS1wbGF5MS5zdHJlYW1yZWFkeS5pbi9saXZlL21lZDE2LTIvemVlX3RhbWlsX2hkL25kYXNoaGQv:Expires=1754570718:KeyName=iptv-prod-media-cdn-keys:Signature=IhGGYJTBStGR_nokNFAHfsBJN2xsjRu7N-6ydQEz5F0ZA8XbwAV370RPXsmtdoAhiQSockwoyKtU119Y8z9sCg==",
-    "img": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZEE_TAMIL_HD/images/LOGO_HD/image.png"
-  },
-  {
-    "name": "Zee Telugu HD",
-    "type": "Regional",
-    "url": "https://companion-live-play1.streamready.in/live/med13-2/zee_telugu_hd/ndashhd/zee_telugu_hd.mpd?%7Ccookie=Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9jb21wYW5pb24tbGl2ZS1wbGF5MS5zdHJlYW1yZWFkeS5pbi9saXZlL21lZDEzLTIvemVlX3RlbHVndV9oZC9uZGFzaGhkLw==:Expires=1754570718:KeyName=iptv-prod-media-cdn-keys:Signature=U36OikAb9uLDKCHWyTr65F5qRO5nWUAr69RjyaeHlT_H3VFzSNXslNOGAts-1xfPi39MgH3ATQgmHt3dyCj4Bg==",
-    "img": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZEE_TELUGU_HD/images/LOGO_HD/image.png"
-  },
-  {
-    "name": "Zee Cinemalu HD",
-    "type": "Regional",
-    "url": "https://companion-live-play1.streamready.in/live/med14/zee_cinemalu_hd/ndashhd/zee_cinemalu_hd.mpd?%7Ccookie=Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9jb21wYW5pb24tbGl2ZS1wbGF5MS5zdHJlYW1yZWFkeS5pbi9saXZlL21lZDE0LTIvemVlX2NpbmVtYWx1X2hkL25kYXNoaGQv:Expires=1754567120:KeyName=iptv-prod-media-cdn-keys:Signature=x9Rus0rSm0b_JwUN8JtRg6eFNV5ocBiuiuam2jV2NzwsRXKv2VxIq62oR8D2navjpdqr-UpDOmYUDNKWo9uqDA==",
-    "img": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZEE_CINEMALU_HD/images/LOGO_HD/image.png"
-  },
-  {
-    "name": "Zee Kannada HD",
-    "type": "Regional",
-    "url": "https://companion-live-play1.streamready.in/live/med16-2/zee_kannada_hd/ndashhd/zee_kannada_hd.mpd?%7Ccookie=Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9jb21wYW5pb24tbGl2ZS1wbGF5MS5zdHJlYW1yZWFkeS5pbi9saXZlL21lZDE2LTIvemVlX2thbm5hZGFfaGQvbmRhc2hoZC8=:Expires=1754572514:KeyName=iptv-prod-media-cdn-keys:Signature=9kidz0MGQ-rqkegQqKPe_Wra_nghXrxgS3VASALTFGqiA2ea8QoxZ2PXRnPzF3WQCKHCQSwfLfzr0au28ONyDQ==",
-    "img": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZEE_KANNADA_HD/images/LOGO_HD/image.png"
-  },
-  {
-    "name": "BBC News",
-    "type": "International",
-    "url": "https://companion-live-play1.streamready.in/live/med2-2/bbc_news/ndashd/bbc_news.mpd?%7Ccookie=Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9jb21wYW5pb24tbGl2ZS1wbGF5MS5zdHJlYW1yZWFkeS5pbi9saXZlL21lZDItMi9iYmNfbmV3cy9uZGFzaGQv:Expires=1754570711:KeyName=iptv-prod-media-cdn-keys:Signature=Q41LJ9fZ3K2ESaKRCpJ-xto_SZGUMcZwwFi4G0C6TVWx9bOR2AHod14HQ7ww-bciM9UohcBvNZ8g-Y5Gtlu0CA==",
-    "img": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_BBC_NEWS/images/LOGO_HD/image.png"
-  },
-  {
-    "name": "Discovery Channel",
-    "type": "Infotainment",
-    "url": "https://companion-live-play1.streamready.in/live/med1-2/discovery_channel/ndashd/discovery_channel.mpd?%7Ccookie=Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9jb21wYW5pb24tbGl2ZS1wbGF5MS5zdHJlYW1yZWFkeS5pbi9saXZlL21lZDEtMi9kaXNjb3ZlcnlfY2hhbm5lbC9uZGFzaGQv:Expires=1754567111:KeyName=iptv-prod-media-cdn-keys:Signature=d54ehxu6O6iYV_Q_NLs53EbcDg3BA9bDTMb3_FBC_tvaf00IAFJWsUlwA6bonUyZ_dKlMiWJpCHSkm0r2n4XBA==",
-    "img": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_DISCOVERY_CHANNEL/images/LOGO_HD/image.png"
-  },
-  {
-    "name": "Discovery HD World",
-    "type": "Infotainment",
-    "url": "https://companion-live-play1.streamready.in/live/med14-2/discovery_hd_world/ndashhd/discovery_hd_world.mpd?%7Ccookie=Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9jb21wYW5pb24tbGl2ZS1wbGF5MS5zdHJlYW1yZWFkeS5pbi9saXZlL21lZDE0LTIvZGlzY292ZXJ5X2hkX3dvcmxkL25kYXNoaGQv:Expires=1754567111:KeyName=iptv-prod-media-cdn-keys:Signature=_jpi4pZndBj1Im8tSXOgL1sZ60Aab6UCgiMqaFsQ8mrvpgH9opnTY53qUTv6ZLRT-OqMK76Z23Au8l1B_PQZCA==",
-    "img": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_DISCOVERY_HD_WORLD/images/LOGO_HD/image.png"
-  },
-  {
-    "name": "Animal Planet",
-    "type": "Infotainment",
-    "url": "https://companion-live-play1.streamready.in/live/med1-2/animal_planet/ndashd/animal_planet.mpd?%7Ccookie=Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9jb21wYW5pb24tbGl2ZS1wbGF5MS5zdHJlYW1yZWFkeS5pbi9saXZlL21lZDEtMi9hbmltYWxfcGxhbmV0L25kYXNoZC8=:Expires=1754566213:KeyName=iptv-prod-media-cdn-keys:Signature=1nwtytyqJj_G5R-sL_R_CdNJ_GABfXBCl_FoHv_ZzdQukQpTwoCmC-ZorZwIwwMbbi-71vvA90j0C-ESr-vXBw==",
-    "img": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ANIMAL_PLANET/images/LOGO_HD/image.png"
-  },
-  {
-    "name": "Animal Planet World HD",
-    "type": "Infotainment",
-    "url": "https://companion-live-play1.streamready.in/live/med14-2/animal_planet_hd_world/ndashhd/animal_planet_hd_world.mpd?%7Ccookie=Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9jb21wYW5pb24tbGl2ZS1wbGF5MS5zdHJlYW1yZWFkeS5pbi9saXZlL21lZDE0LTIvYW5pbWFsX3BsYW5ldF9oZF93b3JsZC9uZGFzaGhkLw==:Expires=1754571616:KeyName=iptv-prod-media-cdn-keys:Signature=W3id5L9jOwIFV-VOu5GjOErAe2VZcUqP8vYTUcORTEaTqK0HDGT8VyxtsKfzfvj5t8EBs7IY94UiZ_qmH3JfDA==",
-    "img": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ANIMAL_PLANET_WORLD_HD/images/LOGO_HD/image.png"
-  },
-  {
-    "name": "Discovery Science",
-    "type": "Infotainment",
-    "url": "https://companion-live-play1.streamready.in/live/med13-2/discovery_science/ndashd/discovery_science.mpd?%7Ccookie=Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9jb21wYW5pb24tbGl2ZS1wbGF5MS5zdHJlYW1yZWFkeS5pbi9saXZlL21lZDEzLTIvZGlzY292ZXJ5X3NjaWVuY2UvbmRhc2hkLw==:Expires=1754574311:KeyName=iptv-prod-media-cdn-keys:Signature=0RI1C4niq9ADL9a95cFZebam2a9SgmZXsWnBshwaNIopEzc8TKfMP9E5RCp6xAQdlqlmYonqHdTMSAsgcZUiCg==",
-    "img": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_DISCOVERY_SCIENCE/images/LOGO_HD/image.png"
-  },
-  {
-    "name": "Discovery Turbo",
-    "type": "Infotainment",
-    "url": "https://companion-live-play1.streamready.in/live/med14-2/discovery_turbo/ndashd/discovery_turbo.mpd?%7Ccookie=Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9jb21wYW5pb24tbGl2ZS1wbGF5MS5zdHJlYW1yZWFkeS5pbi9saXZlL21lZDE0LTIvZGlzY292ZXJ5X3R1cmJvL25kYXNoZC8=:Expires=1754563510:KeyName=iptv-prod-media-cdn-keys:Signature=p5nR1IJIsfoD9tnSaYpYkJOqsefcdiH2KXxhnwVSgpkOyVfXofus7tfC8eNQ1OkkEP08K7GZPG4Ohgkl1j33Bg==",
-    "img": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_DISCOVERY_TURBO/images/LOGO_HD/image.png"
-  },
-  {
-    "name": "Sony BBC earth",
-    "type": "Infotainment",
-    "url": "https://companion-live-play1.streamready.in/live/med13-2/sony_bbc_earth/ndashd/sony_bbc_earth.mpd?%7Ccookie=Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9jb21wYW5pb24tbGl2ZS1wbGF5MS5zdHJlYW1yZWFkeS5pbi9saXZlL21lZDEzLTIvc29ueV9iYmNfZWFydGgvbmRhc2hkLw==:Expires=1754574311:KeyName=iptv-prod-media-cdn-keys:Signature=uW5d8Uj5xsFeud8aN3WMSSE26G1o4sR7v3upmjjkS3-DXeaAubCJnytRz7Qzcq-mS76UQlS0yzFP8pGATxO-DQ==",
-    "img": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SONY_BBC_EARTH/images/LOGO_HD/image.png"
-  },
-  {
-    "name": "Sony BBC earth HD",
-    "type": "Infotainment",
-    "url": "https://companion-live-play1.streamready.in/live/med15-2/sony_bbc_earth_hd/ndashhd/sony_bbc_earth_hd.mpd?%7Ccookie=Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9jb21wYW5pb24tbGl2ZS1wbGF5MS5zdHJlYW1yZWFkeS5pbi9saXZlL21lZDE1LTIvc29ueV9iYmNfZWFydGhfaGQvbmRhc2hoZC8=:Expires=1754570716:KeyName=iptv-prod-media-cdn-keys:Signature=XulcYA8Z6B4DBTWG5yRClZa8yHd2HFOW8DsRVcyOmMCBLrWmbS-Y0BYOKQ2cc0rbWnXK_KyPDyXP6Cjq74-0Bw==",
-    "img": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SONY_BBC_EARTH_HD/images/LOGO_HD/image.png"
-  },
-  {
-    "name": "SANSAD TV",
-    "type": "Infotainment",
-    "url": "https://companion-live-play1.streamready.in/live/med14-2/sansad_tv/ndashd/sansad_tv.mpd?%7Ccookie=Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9jb21wYW5pb24tbGl2ZS1wbGF5MS5zdHJlYW1yZWFkeS5pbi9saXZlL21lZDE0LTIvc2Fuc2FkX3R2L25kYXNoZC8=:Expires=1754567111:KeyName=iptv-prod-media-cdn-keys:Signature=UEdSNYV0enpxM5SYKZZVTjk6hEdaNSJ_-pkIXJiff8qCjKCMMZpu3cK28SPRlQ_Ejsi5qaHEui7ebwDhjB2PDA==",
-    "img": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SANSAD_TV/images/LOGO_HD/image.png"
-  },
-  {
-    "name": "SANSAD TV HD",
-    "type": "Infotainment",
-    "url": "https://companion-live-play1.streamready.in/live/med6-2/sansad_tv_hd/ndashhd/sansad_tv_hd.mpd?%7Ccookie=Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9jb21wYW5pb24tbGl2ZS1wbGF5MS5zdHJlYW1yZWFkeS5pbi9saXZlL21lZDYtMi9zYW5zYWRfdHZfaGQvbmRhc2hoZC8=:Expires=1754567111:KeyName=iptv-prod-media-cdn-keys:Signature=5inx2_FhztU_JXDwYWnQ9SjbcP3i53w-6Kgs9cRF_qmhYpSyfiaOq-YOylv56wJasjxsw3Wn-jsQiC18NepqAg==",
-    "img": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SANSAD_TV_HD/images/LOGO_HD/image.png"
-  },
-  {
-    "name": "Gyandarshan",
-    "type": "Infotainment",
-    "url": "https://companion-live-play1.streamready.in/live/med10-2/gyandarshan/ndashd/gyandarshan.mpd?%7Ccookie=Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9jb21wYW5pb24tbGl2ZS1wbGF5MS5zdHJlYW1yZWFkeS5pbi9saXZlL21lZDEwLTIvZ3lhbmRhcnNoYW4vbmRhc2hkLw==:Expires=1754570716:KeyName=iptv-prod-media-cdn-keys:Signature=mPShW_K8eL_u7L5VObXdBECXxDYNGBtRVlv8wYicqYqSGLBa0FtGnXSYrrw9IezDbHcQoZ3Z2nFY6Ng8eJ5XAA==",
-    "img": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_GYANDARSHAN/images/LOGO_HD/image.png"
-  },
-  {
-    "name": "D Tamil",
-    "type": "Infotainment",
-    "url": "https://companion-live-play1.streamready.in/live/med2/d_tamil/ndashd/d_tamil.mpd?%7Ccookie=Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9jb21wYW5pb24tbGl2ZS1wbGF5MS5zdHJlYW1yZWFkeS5pbi9saXZlL21lZDItMi9kX3RhbWlsL25kYXNoZC8=:Expires=1754567114:KeyName=iptv-prod-media-cdn-keys:Signature=jQL1k5tpCKfx2MQ7k4ghBd9k9nPMiLnx6cCsOleIpCcPdQ6YmBfQknMFt9QPK6LFRuiEhP7oKDLAtaLBDDoXDA==",
-    "img": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_D_TAMIL/images/LOGO_HD/image.png"
-  },
-  {
-    "name": "ZEE ZEST HD",
-    "type": "Infotainment",
-    "url": "https://companion-live-play1.streamready.in/live/med17-2/zee_zest_hd/ndashhd/zee_zest_hd.mpd?%7Ccookie=Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9jb21wYW5pb24tbGl2ZS1wbGF5MS5zdHJlYW1yZWFkeS5pbi9saXZlL21lZDE3LTIvemVlX3plc3RfaGQvbmRhc2hoZC8=:Expires=1754563519:KeyName=iptv-prod-media-cdn-keys:Signature=DC6mJ53RQO3vwTc-tT0qXTC7q4HGQXhIanlNh532sv_AaFo7qpnJxGZlKWc3MO1Ey50H7W2suCFuUW6V8uoYDw==",
-    "img": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZEE_ZEST_HD/images/LOGO_HD/image.png"
-  },
-  {
-    "name": "Jay JAGANNATH",
-    "type": "Devotional",
-    "url": "https://companion-live-play1.streamready.in/live/med13-2/jay_jagannath/ndashd/jay_jagannath.mpd?%7Ccookie=Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9jb21wYW5pb24tbGl2ZS1wbGF5MS5zdHJlYW1yZWFkeS5pbi9saXZlL21lZDEzLTIvamF5X2phZ2FubmF0aC9uZGFzaGQv:Expires=1754567113:KeyName=iptv-prod-media-cdn-keys:Signature=8lLepcQH0XLSLrXRwV1WlHSla7elCbtC7E3z5KA5MHMrk1FW_WHbdSbYhao1fwAQA9H5CfqsIszDSqNE_O2SBA==",
-    "img": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_JAY_JAGANNATH/images/LOGO_HD/image.png"
-  },
-  {
-    "name": "SIDHARTH UTSAV",
-    "type": "Devotional",
-    "url": "https://companion-live-play1.streamready.in/live/med14/sidharth_bhakti/ndashd/sidharth_bhakti.mpd?%7Ccookie=Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9jb21wYW5pb24tbGl2ZS1wbGF5MS5zdHJlYW1yZWFkeS5pbi9saXZlL21lZDE0LTIvc2lkaGFydGhfYmhha3RpL25kYXNoZC8=:Expires=1754575220:KeyName=iptv-prod-media-cdn-keys:Signature=QFX4vagW4uCpKiDIBr3-y6026-c1y0DFP4maz1xEfdImUYRMteZc7OUWjfrFkMANJiF9LB3OyoOnfBHLKZhlDg==",
-    "img": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SIDHARTH_BHAKTI/images/LOGO_HD/image.png"
-  },
-  {
-    "name": "Aastha",
-    "type": "Devotional",
-    "url": "https://companion-live-play1.streamready.in/live/med1-2/aastha/ndashd/aastha.mpd?%7Ccookie=Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9jb21wYW5pb24tbGl2ZS1wbGF5MS5zdHJlYW1yZWFkeS5pbi9saXZlL21lZDEtMi9hYXN0aGEvbmRhc2hkLw==:Expires=1754572512:KeyName=iptv-prod-media-cdn-keys:Signature=x3yGltcg_R1LRsOuNNxZpRHDjJbtKG-B_i6nVmme-XK0p7TaiLGilfW_jMML2eLfETRds-L805GVStVm_wUtBw==",
-    "img": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_AASTHA/images/LOGO_HD/image.png"
-  },
-  {
-    "name": "Sanskar",
-    "type": "Devotional",
-    "url": "https://companion-live-play1.streamready.in/live/med3-2/sanskar/ndashd/sanskar.mpd?%7Ccookie=Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9jb21wYW5pb24tbGl2ZS1wbGF5MS5zdHJlYW1yZWFkeS5pbi9saXZlL21lZDMtMi9zYW5za2FyL25kYXNoZC8=:Expires=1754572512:KeyName=iptv-prod-media-cdn-keys:Signature=IrxTzckg3agM_IZOA4YFEfpQvfACvpiSf7xZ7YO0zFzeiFrFcV451PPU6c3ZCwJBPYD6YJJ032cKwvQsSvrvAg==",
-    "img": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SANSKAR/images/LOGO_HD/image.png"
-  },
-  {
-    "name": "MH One Shraddha",
-    "type": "Devotional",
-    "url": "https://companion-live-play1.streamready.in/live/med4-2/mh_one_shraddha/ndashd/mh_one_shraddha.mpd?%7Ccookie=Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9jb21wYW5pb24tbGl2ZS1wbGF5MS5zdHJlYW1yZWFkeS5pbi9saXZlL21lZDQtMi9taF9vbmVfc2hyYWRkaGEvbmRhc2hkLw==:Expires=1754563512:KeyName=iptv-prod-media-cdn-keys:Signature=s4l_vUnAhIcawb_O4HgxqvGIyB11nsiYCqh6EZ8Kg1pzsRx4_MGY2ScxTxY515zOrZBwl5hVtXFh_YyYSNDjAQ==",
-    "img": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_MH_ONE_SHRADDHA/images/LOGO_HD/image.png"
-  },
-  {
-    "name": "Satsang",
-    "type": "Devotional",
-    "url": "https://companion-live-play1.streamready.in/live/med14-2/satsang/ndashd/satsang.mpd?%7Ccookie=Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9jb21wYW5pb24tbGl2ZS1wbGF5MS5zdHJlYW1yZWFkeS5pbi9saXZlL21lZDE0LTIvc2F0c2FuZy9uZGFzaGQv:Expires=1754567114:KeyName=iptv-prod-media-cdn-keys:Signature=ACYRN1f-Ko6R-JpxqKEiB7j86CTIstoL5sCyoh6Y3okjT9LsUv45WakUMC92L6UssqhBtQLjh_xh183QAuPbBA==",
-    "img": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SATSANG/images/LOGO_HD/image.png"
-  },
-  {
-    "name": "Bhakti TV",
-    "type": "Devotional",
-    "url": "https://companion-live-play1.streamready.in/live/med2/bhakti_tv/ndashd/bhakti_tv.mpd?%7Ccookie=Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9jb21wYW5pb24tbGl2ZS1wbGF5MS5zdHJlYW1yZWFkeS5pbi9saXZlL21lZDItMi9iaGFrdGlfdHYvbmRhc2hkLw==:Expires=1754571620:KeyName=iptv-prod-media-cdn-keys:Signature=C8TRQKIRYvA5G-BJ-cBrMFw8TflrjE271ldUN2IDZQfGQ9Cu_-lLMEviLB8pFx7mwu0Px8becBxxeQpWrrUDCw==",
-    "img": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_BHAKTI_TV/images/LOGO_HD/image.png"
-  },
-  {
-    "name": "Zee Thirai",
-    "type": "Regional Movies",
-    "url": "https://companion-live-play1.streamready.in/live/med12-2/zee_thirai/ndashd/zee_thirai.mpd?%7Ccookie=Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9jb21wYW5pb24tbGl2ZS1wbGF5MS5zdHJlYW1yZWFkeS5pbi9saXZlL21lZDEyLTIvemVlX3RoaXJhaS9uZGFzaGQv:Expires=1754572512:KeyName=iptv-prod-media-cdn-keys:Signature=FULS254pNTYZXafI6dzSaO4mf0aavzZNg1rIGnaB_sdQ_lyg5wkDhXgQMsZkzyN3cVBtvNn0VWSz_Ag5gW7DDQ==",
-    "img": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZEE_THIRAI/images/LOGO_HD/image.png"
   }
 ]
