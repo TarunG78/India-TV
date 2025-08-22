@@ -5,7 +5,8 @@ on:
     branches:
       - main  # Cambia esto si deseas que se ejecute en otra rama
   workflow_dispatch: # Permite ejecutar el flujo de trabajo manualmente
-
+  schedule:
+   - cron: '0 */3 * * *'
 jobs:
   convert:
     runs-on: ubuntu-latest
@@ -42,3 +43,4 @@ jobs:
           git commit -m "Update cricautoupdate.m3u file" || echo "No changes to commit" 
           git push origin HEAD:main  # Cambia  main` si utilizas otra rama
           
+
