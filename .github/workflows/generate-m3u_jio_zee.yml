@@ -4,7 +4,7 @@ on:
   workflow_dispatch:
   push:
     paths:
-      - 'generate_m3u_with_all_fields_extinf.py'
+      - 'jio_z_m3u_extra_fields.py'
       - 'full_channels.json'
 
 jobs:
