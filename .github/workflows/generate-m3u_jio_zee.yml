@@ -33,3 +33,10 @@ jobs:
         with:
           name: new_full_jio_zee.m3u
           path: new_full_jio_zee.m3u
+
+      - name: Commit and push changes
+        run: |
+          git add new_full_jio_zee.m3u  # Añadir el nuevo nombre del archivo M3U
+
+          git commit -m "Update new_full_jio_zee.m3u file" || echo "No changes to commit" 
+          git push origin HEAD:main  # Cambia  main` si utilizas otra rama 
